@@ -1,0 +1,55 @@
+2024-12-16 19:28:56,975 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029D36751FA0>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/2f6d613880b2922a03bdf0927da7e5c5/source
+2024-12-16 19:29:00,998 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029D36751610>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/2f6d613880b2922a03bdf0927da7e5c5/source
+2024-12-16 19:29:05,064 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029D36751A90>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/2f6d613880b2922a03bdf0927da7e5c5/source
+2024-12-17 20:02:00,518 - INFO - ====== WebDriver manager ======
+2024-12-17 20:02:01,392 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 20:02:01,934 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-17 20:02:02,403 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.108\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-18 17:02:14,950 - INFO - ====== WebDriver manager ======
+2024-12-18 17:02:16,031 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-18 17:02:17,623 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-18 17:02:18,097 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-18 17:02:19,094 - INFO - WebDriver version 131.0.6778.108 selected
+2024-12-18 17:02:19,102 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/win32/chromedriver-win32.zip
+2024-12-18 17:02:19,102 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/win32/chromedriver-win32.zip
+2024-12-18 17:02:19,565 - INFO - Driver downloading response is 200
+2024-12-18 17:02:22,500 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-18 17:02:23,075 - INFO - Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.108]
+2024-12-19 12:41:07,211 - INFO - ====== WebDriver manager ======
+2024-12-19 12:41:08,153 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-19 12:41:08,729 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-19 12:41:09,514 - INFO - There is no [win64] chromedriver "131.0.6778.204" for browser google-chrome "131.0.6778" in cache
+2024-12-19 12:41:09,514 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-19 12:41:10,579 - INFO - WebDriver version 131.0.6778.204 selected
+2024-12-19 12:41:10,587 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win32/chromedriver-win32.zip
+2024-12-19 12:41:10,587 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win32/chromedriver-win32.zip
+2024-12-19 12:41:11,095 - INFO - Driver downloading response is 200
+2024-12-19 12:41:13,645 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-19 12:41:14,404 - INFO - Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204]
+2024-12-19 12:58:37,544 - INFO - ====== WebDriver manager ======
+2024-12-19 12:58:38,360 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-19 12:58:38,880 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-19 12:58:39,367 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 15:36:41,825 - INFO - ====== WebDriver manager ======
+2024-12-23 15:36:42,726 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:36:43,120 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:36:43,469 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:36:44,362 - INFO - WebDriver version 131.0.6778.204 selected
+2024-12-23 15:36:44,366 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win32/chromedriver-win32.zip
+2024-12-23 15:36:44,366 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win32/chromedriver-win32.zip
+2024-12-23 15:36:44,786 - INFO - Driver downloading response is 200
+2024-12-23 15:36:48,095 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:36:48,764 - INFO - Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204]
+2024-12-23 15:47:20,178 - INFO - ====== WebDriver manager ======
+2024-12-23 15:47:21,008 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:47:21,481 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:47:21,870 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 15:48:19,605 - INFO - ====== WebDriver manager ======
+2024-12-23 15:48:20,470 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:48:20,883 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:48:21,293 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-02 10:50:40,768 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CD85528230>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/346334a96bcea6c0e7ed771c73dfe4f7/source
+2025-01-02 10:50:44,806 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001CD855282C0>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/346334a96bcea6c0e7ed771c73dfe4f7/source
+2025-01-06 12:58:01,129 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2D4285700>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/e8b62573173b1e038ce51d1123cc9455/source
+2025-01-06 12:58:05,168 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2D4285880>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/e8b62573173b1e038ce51d1123cc9455/source
+2025-01-06 12:58:09,238 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C2D42876B0>: Failed to establish a new connection: [WinError 10061] Hedef makine etkin olarak reddettiðinden baðlantý kurulamadý')': /session/e8b62573173b1e038ce51d1123cc9455/source
