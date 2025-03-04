@@ -1,0 +1,402 @@
+2024-12-23 15:52:22,631 - INFO - ====== WebDriver manager ======
+2024-12-23 15:52:23,601 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:52:23,995 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 15:52:24,349 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 16:00:22,800 - INFO - ====== WebDriver manager ======
+2024-12-23 16:00:23,738 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:00:24,201 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:00:24,557 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 16:06:12,896 - INFO - ====== WebDriver manager ======
+2024-12-23 16:06:13,817 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:06:14,220 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:06:14,572 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 16:34:51,009 - INFO - ====== WebDriver manager ======
+2024-12-23 16:34:51,896 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:34:52,250 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:34:52,602 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 16:36:24,139 - INFO - Son sayfaya ulaþýldý
+2024-12-23 16:54:47,299 - INFO - ====== WebDriver manager ======
+2024-12-23 16:54:48,254 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:54:48,609 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:54:48,964 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 16:54:55,258 - INFO - Son sayfaya ulaþýldý
+2024-12-23 16:55:05,866 - INFO - ====== WebDriver manager ======
+2024-12-23 16:55:06,713 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:55:07,110 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 16:55:07,457 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 16:55:13,653 - INFO - Son sayfaya ulaþýldý
+2024-12-23 17:00:18,373 - INFO - ====== WebDriver manager ======
+2024-12-23 17:00:19,328 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 17:00:19,688 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 17:00:20,069 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 17:00:24,965 - WARNING - Ürün listesi bulunamadý
+2024-12-23 17:00:38,466 - INFO - ====== WebDriver manager ======
+2024-12-23 17:00:39,310 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 17:00:39,701 - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-23 17:00:40,043 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\131.0.6778.204\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-23 17:00:46,228 - INFO - Son sayfaya ulaþýldý
+2025-02-25 23:21:00,076 - INFO - ====== WebDriver manager ======
+2025-02-25 23:21:03,093 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 23:21:03,369 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 23:21:03,564 - INFO - There is no [win64] chromedriver "133.0.6943.141" for browser google-chrome "133.0.6943" in cache
+2025-02-25 23:21:03,564 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 23:21:04,093 - INFO - WebDriver version 133.0.6943.141 selected
+2025-02-25 23:21:04,110 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-02-25 23:21:04,110 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-02-25 23:21:04,315 - INFO - Driver downloading response is 200
+2025-02-25 23:21:12,968 - INFO - Get LATEST chromedriver version for google-chrome
+2025-02-25 23:21:13,955 - INFO - Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141]
+2025-03-04 21:55:35,002 - INFO - ====== WebDriver manager ======
+2025-03-04 21:55:35,972 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 21:55:36,181 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 21:55:36,347 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 21:55:36,743 - INFO - WebDriver version 133.0.6943.141 selected
+2025-03-04 21:55:36,748 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-03-04 21:55:36,748 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/133.0.6943.141/win32/chromedriver-win32.zip
+2025-03-04 21:55:36,901 - INFO - Driver downloading response is 200
+2025-03-04 21:55:41,056 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 21:55:41,510 - INFO - Driver has been saved in cache [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141]
+2025-03-04 21:55:48,069 - INFO - Son sayfaya ulaþýldý
+2025-03-04 22:01:31,055 - INFO - ====== WebDriver manager ======
+2025-03-04 22:01:31,989 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:01:32,165 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:01:32,322 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:01:38,882 - INFO - Son sayfaya ulaþýldý
+2025-03-04 22:05:41,650 - INFO - ====== WebDriver manager ======
+2025-03-04 22:05:42,501 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:05:42,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:05:42,835 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:05:49,087 - INFO - Son sayfaya ulaþýldý
+2025-03-04 22:06:59,472 - INFO - ====== WebDriver manager ======
+2025-03-04 22:07:00,348 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:07:00,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:07:00,660 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:07:06,951 - INFO - Son sayfaya ulaþýldý
+2025-03-04 22:12:32,289 - INFO - ====== WebDriver manager ======
+2025-03-04 22:12:33,194 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:12:33,376 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:12:33,531 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:13:34,628 - INFO - Son sayfaya ulaþýldý
+2025-03-04 22:16:04,646 - INFO - ====== WebDriver manager ======
+2025-03-04 22:16:05,560 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:16:05,728 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:16:05,890 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:16:21,013 - INFO - Son sayfaya ulaþýldý
+2025-03-04 22:28:38,200 - INFO - ====== WebDriver manager ======
+2025-03-04 22:28:39,122 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:28:39,313 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:28:39,509 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:29:44,082 - INFO - Son sayfaya ulaþýldý
+2025-03-04 22:43:58,677 - INFO - ====== WebDriver manager ======
+2025-03-04 22:43:59,678 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:43:59,839 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:43:59,999 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:44:14,128 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:44:14,205 - ERROR - Ürün iþleme hatasý: 'charmap' codec can't encode characters in position 56-62: character maps to <undefined>
+2025-03-04 22:44:22,105 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:44:30,069 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:44:38,097 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:44:38,186 - ERROR - Ürün iþleme hatasý: 'charmap' codec can't encode characters in position 64-70: character maps to <undefined>
+2025-03-04 22:44:48,707 - INFO - ====== WebDriver manager ======
+2025-03-04 22:44:49,588 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:44:49,747 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-04 22:44:49,915 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\133.0.6943.141\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-04 22:45:03,478 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:45:03,596 - ERROR - Ürün iþleme hatasý: 'charmap' codec can't encode characters in position 56-62: character maps to <undefined>
+2025-03-04 22:45:11,511 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:45:19,312 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:45:27,492 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:45:27,654 - ERROR - Ürün iþleme hatasý: 'charmap' codec can't encode characters in position 64-70: character maps to <undefined>
+2025-03-04 22:45:35,577 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:45:43,611 - ERROR - Ürün iþleme hatasý: Message: no such element: element not found
+  (Session info: chrome=133.0.6943.142); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x004D0B43+25139]
+	(No symbol) [0x004613F4]
+	(No symbol) [0x003404E3]
+	(No symbol) [0x00351CA1]
+	(No symbol) [0x00350D70]
+	(No symbol) [0x00347992]
+	(No symbol) [0x00347A72]
+	(No symbol) [0x00345D3A]
+	(No symbol) [0x00349253]
+	(No symbol) [0x003CF765]
+	(No symbol) [0x003ACFCC]
+	(No symbol) [0x003CE778]
+	(No symbol) [0x003ACDC6]
+	(No symbol) [0x0037BDE9]
+	(No symbol) [0x0037D124]
+	GetHandleVerifier [0x007D4373+3185251]
+	GetHandleVerifier [0x007F291A+3309578]
+	GetHandleVerifier [0x007ECF42+3286578]
+	GetHandleVerifier [0x00567AE0+643536]
+	(No symbol) [0x0046A20D]
+	(No symbol) [0x004670B8]
+	(No symbol) [0x00467257]
+	(No symbol) [0x00459E00]
+	BaseThreadInitThunk [0x75B45D49+25]
+	RtlInitializeExceptionChain [0x7716CDEB+107]
+	RtlGetAppContainerNamedObjectPath [0x7716CD71+561]
+
+2025-03-04 22:45:43,777 - INFO - Son sayfaya ulaþýldý

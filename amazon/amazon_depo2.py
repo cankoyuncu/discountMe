@@ -13,6 +13,8 @@ import configparser
 from datetime import datetime
 from retry import retry
 from fake_useragent import UserAgent
+import configparser
+import time
 
 # Load configuration
 config = configparser.ConfigParser()
@@ -91,31 +93,118 @@ def get_products(driver, url):
                 logging.warning("Ürün listesi bulunamadı")
                 break
                 
+            # Ürün adı için daha güçlü bir yöntem
+
             for urun in tum_urunler:
                 try:
-                    # Ürün adı için birden fazla seçici deneme
-                    urun_adi = None
-                    selectors = [
-                        '#search > div.s-desktop-width-max.s-desktop-content.s-opposite-dir.s-wide-grid-style.sg-row > div.sg-col-20-of-24.s-matching-dir.sg-col-16-of-20.sg-col.sg-col-8-of-12.sg-col-12-of-16 > div > span.rush-component.s-latency-cf-section > div.s-main-slot.s-result-list.s-search-results.sg-row > div:nth-child(6) > div > div > span > div > div > div.a-section.a-spacing-small.puis-padding-left-small.puis-padding-right-small > div.a-section.a-spacing-none.a-spacing-top-small.s-title-instructions-style > a > h2'
-                        'span.a-size-base-plus.a-color-base.a-text-normal',
-                        'h2.a-size-base-plus.a-spacing-none.a-color-base.a-text-normal > span',
-                        'span.a-size-medium.a-color-base.a-text-normal',
-                        'a.a-link-normal.s-underline-text.s-underline-link-text.s-link-style.a-text-normal',
-                        '.a-size-base-plus',
-                        'h2 span.a-text-normal'
-                    ]
+                    # Önce ürün data-asin değerini alalım
+                    urun_asin = urun.get_attribute('data-asin')
+                    if not urun_asin:
+                        print("Ürün ASIN değeri bulunamadı, geçiliyor...")
+                        continue
+                        
+                    print(f"Bulunan ASIN: {urun_asin}")
                     
-                    for selector in selectors:
-                        try:
-                            element = urun.find_element(By.CSS_SELECTOR, selector)
-                            if element and element.text.strip():
-                                urun_adi = element.text.strip()
-                                break
-                        except:
-                            continue
-
+                    # Ürün adını farklı yöntemlerle almaya çalışalım
+                    urun_adi = None
+                    
+                    # 1. Yöntem: JavaScript ile doğrudan içeriği alma
+                    try:
+                        urun_adi = driver.execute_script("""
+                            var element = arguments[0];
+                            // Tüm h2 elementlerini deneyin
+                            var h2Elements = element.querySelectorAll('h2');
+                            if (h2Elements.length > 0) {
+                                for (var i = 0; i < h2Elements.length; i++) {
+                                    if (h2Elements[i].textContent.trim()) {
+                                        return h2Elements[i].textContent.trim();
+                                    }
+                                }
+                            }
+                            
+                            // Tüm a elementlerini deneyin
+                            var links = element.querySelectorAll('a[href*="/dp/"]');
+                            for (var i = 0; i < links.length; i++) {
+                                var titleElement = links[i].querySelector('h2, span.a-text-normal');
+                                if (titleElement && titleElement.textContent.trim()) {
+                                    return titleElement.textContent.trim();
+                                }
+                            }
+                            
+                            // Başlık içeren herhangi bir elementi deneyin
+                            var possibleTitles = element.querySelectorAll('.a-color-base, .a-text-normal, .a-size-base-plus');
+                            for (var i = 0; i < possibleTitles.length; i++) {
+                                if (possibleTitles[i].textContent.trim() && possibleTitles[i].textContent.length > 5) {
+                                    return possibleTitles[i].textContent.trim();
+                                }
+                            }
+                            
+                            return null;
+                        """, urun)
+                        
+                        if urun_adi:
+                            print(f"JS ile bulunan ürün adı: {urun_adi}")
+                    except Exception as e:
+                        print(f"JavaScript title extraction error: {str(e)}")
+                    
+                    # 2. Yöntem: CSS seçicileri (düzeltilmiş)
                     if not urun_adi:
-                        print("Urun adi bulunamadi - tüm seçiciler denendi")
+                        selectors = [
+                            'h2.a-size-base-plus > span',  # Daha spesifik seçici
+                            'a.a-link-normal.s-line-clamp-4 h2 span',  # Doğrudan HTML yapısına bakarak
+                            '.a-section a-spacing-none h2',
+                            'span.a-text-normal',
+                            'a[href*="/dp/"] h2',  # URL'den tahmin
+                            'a[href*="/dp/"] span',
+                            '.s-title-instructions-style h2 span',
+                            '.s-title-instructions-style span',
+                            'h2 > span',
+                            'div[data-component-type="s-search-result"] h2' # En genel haliyle
+                        ]
+                        
+                        for selector in selectors:
+                            try:
+                                element = urun.find_element(By.CSS_SELECTOR, selector)
+                                if element and element.text.strip():
+                                    urun_adi = element.text.strip()
+                                    print(f"CSS ile bulunan ürün adı: {urun_adi}")
+                                    break
+                            except:
+                                continue
+                    
+                    # 3. Yöntem: Ürün sayfasına gidip başlık almak
+                    if not urun_adi:
+                        try:
+                            urun_linki = urun.find_element(By.CSS_SELECTOR, 'a[href*="/dp/"]').get_attribute('href')
+                            
+                            if urun_linki:
+                                print(f"Ürün sayfasına gidiliyor: {urun_linki}")
+                                
+                                # Yeni sekme açmadan mevcut sayfada açalım
+                                current_url = driver.current_url
+                                driver.get(urun_linki)
+                                time.sleep(3)
+                                
+                                # Ürün başlığını sayfadan alalım
+                                try:
+                                    urun_adi = driver.find_element(By.ID, "productTitle").text.strip()
+                                    print(f"Ürün sayfasından alınan başlık: {urun_adi}")
+                                except:
+                                    pass
+                                    
+                                # Ana listeye geri dönelim
+                                driver.get(current_url)
+                                time.sleep(3)
+                        except Exception as e:
+                            print(f"Ürün sayfasına gitme hatası: {str(e)}")
+                    
+                    # 4. Yöntem: Son çare olarak ASIN ile devam etmek
+                    if not urun_adi and urun_asin:
+                        urun_adi = f"Amazon Ürün (ASIN: {urun_asin})"
+                        print(f"ASIN ile oluşturulan başlık: {urun_adi}")
+                    
+                    if not urun_adi:
+                        print("Urun adi bulunamadi - Tum yöntemler denendi")
                         continue
                         
                     print(f"Incelenen urun adi: {urun_adi}")
@@ -249,11 +338,13 @@ def get_products(driver, url):
                                             timeout=10 
                                         )
 
+                                        # Telegram mesaj gönderme düzeltmesi
                                         if response.status_code == 200:
-                                            print("Telegram mesaji basariyla gonderildi.")
+                                            logging.info(f"Telegram mesajı başarıyla gönderildi: {urun_adi}")
                                             break
                                         else:
-                                             print(f"Telegram API hatasi: {response.status_code} - {response.text}")
+                                            logging.error(f"Telegram mesajı gönderilemedi. Status code: {response.status_code}")
+                                            retry_count += 1
 
                                     except requests.exceptions.RequestException as e:
                                         print(f"Network error: {str(e)}")
