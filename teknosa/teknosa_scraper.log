@@ -1,0 +1,790 @@
+2025-03-05 12:14:58 - __main__ - INFO - Teknosa outlet taramasi baslatiliyor...
+2025-03-05 12:14:58 - WDM - INFO - ====== WebDriver manager ======
+2025-03-05 12:14:58 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 12:14:59 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 12:14:59 - WDM - INFO - Driver [/Users/can.koyuncu/.wdm/drivers/chromedriver/mac64/133.0.6943.141/chromedriver-mac-x64/chromedriver] found in cache
+2025-03-05 12:15:10 - __main__ - INFO - Sayfa 1 taraniyor...
+2025-03-05 12:15:10 - __main__ - INFO - Sayfa 1'de 20 adet ürün bulundu.
+2025-03-05 12:15:10 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 12:15:10 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 12:15:10 - root - INFO - Yeni urun kaydedildi: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET )
+2025-03-05 12:15:10 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:10 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 12:15:11 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 12:15:11 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 12:15:11 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 12:15:11 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 12:15:11 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:11 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:11 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:11 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 12:15:12 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:12 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:12 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:12 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 12:15:12 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:12 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:12 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:12 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 12:15:12 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:12 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:12 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:12 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 12:15:12 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:12 - root - INFO - Yeni urun kaydedildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:15:12 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:12 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=2
+2025-03-05 12:15:17 - __main__ - INFO - Sayfa 2 taraniyor...
+2025-03-05 12:15:17 - __main__ - INFO - Sayfa 2'de 20 adet ürün bulundu.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 12:15:17 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 12:15:17 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 12:15:17 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 12:15:17 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 12:15:17 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 12:15:17 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:17 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:17 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 12:15:18 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:18 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:18 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 12:15:18 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:18 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:18 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 12:15:18 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:18 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:18 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 12:15:18 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:18 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:18 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 12:15:18 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:18 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:18 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 12:15:18 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:18 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:18 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=3
+2025-03-05 12:15:23 - __main__ - INFO - Sayfa 3 taraniyor...
+2025-03-05 12:15:23 - __main__ - INFO - Sayfa 3'de 20 adet ürün bulundu.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 12:15:23 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 12:15:23 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 12:15:23 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 12:15:23 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 12:15:23 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 12:15:23 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 12:15:23 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 12:15:23 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 12:15:23 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 12:15:23 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:23 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:23 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 12:15:24 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:24 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:24 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=4
+2025-03-05 12:15:29 - __main__ - INFO - Sayfa 4 taraniyor...
+2025-03-05 12:15:29 - __main__ - INFO - Sayfa 4'de 20 adet ürün bulundu.
+2025-03-05 12:15:29 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 12:15:29 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 12:15:29 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:29 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 12:15:29 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 12:15:29 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:29 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 12:15:29 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:29 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:29 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 12:15:29 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:29 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:29 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 12:15:30 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 12:15:30 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 12:15:30 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 12:15:30 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:30 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:30 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 12:15:31 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:31 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:31 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 12:15:31 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:31 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:31 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 12:15:31 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:15:31 - root - WARNING - Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.
+2025-03-05 12:15:31 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=5
+2025-03-05 12:16:42 - __main__ - INFO - Teknosa outlet taramasi baslatiliyor...
+2025-03-05 12:16:42 - WDM - INFO - ====== WebDriver manager ======
+2025-03-05 12:16:42 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 12:16:43 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 12:16:43 - WDM - INFO - Driver [/Users/can.koyuncu/.wdm/drivers/chromedriver/mac64/133.0.6943.141/chromedriver-mac-x64/chromedriver] found in cache
+2025-03-05 12:16:52 - __main__ - INFO - Sayfa 1 taraniyor...
+2025-03-05 12:16:52 - __main__ - INFO - Sayfa 1'de 20 adet ürün bulundu.
+2025-03-05 12:16:52 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 12:16:52 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 12:16:52 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:52 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:53 - root - INFO - Telegram bildirimi gonderildi: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET )
+2025-03-05 12:16:53 - __main__ - INFO - Urun 800203057 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:53 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 12:16:53 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 12:16:53 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:53 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:53 - root - INFO - Telegram bildirimi gonderildi: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET )
+2025-03-05 12:16:53 - __main__ - INFO - Urun 800203059 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:53 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 12:16:53 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:16:53 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:53 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:54 - root - INFO - Telegram bildirimi gonderildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:16:54 - __main__ - INFO - Urun 800203145 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:54 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 12:16:54 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:16:54 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:54 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:54 - root - INFO - Telegram bildirimi gonderildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:16:54 - __main__ - INFO - Urun 800203147 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:54 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 12:16:54 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:16:54 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:54 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:54 - root - INFO - Telegram bildirimi gonderildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:16:54 - __main__ - INFO - Urun 800203149 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:54 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 12:16:55 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:16:55 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:55 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:58 - root - INFO - Telegram bildirimi gonderildi: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET )
+2025-03-05 12:16:58 - __main__ - INFO - Urun 800203151 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:58 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 12:16:58 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 12:16:58 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:58 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:58 - root - INFO - Telegram bildirimi gonderildi: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET )
+2025-03-05 12:16:58 - __main__ - INFO - Urun 800203159 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:58 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 12:16:58 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 12:16:58 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:58 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:59 - root - INFO - Telegram bildirimi gonderildi: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET )
+2025-03-05 12:16:59 - __main__ - INFO - Urun 800203163 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:59 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 12:16:59 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 12:16:59 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:59 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:16:59 - root - INFO - Telegram bildirimi gonderildi: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET )
+2025-03-05 12:16:59 - __main__ - INFO - Urun 800203171 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:16:59 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 12:16:59 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:16:59 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:16:59 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:17:00 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:17:00 - __main__ - INFO - Urun 800203303 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:17:00 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 12:17:00 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:17:00 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:17:00 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:17:06 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:17:06 - __main__ - INFO - Urun 800203305 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:17:06 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 12:17:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:17:06 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:17:06 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:17:06 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:17:06 - __main__ - INFO - Urun 800203307 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:17:06 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 12:17:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:17:06 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:17:06 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:17:07 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:17:07 - __main__ - INFO - Urun 800203309 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:17:07 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 12:17:07 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:17:07 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:17:07 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:17:07 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:17:07 - __main__ - INFO - Urun 800203311 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:17:07 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 12:17:07 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:17:07 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:17:07 - root - INFO - Chat ID: -1002277496773
+2025-03-05 12:17:08 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 12:17:08 - __main__ - INFO - Urun 800203313 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 12:17:08 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 12:17:08 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 12:17:08 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 12:17:08 - root - INFO - Chat ID: -1002277496773
+2025-03-05 13:09:13 - __main__ - INFO - Teknosa outlet taramasi baslatiliyor...
+2025-03-05 13:09:13 - WDM - INFO - ====== WebDriver manager ======
+2025-03-05 13:09:13 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 13:09:13 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-05 13:09:14 - WDM - INFO - Driver [/Users/can.koyuncu/.wdm/drivers/chromedriver/mac64/133.0.6943.141/chromedriver-mac-x64/chromedriver] found in cache
+2025-03-05 13:09:24 - __main__ - INFO - Sayfa 1 taraniyor...
+2025-03-05 13:09:24 - __main__ - INFO - Sayfa 1'de 20 adet ürün bulundu.
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:09:24 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:09:24 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:09:24 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:09:24 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:09:24 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:09:24 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:09:24 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:09:24 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:09:24 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:09:24 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 13:09:25 - root - INFO - Chat ID: -1002277496773
+2025-03-05 13:09:25 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 13:09:25 - __main__ - INFO - Urun 800203315 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 13:09:25 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:09:25 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:25 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 13:09:25 - root - INFO - Chat ID: -1002277496773
+2025-03-05 13:09:26 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 13:09:26 - __main__ - INFO - Urun 800203317 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 13:09:26 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:09:26 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:26 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 13:09:26 - root - INFO - Chat ID: -1002277496773
+2025-03-05 13:09:26 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 13:09:26 - __main__ - INFO - Urun 800203319 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 13:09:26 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:09:26 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:26 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 13:09:26 - root - INFO - Chat ID: -1002277496773
+2025-03-05 13:09:27 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 13:09:27 - __main__ - INFO - Urun 800203321 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 13:09:27 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:09:27 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:27 - root - INFO - Telegram API URL: https://api.telegram.org/bot7695646239:AAGX5Tb3rabk6W0ZHahBrI1qO__k_g0S-vA/sendMessage
+2025-03-05 13:09:27 - root - INFO - Chat ID: -1002277496773
+2025-03-05 13:09:27 - root - INFO - Telegram bildirimi gonderildi: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET )
+2025-03-05 13:09:27 - __main__ - INFO - Urun 800203323 icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.
+2025-03-05 13:09:27 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=2
+2025-03-05 13:09:32 - __main__ - INFO - Sayfa 2 taraniyor...
+2025-03-05 13:09:32 - __main__ - INFO - Sayfa 2'de 20 adet ürün bulundu.
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:09:32 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:09:32 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:09:32 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:09:32 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:09:32 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:09:32 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:09:32 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:09:32 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:09:32 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:09:33 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:09:33 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:33 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=3
+2025-03-05 13:09:38 - __main__ - INFO - Sayfa 3 taraniyor...
+2025-03-05 13:09:38 - __main__ - INFO - Sayfa 3'de 20 adet ürün bulundu.
+2025-03-05 13:09:38 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:09:38 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:09:38 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:09:38 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:09:38 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:09:38 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:38 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:09:38 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:38 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:09:38 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:38 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:09:39 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:09:39 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:09:39 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:09:39 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:39 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:09:40 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:40 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=4
+2025-03-05 13:09:45 - __main__ - INFO - Sayfa 4 taraniyor...
+2025-03-05 13:09:45 - __main__ - INFO - Sayfa 4'de 20 adet ürün bulundu.
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:09:45 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:09:45 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:09:45 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:09:45 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:09:45 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:09:45 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:09:45 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:09:45 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:09:45 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:09:45 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:45 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:09:46 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:46 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=5
+2025-03-05 13:09:51 - __main__ - INFO - Sayfa 5 taraniyor...
+2025-03-05 13:09:51 - __main__ - INFO - Sayfa 5'de 20 adet ürün bulundu.
+2025-03-05 13:09:51 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:09:51 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:09:51 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:09:52 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:09:52 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:09:52 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:09:52 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:09:52 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:09:52 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:09:52 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:09:52 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:09:52 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:09:52 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:09:52 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:52 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:09:53 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:53 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=6
+2025-03-05 13:09:58 - __main__ - INFO - Sayfa 6 taraniyor...
+2025-03-05 13:09:58 - __main__ - INFO - Sayfa 6'de 20 adet ürün bulundu.
+2025-03-05 13:09:58 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:09:58 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:09:58 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:09:58 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:09:58 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:09:58 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:58 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:09:58 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:09:59 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:09:59 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:09:59 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:09:59 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:09:59 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:09:59 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:09:59 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:09:59 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:09:59 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:09:59 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:09:59 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:10:00 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:00 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:10:00 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:00 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:10:00 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:00 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:10:00 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:00 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:10:00 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:00 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:10:00 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:00 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=7
+2025-03-05 13:10:05 - __main__ - INFO - Sayfa 7 taraniyor...
+2025-03-05 13:10:05 - __main__ - INFO - Sayfa 7'de 20 adet ürün bulundu.
+2025-03-05 13:10:05 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:10:05 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:10:05 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:10:05 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:10:05 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:10:05 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:05 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:10:05 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:05 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:10:05 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:05 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:10:06 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:10:06 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:10:06 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:10:06 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:10:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:10:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:10:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:10:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:10:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:10:06 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:06 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:10:07 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:07 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:10:07 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:07 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:10:07 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:07 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:10:07 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:07 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:10:07 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:07 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=8
+2025-03-05 13:10:12 - __main__ - INFO - Sayfa 8 taraniyor...
+2025-03-05 13:10:12 - __main__ - INFO - Sayfa 8'de 20 adet ürün bulundu.
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:10:12 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:10:12 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:10:12 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:10:12 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:10:12 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:10:12 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:10:12 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:10:12 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:10:12 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:10:12 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:12 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:10:13 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:13 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=9
+2025-03-05 13:10:18 - __main__ - INFO - Sayfa 9 taraniyor...
+2025-03-05 13:10:18 - __main__ - INFO - Sayfa 9'de 20 adet ürün bulundu.
+2025-03-05 13:10:18 - __main__ - INFO - Islenen urun ID: 800203057
+2025-03-05 13:10:18 - __main__ - INFO - Urun: HAVIT PJ205 PRO PRIME QUARTZ SMART PROJEKSIYON CIHAZI - HOPARLÖR - 1080P ANDROID TV 9.0 ( OUTLET ), Indirim: %25.0, Sifir Fiyati: 7999.0, Outlet Fiyati: 5999.25
+2025-03-05 13:10:18 - __main__ - INFO - Islenen urun ID: 800203059
+2025-03-05 13:10:18 - __main__ - INFO - Urun: PHILIPS TAB6405 Gümüş Dolby Audio 2.1 Kanal 140W ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 13999.0, Outlet Fiyati: 9799.3
+2025-03-05 13:10:18 - __main__ - INFO - Islenen urun ID: 800203145
+2025-03-05 13:10:18 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:18 - __main__ - INFO - Islenen urun ID: 800203147
+2025-03-05 13:10:18 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:18 - __main__ - INFO - Islenen urun ID: 800203149
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203151
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MX0E2ZM/A iPhone 11 Pro Max Deri kılıf - Siyah ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203159
+2025-03-05 13:10:19 - __main__ - INFO - Urun: Samsung Frame VG-SCFA55TKBRU Teak 55" Çerçeve ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 799.0, Outlet Fiyati: 559.3
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203163
+2025-03-05 13:10:19 - __main__ - INFO - Urun: JBL GO ESSENTIAL, BLUETOOTH HOPARLÖR, IPX7, SIYAH ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 1789.0, Outlet Fiyati: 1252.3
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203171
+2025-03-05 13:10:19 - __main__ - INFO - Urun: JBL WAVE FLEX, KABLOSUZ KULAKIÇI KULAKLIK, MAVI ( OUTLET ), Indirim: %30.0, Sifir Fiyati: 3189.0, Outlet Fiyati: 2232.3
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203303
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203305
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203307
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203309
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203311
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203313
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203315
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203317
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203319
+2025-03-05 13:10:19 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:19 - __main__ - INFO - Islenen urun ID: 800203321
+2025-03-05 13:10:20 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:20 - __main__ - INFO - Islenen urun ID: 800203323
+2025-03-05 13:10:20 - __main__ - INFO - Urun: APPLE MWYK2ZM/A iPhone 11 Pro Şeffaf kılıf ( OUTLET ), Indirim: %40.0, Sifir Fiyati: 419.0, Outlet Fiyati: 251.4
+2025-03-05 13:10:20 - __main__ - INFO - Bir sonraki sayfaya geçiliyor: https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc&pg=10

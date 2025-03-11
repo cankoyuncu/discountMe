@@ -15,25 +15,29 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
+# Teknosa klasör yolunu tanımla
+TEKNOSA_DIR = os.path.dirname(os.path.abspath(__file__))
+
 # Konfigürasyon dosyasını yükle
 config = configparser.ConfigParser(interpolation=None)  # İnterpolasyonu kapat
-if not os.path.exists('config.ini'):
+config_path = os.path.join(TEKNOSA_DIR, 'config.ini')
+if not os.path.exists(config_path):
     # Eğer config dosyası yoksa, örnek bir config oluştur
-    config['DATABASE'] = {'Path': 'teknosa_products.db'}
-    config['LOGGING'] = {'LogFile': 'teknosa_scraper.log', 'Level': 'INFO'}
+    config['DATABASE'] = {'Path': os.path.join(TEKNOSA_DIR, 'teknosa_products.db')}
+    config['LOGGING'] = {'LogFile': os.path.join(TEKNOSA_DIR, 'teknosa_scraper.log'), 'Level': 'INFO'}
     config['TELEGRAM'] = {'BotToken': 'YOUR_BOT_TOKEN', 'ChatID': 'YOUR_CHAT_ID'}
     config['URLS'] = {
         'TeknosaOutlet': 'https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc'
     }
     
-    with open('config.ini', 'w') as configfile:
+    with open(config_path, 'w') as configfile:
         config.write(configfile)
 else:
-    config.read('config.ini')
+    config.read(config_path)
 
 def setup_logging():
     """Log yapılandırmasını ayarlar."""
-    log_file = config['LOGGING'].get('LogFile', 'teknosa_scraper.log')
+    log_file = config['LOGGING'].get('LogFile', os.path.join(TEKNOSA_DIR, 'teknosa_scraper.log'))
     log_level = config['LOGGING'].get('Level', 'INFO')
     
     logging.basicConfig(
@@ -56,6 +60,10 @@ def setup_logging():
 def setup_db():
     """Veritabani baglantisini kurar ve gerekli tabloyu olusturur."""
     db_path = config['DATABASE']['Path']
+    # Klasör yolu DB dosyasında belirtilmediyse, teknosa klasörü altında oluştur
+    if not os.path.isabs(db_path):
+        db_path = os.path.join(TEKNOSA_DIR, db_path)
+    
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
     
