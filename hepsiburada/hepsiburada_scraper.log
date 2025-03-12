@@ -1,0 +1,53 @@
+2025-03-12 07:19:21 - INFO - Loglama başlatıldı
+2025-03-12 07:19:21 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-12 07:19:21 - INFO - ====== WebDriver manager ======
+2025-03-12 07:19:24 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:19:24 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:19:24 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-12 07:19:41 - ERROR - Tarama sırasında hata oluştu: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0087B5A3+24387]
+	(No symbol) [0x00805904]
+	(No symbol) [0x006E0753]
+	(No symbol) [0x00728BA9]
+	(No symbol) [0x00728EFB]
+	(No symbol) [0x007719C2]
+	(No symbol) [0x0074D894]
+	(No symbol) [0x0076F138]
+	(No symbol) [0x0074D646]
+	(No symbol) [0x0071C59F]
+	(No symbol) [0x0071D8E4]
+	GetHandleVerifier [0x00B7D883+3179043]
+	GetHandleVerifier [0x00B96CF9+3282585]
+	GetHandleVerifier [0x00B9167C+3260444]
+	GetHandleVerifier [0x00914330+650448]
+	(No symbol) [0x0080ED0D]
+	(No symbol) [0x0080BAF8]
+	(No symbol) [0x0080BC99]
+	(No symbol) [0x007FE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-12 07:21:42 - INFO - Loglama başlatıldı
+2025-03-12 07:21:42 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-12 07:21:42 - INFO - ====== WebDriver manager ======
+2025-03-12 07:21:45 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:21:45 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:21:45 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-12 07:21:46 - INFO - URL açılıyor: https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts
+2025-03-12 07:22:02 - INFO - Sayfa yüklendi, ürünler aranıyor...
+2025-03-12 07:22:02 - INFO - Sayfada 36 adet ürün bulundu.
+2025-03-12 07:22:14 - INFO - Daha fazla ürün bulunamadı.
+2025-03-12 07:22:14 - INFO - Toplam 0 ürün işlendi. 0 ürün %25+ indirimli olarak bildirildi.
+2025-03-12 07:22:57 - INFO - Loglama başlatıldı
+2025-03-12 07:22:57 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-12 07:22:57 - INFO - ====== WebDriver manager ======
+2025-03-12 07:22:59 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:23:00 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-12 07:23:00 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-12 07:23:01 - INFO - URL açılıyor: https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts
+2025-03-12 07:23:14 - INFO - Sayfa yüklendi, ürünler aranıyor...
+2025-03-12 07:23:14 - INFO - Sayfada 36 adet ürün bulundu.
+2025-03-12 07:23:25 - INFO - Daha fazla ürün bulunamadı.
+2025-03-12 07:23:25 - INFO - Toplam 0 ürün işlendi. 0 ürün %25+ indirimli olarak bildirildi.

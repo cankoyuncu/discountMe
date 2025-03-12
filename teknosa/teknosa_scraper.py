@@ -1,5 +1,15 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# İlk olarak temel modüller import edilir
 import os
 import sys
+
+# Ana dizini Python yoluna ekle
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+import io
+import codecs
 import time
 import logging
 import sqlite3
@@ -15,60 +25,93 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
-# Teknosa klasör yolunu tanımla
+# Telegram notifier'ı import et
+from telegram_notifier import get_notifier
+
+# sys.stdout için UTF-8 encoding sağla (Windows konsol çıktılarında Türkçe karakterler için)
+if sys.stdout.encoding != 'utf-8':
+    sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer, 'strict')
+    sys.stderr = codecs.getwriter('utf-8')(sys.stderr.buffer, 'strict')
+
+# Teknosa klasör yolunu tanımla - normalizasyon ekleniyor
 TEKNOSA_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Konfigürasyon dosyasını yükle
-config = configparser.ConfigParser(interpolation=None)  # İnterpolasyonu kapat
-config_path = os.path.join(TEKNOSA_DIR, 'config.ini')
+# Konfigürasyon dosyasını yükle - normalize edilmiş yollar kullan
+config = configparser.ConfigParser(interpolation=None)
+config_path = os.path.normpath(os.path.join(TEKNOSA_DIR, 'config.ini'))
 if not os.path.exists(config_path):
     # Eğer config dosyası yoksa, örnek bir config oluştur
-    config['DATABASE'] = {'Path': os.path.join(TEKNOSA_DIR, 'teknosa_products.db')}
-    config['LOGGING'] = {'LogFile': os.path.join(TEKNOSA_DIR, 'teknosa_scraper.log'), 'Level': 'INFO'}
-    config['TELEGRAM'] = {'BotToken': 'YOUR_BOT_TOKEN', 'ChatID': 'YOUR_CHAT_ID'}
+    config['DATABASE'] = {'path': os.path.join(TEKNOSA_DIR, 'teknosa_products.db')}
+    config['LOGGING'] = {'logfile': os.path.join(TEKNOSA_DIR, 'teknosa_scraper.log'), 'level': 'INFO'}
+    config['TELEGRAM'] = {'bottoken': 'YOUR_BOT_TOKEN', 'chatid': 'YOUR_CHAT_ID'}
     config['URLS'] = {
-        'TeknosaOutlet': 'https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc'
+        'teknosaoutlet': 'https://www.teknosa.com/outlet?sort=newProduct-desc&s=%3AbestSellerPoint-desc'
     }
     
-    with open(config_path, 'w') as configfile:
+    with open(config_path, 'w', encoding='utf-8') as configfile:
         config.write(configfile)
 else:
-    config.read(config_path)
+    # UTF-8 encoding ile config dosyasını oku
+    try:
+        config.read(config_path, encoding='utf-8')
+    except:
+        # Eğer UTF-8 ile okuma başarısız olursa başka encoding'ler dene
+        config.read(config_path, encoding='latin-1')
 
 def setup_logging():
     """Log yapılandırmasını ayarlar."""
-    log_file = config['LOGGING'].get('LogFile', os.path.join(TEKNOSA_DIR, 'teknosa_scraper.log'))
-    log_level = config['LOGGING'].get('Level', 'INFO')
-    
-    logging.basicConfig(
-        level=getattr(logging, log_level),
-        format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-        datefmt='%Y-%m-%d %H:%M:%S',
-        filename=log_file,
-        filemode='a'
-    )
-    
-    # Konsol çıktısı için handler ekle
-    console = logging.StreamHandler()
-    console.setLevel(getattr(logging, log_level))
-    formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-    console.setFormatter(formatter)
-    logging.getLogger('').addHandler(console)
-    
-    return logging.getLogger(__name__)
+    # Make sure we're using the correct directory
+    try:
+        log_file = os.path.join(TEKNOSA_DIR, config['LOGGING'].get('logfile', 'teknosa_scraper.log'))
+        log_level = config['LOGGING'].get('level', 'INFO')
+        
+        # Log dosya yolu için normalizasyon ekleyerek Windows'ta path sorunlarını önle
+        log_file_path = os.path.normpath(os.path.abspath(log_file))
+        
+        # Ensure the directory exists - Eğer log dosyasının klasörü yoksa oluştur
+        log_dir = os.path.dirname(log_file_path)
+        if not os.path.exists(log_dir):
+            os.makedirs(log_dir, exist_ok=True)
+            
+        # Debug için log dosyası yolunu yazdır
+        print(f"Log dosyası yolu: {log_file_path}")
+        
+        # Logging konfigürasyonu
+        logging.basicConfig(
+            level=getattr(logging, log_level),
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            datefmt='%Y-%m-%d %H:%M:%S',
+            filename=log_file_path,
+            filemode='a',
+            encoding='utf-8'  # UTF-8 karakter kodlaması
+        )
+        
+        # Konsol çıktısı için handler ekle
+        console = logging.StreamHandler(sys.stdout)
+        console.setLevel(getattr(logging, log_level))
+        formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+        console.setFormatter(formatter)
+        logging.getLogger('').addHandler(console)
+        
+        logger = logging.getLogger(__name__)
+        logger.info("Loglama başlatıldı")
+        return logger
+        
+    except Exception as e:
+        print(f"Log ayarları yapılandırılırken hata oluştu: {str(e)}")
+        # En azından basit bir logger oluştur
+        logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+        return logging.getLogger(__name__)
 
 def setup_db():
     """Veritabani baglantisini kurar ve gerekli tabloyu olusturur."""
-    db_path = config['DATABASE']['Path']
-    # Klasör yolu DB dosyasında belirtilmediyse, teknosa klasörü altında oluştur
-    if not os.path.isabs(db_path):
-        db_path = os.path.join(TEKNOSA_DIR, db_path)
+    db_path = os.path.join(TEKNOSA_DIR, config['DATABASE'].get('path', 'teknosa_products.db'))
     
     conn = sqlite3.connect(db_path)
     cursor = conn.cursor()
     
-    # Ürünler tablosunu oluştur (eğer yoksa)
-    cursor.execute("""
+    # Urunler tablosunu olustur
+    cursor.execute('''
     CREATE TABLE IF NOT EXISTS teknosa_urunler (
         urun_id TEXT PRIMARY KEY,
         urun_adi TEXT,
@@ -76,10 +119,11 @@ def setup_db():
         indirim_orani REAL,
         sifir_fiyati REAL,
         outlet_fiyati REAL,
-        bildirildi INTEGER DEFAULT 0,
-        tarih TEXT
+        ilk_gorulme_tarihi TEXT,
+        son_gorulme_tarihi TEXT,
+        bildirildi INTEGER DEFAULT 0
     )
-    """)
+    ''')
     
     conn.commit()
     return conn
@@ -95,7 +139,10 @@ def setup_driver():
     options.add_argument("--disable-extensions")
     options.add_argument("--disable-notifications")
     options.add_argument("--disable-infobars")
-    
+    # Karakter kodlaması için gerekli parametreler
+    options.add_argument("--lang=tr-TR") 
+    options.add_argument("--charset=UTF-8")
+
     service = Service(ChromeDriverManager().install())
     driver = webdriver.Chrome(service=service, options=options)
     
@@ -114,124 +161,101 @@ def clean_price(price_str):
     try:
         return float(price_str)
     except ValueError:
-        logging.error(f"Fiyat dönüştürülemedi: {price_str}")
         return 0.0
 
-def telegram_bildirim_gonder(urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati):
+def telegram_bildirim_gonder(conn, urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati):
     """Telegram üzerinden bildirim gönderir."""
-    bot_token = config['TELEGRAM']['BotToken']
-    chat_id = config['TELEGRAM']['ChatID']
-    
-    # Bot token ve chat ID kontrolü
-    if bot_token == 'YOUR_BOT_TOKEN' or chat_id == 'YOUR_CHAT_ID':
-        logging.warning("Gecerli Telegram bot token ve chat ID ayarlanmamis. Bildirim gonderilemiyor.")
+    try:
+        # Telegram notifier'ı al
+        notifier = get_notifier(os.path.join(TEKNOSA_DIR, 'config.ini'))
+        
+        # Ürün verilerini hazırla
+        product_data = {
+            'name': urun_adi,
+            'url': urun_linki,
+            'original_price': sifir_fiyati,
+            'discounted_price': outlet_fiyati,
+            'discount_rate': indirim_orani
+        }
+        
+        # Bildirimi gönder
+        success = notifier.send_product_notification(product_data, 'teknosa')
+        
+        if success:
+            # Bildirim durumunu güncelle
+            cursor = conn.cursor()
+            cursor.execute("UPDATE teknosa_urunler SET bildirildi = 1 WHERE urun_id = ?", (urun_id,))
+            conn.commit()
+            logging.info(f"Urun {urun_id} icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.")
+            return True
+            
         return False
-    
-    # İndirim miktarını hesapla
-    indirim_miktari = sifir_fiyati - outlet_fiyati
-    
-    # Mesaj içeriği
-    message = f"""
-🔥 <b>OUTLET FIRSATI!</b> 🔥
-✅ {urun_adi}
-
-💰 <b>Outlet Fiyatı:</b> {outlet_fiyati:.2f} TL
-📌 <b>Sıfır Fiyatı:</b> {sifir_fiyati:.2f} TL
-🏷️ <b>Indirim:</b> %{indirim_orani} ({indirim_miktari:.2f} TL)
-
-🔗 <a href="{urun_linki}">Satin almak icin tiklayin</a>
-"""
-    
-    # Telegram API URL'si
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-    
-    # Hata ayıklama için log
-    logging.info(f"Telegram API URL: {url}")
-    logging.info(f"Chat ID: {chat_id}")
-    
-    # İstek parametreleri
-    params = {
-        "chat_id": chat_id,
-        "text": message,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False
-    }
-    
-    # Yeniden deneme parametreleri
-    max_retries = 3
-    retry_count = 0
-    
-    # Telegram'a mesaj göndermeyi dene
-    while retry_count < max_retries:
-        try:
-            response = requests.post(url, params=params)
-            if response.status_code == 200:
-                logging.info(f"Telegram bildirimi gonderildi: {urun_adi}")
-                return True
-            else:
-                logging.error(f"Telegram bildirimi basariiz oldu. Status code: {response.status_code}")
-                logging.error(f"Yanit icerigi: {response.text}")
-                retry_count += 1
-                time.sleep(2)
-        except Exception as e:
-            logging.error(f"Telegram bildirimi gönderilirken hata oluştu: {str(e)}")
-            retry_count += 1
-            time.sleep(2)
-    
-    return False
+        
+    except Exception as e:
+        logging.error(f"Telegram bildirimi gönderilirken hata oluştu: {str(e)}")
+        return False
 
 def urun_kaydet(conn, urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati):
-    """Urunu veritabanina kaydeder veya gunceller."""
+    """Ürün bilgilerini veritabanına kaydeder."""
     try:
         cursor = conn.cursor()
-        tarih = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        simdi = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         
-        # Önce ürünün veritabanında olup olmadığını kontrol et
+        # Ürün veritabanında var mı kontrol et
         cursor.execute("SELECT * FROM teknosa_urunler WHERE urun_id = ?", (urun_id,))
-        existing_product = cursor.fetchone()
+        result = cursor.fetchone()
         
-        if existing_product:
-            # Fiyat değişikliği varsa güncelle ve bildirildi durumunu sıfırla
-            if existing_product[5] != outlet_fiyati or existing_product[3] != indirim_orani:
-                cursor.execute("""
-                UPDATE teknosa_urunler 
-                SET outlet_fiyati = ?, indirim_orani = ?, tarih = ?, bildirildi = ? 
-                WHERE urun_id = ?
-                """, (outlet_fiyati, indirim_orani, tarih, 0 if indirim_orani >= 25 else 1, urun_id))
-                
-                logging.info(f"Urun fiyati guncellendi: {urun_adi}, Eski: {existing_product[5]}, Yeni: {outlet_fiyati}")
-            else:
-                # Fiyat değişmediyse sadece tarihi güncelle
-                cursor.execute("""
-                UPDATE teknosa_urunler 
-                SET tarih = ? 
-                WHERE urun_id = ?
-                """, (tarih, urun_id))
-        else:
-            # Yeni ürün, ekle - indirim oranı %25+ ise bildirildi=0, değilse bildirildi=1
-            bildirildi_degeri = 0 if indirim_orani >= 25 else 1
+        if result:
+            # Ürün güncelle
             cursor.execute("""
-            INSERT INTO teknosa_urunler (urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati, bildirildi, tarih)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-            """, (urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati, bildirildi_degeri, tarih))
+            UPDATE teknosa_urunler
+            SET urun_adi = ?, urun_linki = ?, indirim_orani = ?, sifir_fiyati = ?, outlet_fiyati = ?, son_gorulme_tarihi = ?
+            WHERE urun_id = ?
+            """, (urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati, simdi, urun_id))
+            logging.info(f"Urun guncellendi: {urun_adi}")
+            yeni_urun = False
+        else:
+            # Yeni ürün ekle
+            cursor.execute("""
+            INSERT INTO teknosa_urunler (urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati, ilk_gorulme_tarihi, son_gorulme_tarihi, bildirildi)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, 0)
+            """, (urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati, simdi, simdi))
             logging.info(f"Yeni urun kaydedildi: {urun_adi}")
-        
+            yeni_urun = True
+            
         conn.commit()
-        return True
+        return yeni_urun
     except Exception as e:
-        logging.error(f"Urun kaydedilirken hata oluştu: {str(e)}")
+        logging.error(f"Urun kaydedilemedi: {urun_adi}, Hata: {str(e)}")
         return False
 
-def bildirim_durumu_guncelle(conn, urun_id):
-    """Urunun bildirim durumunu günceller."""
+# Log mesajlarını Türkçe karakter desteği ile güncelleyelim
+def log_safe(logger, level, message):
+    """Türkçe karakterleri güvenli şekilde loglar."""
     try:
-        cursor = conn.cursor()
-        cursor.execute("UPDATE teknosa_urunler SET bildirildi = 1 WHERE urun_id = ?", (urun_id,))
-        conn.commit()
-        return True
-    except Exception as e:
-        logging.error(f"Bildirim durumu guncellenirken hata oluştu: {str(e)}")
-        return False
+        # Mesajı Unicode olarak ele al
+        if isinstance(message, bytes):
+            message = message.decode('utf-8')
+            
+        if level == "info":
+            logger.info(message)
+        elif level == "warning":
+            logger.warning(message)
+        elif level == "error":
+            logger.error(message)
+        elif level == "debug":
+            logger.debug(message)
+    except UnicodeEncodeError:
+        # Eğer Türkçe karakter sorunu olursa ASCII ile deneyin
+        ascii_message = message.encode('ascii', 'replace').decode('ascii')
+        if level == "info":
+            logger.info(ascii_message)
+        elif level == "warning":
+            logger.warning(ascii_message)
+        elif level == "error":
+            logger.error(ascii_message)
+        elif level == "debug":
+            logger.debug(ascii_message)
 
 def scan_teknosa_outlet():
     """Teknosa outlet sayfasini tarar ve urunleri isler."""
@@ -243,7 +267,7 @@ def scan_teknosa_outlet():
     
     try:
         # Teknosa outlet URL'sini yükle
-        url = config['URLS']['TeknosaOutlet']
+        url = config['URLS']['teknosaoutlet']
         driver.get(url)
         time.sleep(5)  # Sayfanın yüklenmesini bekle
         
@@ -254,82 +278,99 @@ def scan_teknosa_outlet():
         
         urun_sayisi = 0
         indirim_urun_sayisi = 0
-        sayfa_no = 1
         max_sayfa = 10  # Maksimum taranacak sayfa sayısı
+        islenen_urun_idleri = set()  # İşlenen ürün ID'lerini takip et
+        
+        sayfa_no = 1
         
         while sayfa_no <= max_sayfa:
             logger.info(f"Sayfa {sayfa_no} taraniyor...")
             
             # Sayfadaki tüm ürün elementlerini bul
-            urunler = driver.find_elements(By.CSS_SELECTOR, "#product-item")
+            urunler = driver.find_elements(By.CSS_SELECTOR, ".prd")
             logger.info(f"Sayfa {sayfa_no}'de {len(urunler)} adet ürün bulundu.")
             
             if not urunler:
-                logger.warning(f"Sayfa {sayfa_no}'de ürün bulunamadı, tarama sonlandırılıyor.")
+                logger.warning(f"Sayfa {sayfa_no}'de ürün bulunamadı. Tarama sonlandırılıyor.")
                 break
+            
+            # Mevcut ürün sayısını kaydet - daha sonra yeni ürünlerin gelip gelmediğini kontrol etmek için
+            mevcut_urun_sayisi = len(urunler)
             
             # Her ürünü işle
             for urun in urunler:
                 try:
                     # Ürün ID'sini al
-                    urun_id = urun.get_attribute('data-product-id')
-                    if not urun_id:
-                        logger.warning("Urun ID'si bulunamadı, geçiliyor...")
+                    try:
+                        urun_id = urun.get_attribute('data-product-id')
+                        if not urun_id:
+                            logger.warning("Ürün ID'si bulunamadı, bu ürün atlanıyor.")
+                            continue
+                        
+                        # Bu ID daha önce işlendiyse atla
+                        if urun_id in islenen_urun_idleri:
+                            logger.debug(f"Ürün ID: {urun_id} daha önce işlendi, atlanıyor.")
+                            continue
+                        
+                        islenen_urun_idleri.add(urun_id)
+                        logger.info(f"Islenen urun ID: {urun_id}")
+                    except (NoSuchElementException, ValueError) as e:
+                        logger.warning(f"Ürün ID alınırken hata: {str(e)}")
                         continue
                     
-                    logger.info(f"Islenen urun ID: {urun_id}")
-                    
-                    # Ürün adını al
+                    # Ürün adını al - teknosa-prd.md'ye göre h3.prd-title içinde
                     try:
                         urun_adi_element = urun.find_element(By.CSS_SELECTOR, "h3.prd-title")
                         urun_adi = urun_adi_element.text.strip()
+                        if not urun_adi:
+                            urun_adi = "Bilinmeyen Ürün"
                     except NoSuchElementException:
-                        logger.warning(f"Urun adi bulunamadı - ID: {urun_id}")
-                        urun_adi = f"Teknosa Urun #{urun_id}"
+                        urun_adi = "Bilinmeyen Ürün"
+                        logger.warning(f"Ürün {urun_id} için ad bulunamadı.")
                     
-                    # Ürün linkini al
+                    # Ürün linkini al - teknosa-prd.md'ye göre a.prd-link içinde
                     try:
-                        urun_linki_element = urun.find_element(By.CSS_SELECTOR, "a.prd-link")
-                        urun_linki_path = urun_linki_element.get_attribute('href')
-                        if (urun_linki_path):
-                            urun_linki = urun_linki_path
-                        else:
-                            # href yoksa data attribute'a bak
-                            urun_linki = "https://www.teknosa.com" + urun.get_attribute('data-product-url')
+                        urun_linki = urun.find_element(By.CSS_SELECTOR, "a.prd-link").get_attribute("href")
                     except NoSuchElementException:
-                        logger.warning(f"Urun linki bulunamadi - ID: {urun_id}")
-                        # data-product-url attribute'unu kullan
-                        urun_linki = "https://www.teknosa.com" + urun.get_attribute('data-product-url')
+                        urun_linki = f"https://www.teknosa.com/outlet/{urun_id}"
+                        logger.warning(f"Ürün {urun_id} için link bulunamadı.")
                     
-                    # İndirim oranını al (HTML'den doğru selector)
+                    # İndirim oranını al - teknosa-prd.md'ye göre div.prd-discount içinde
                     try:
-                        indirim_orani_element = urun.find_element(By.CSS_SELECTOR, "div.prd-discount")
-                        indirim_orani_text = indirim_orani_element.text.strip().replace("%", "")
-                        indirim_orani = float(indirim_orani_text)
+                        indirim_elementi = urun.find_element(By.CSS_SELECTOR, "div.prd-discount")
+                        indirim_text = indirim_elementi.text.strip().replace("%", "").replace("-", "")
+                        indirim_orani = float(indirim_text)
                     except (NoSuchElementException, ValueError):
-                        # HTML'den data attribute'u kullan
-                        indirim_orani = float(urun.get_attribute('data-product-discount-rate') or 0)
-                        logger.info(f"Indirim orani data attribute'dan alindi: {indirim_orani}")
+                        # Eğer indirim oranı yoksa veya okunamazsa, data-discount özniteliğine bakılır
+                        try:
+                            indirim_orani = float(urun.get_attribute('data-product-discount-rate') or 0)
+                        except (ValueError, TypeError):
+                            indirim_orani = 0
+                            logger.warning(f"Ürün {urun_id} için indirim oranı hesaplanamadı.")
                     
-                    # Sıfır fiyatını al
+                    # Sıfır fiyatını al - teknosa-prd.md'ye göre div.prd-prc1 span.prc-first içinde
                     try:
-                        sifir_fiyati_element = urun.find_element(By.CSS_SELECTOR, "span.prc-first")
+                        sifir_fiyati_element = urun.find_element(By.CSS_SELECTOR, "div.prd-prc1 span.prc-first")
                         sifir_fiyati_text = sifir_fiyati_element.text.strip()
                         sifir_fiyati = clean_price(sifir_fiyati_text)
-                    except NoSuchElementException:
-                        # data attribute'u kullan
-                        sifir_fiyati = float(urun.get_attribute('data-product-actual-price') or 0)
-                        logger.info(f"Sifir fiyati data attribute'dan alindi: {sifir_fiyati}")
+                    except (NoSuchElementException, ValueError):
+                        try:
+                            sifir_fiyati = float(urun.get_attribute('data-product-actual-price') or 0)
+                        except (ValueError, TypeError):
+                            sifir_fiyati = 0
+                            logger.warning(f"Ürün {urun_id} için sıfır fiyatı hesaplanamadı.")
                     
-                    # Outlet fiyatını al
+                    # Outlet fiyatını al - teknosa-prd.md'ye göre div.prd-prc2 span.prc-last içinde
                     try:
-                        outlet_fiyati_element = urun.find_element(By.CSS_SELECTOR, "span.prc-last")
+                        outlet_fiyati_element = urun.find_element(By.CSS_SELECTOR, "div.prd-prc2 span.prc-last")
                         outlet_fiyati_text = outlet_fiyati_element.text.strip()
                         outlet_fiyati = clean_price(outlet_fiyati_text)
-                    except NoSuchElementException:
-                        # data attribute'u kullan
-                        outlet_fiyati = float(urun.get_attribute('data-product-discounted-price') or 0)
-                        logger.info(f"Outlet fiyati data attribute'dan alindi: {outlet_fiyati}")
+                    except (NoSuchElementException, ValueError):
+                        try:
+                            outlet_fiyati = float(urun.get_attribute('data-product-discounted-price') or 0)
+                        except (ValueError, TypeError):
+                            outlet_fiyati = 0
+                            logger.warning(f"Ürün {urun_id} için outlet fiyatı hesaplanamadı.")
                     
                     logger.info(f"Urun: {urun_adi}, Indirim: %{indirim_orani}, Sifir Fiyati: {sifir_fiyati}, Outlet Fiyati: {outlet_fiyati}")
                     
@@ -337,20 +378,27 @@ def scan_teknosa_outlet():
                     kayit_basarili = urun_kaydet(conn, urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati)
                     
                     # Eğer %25 veya daha fazla indirim varsa ve kayıt başarılıysa bildirim gönder
-                    if indirim_orani >= 25 and kayit_basarili:
+                    if indirim_orani >= 25:
                         # Veritabanında daha önce bildirilip bildirilmediğini kontrol et
                         cursor = conn.cursor()
                         cursor.execute("SELECT bildirildi FROM teknosa_urunler WHERE urun_id = ?", (urun_id,))
                         result = cursor.fetchone()
                         
-                        # Eğer bildirildi=0 ise bildirim gönder
+                        # Eğer bildirildi=0 ise veya yeni kayıtsa bildirim gönder
                         if result and result[0] == 0:
-                            bildirim_basarili = telegram_bildirim_gonder(urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati)
-                            if bildirim_basarili:
-                                indirim_urun_sayisi += 1
-                                # Bildirimi kaydettik olarak işaretle
-                                bildirim_durumu_guncelle(conn, urun_id)
-                                logger.info(f"Urun {urun_id} icin bildirim gonderildi ve bildirildi=1 olarak isaretlendi.")
+                            # HTML formatında bildirim mesajı oluştur
+                            bildirim_mesaji = f"""
+🔥 <b>OUTLET FIRSATI!</b> 🔥
+✅ {urun_adi}
+
+💰 <b>Outlet Fiyatı:</b> {outlet_fiyati:.2f} TL
+📌 <b>Sıfır Fiyatı:</b> {sifir_fiyati:.2f} TL
+🏷️ <b>Indirim:</b> %{indirim_orani} ({sifir_fiyati - outlet_fiyati:.2f} TL)
+
+🔗 <a href="{urun_linki}">Satin almak icin tiklayin</a>
+"""
+                            telegram_bildirim_gonder(conn, urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, outlet_fiyati)
+                            indirim_urun_sayisi += 1
                     
                     urun_sayisi += 1
                     
@@ -358,26 +406,55 @@ def scan_teknosa_outlet():
                     logger.error(f"Urun islenirken hata olustu: {str(e)}")
                     continue
             
-            # Sonraki sayfaya geçmeyi dene
+            sayfa_no += 1
+            
+            # "Daha Fazla Ürün Gör" butonuna tıklamayı dene
+            # teknosa-prd.md dosyasındaki button.btn.btn-extra.plp-paging-load-more seçicisine göre
             try:
-                sayfa_no += 1
-                # Teknosa'da sayfalar ?pg=2 şeklinde çalışıyor
-                sonraki_sayfa_url = url + f"&pg={sayfa_no}"
-                logger.info(f"Bir sonraki sayfaya geçiliyor: {sonraki_sayfa_url}")
-                driver.get(sonraki_sayfa_url)
-                time.sleep(3)
+                # Sayfanın sonuna kaydır - daha fazla ürün göster butonu sayfanın sonundadır
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(2)  # Scroll işlemi için bekle
                 
-                # Sayfanın yüklenip yüklenmediğini kontrol et
+                # Teknosa-prd.md dosyasında belirtilen tam CSS seçiciyi kullan
+                daha_fazla_button = WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.CSS_SELECTOR, "button.btn.btn-extra.plp-paging-load-more"))
+                )
+                
+                # Butonun görünür olduğundan emin ol ve sayfayı kaydır
+                driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", daha_fazla_button)
+                time.sleep(1)  # Sayfanın kaydırılmasını bekle
+                
+                # Buton metnini UTF-8 ile dekode ederek logla
+                try:
+                    buton_metni = daha_fazla_button.text
+                    logger.info(f"Bulunan buton metni: {buton_metni}")
+                except:
+                    logger.info("Butonun metni alınamadı.")
+                
+                # Butona tıkla
+                driver.execute_script("arguments[0].click();", daha_fazla_button)
+                logger.info(f"'Daha Fazla Ürün Gör' butonuna tıklandı. Sayfa {sayfa_no} yükleniyor...")
+                
+                # Yeni ürünlerin yüklenmesi için biraz daha uzun bekle
+                time.sleep(5) 
+                
+                # Yeni ürünlerin geldiğinden emin ol - 10 saniye bekleyerek kontrol et
                 try:
                     WebDriverWait(driver, 10).until(
-                        EC.presence_of_element_located((By.CSS_SELECTOR, ".prd-title"))
+                        lambda d: len(d.find_elements(By.CSS_SELECTOR, ".prd")) > mevcut_urun_sayisi
                     )
+                    log_safe(logger, "info", f"Yeni ürünler yüklendi. Önceki: {mevcut_urun_sayisi}, Şimdi: {len(driver.find_elements(By.CSS_SELECTOR, '.prd'))}")
                 except TimeoutException:
-                    logger.warning(f"Sayfa {sayfa_no} yüklenemedi veya ürün bulunamadı. Tarama sonlandırılıyor.")
+                    log_safe(logger, "warning", "Yeni ürünler yüklenmedi veya yeni ürün yok. Tarama sonlandırılıyor.")
                     break
+                    
+            except TimeoutException:
+                log_safe(logger, "info", "'Daha Fazla Ürün Gör' butonu bulunamadı. Muhtemelen son sayfadayız.")
+                break
                 
             except Exception as e:
-                logger.error(f"Sayfa {sayfa_no}'e geçilirken hata oluştu: {str(e)}")
+                log_safe(logger, "info", f"'Daha Fazla Ürün Gör' işlemi sırasında hata: {str(e)}")
+                log_safe(logger, "info", "Tarama tamamlandı.")
                 break
         
         logger.info(f"Toplam {urun_sayisi} urun islendi. {indirim_urun_sayisi} urun %25+ indirimli olarak bildirildi.")
@@ -392,8 +469,4 @@ def scan_teknosa_outlet():
 
 if __name__ == "__main__":
     logger = setup_logging()
-    
-    try:
-        scan_teknosa_outlet()
-    except Exception as e:
-        logger.error(f"Program calisirken beklenmeyen bir hata olustu: {str(e)}")
+    scan_teknosa_outlet()
