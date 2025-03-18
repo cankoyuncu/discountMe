@@ -1683,3 +1683,483 @@ Stacktrace:
 2025-03-18 23:17:22 - INFO - 'Daha fazla ürün' butonuna tıklanıyor...
 2025-03-18 23:17:27 - INFO - Daha fazla yükleme sonrası 36 ürün bulundu
 2025-03-18 23:17:28 - INFO - Toplam 36 ürün işlendi. 0 ürün %5+ indirimli olarak bildirildi.
+2025-03-18 23:27:30 - INFO - Loglama başlatıldı
+2025-03-18 23:27:30 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-18 23:27:30 - INFO - ====== WebDriver manager ======
+2025-03-18 23:27:32 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 23:27:32 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 23:27:32 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 23:27:33 - INFO - URL açılıyor: https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts
+2025-03-18 23:27:47 - INFO - Sayfa yüklendi, ürünler aranıyor...
+2025-03-18 23:27:47 - INFO - Sayfada 36 adet ürün bulundu.
+2025-03-18 23:27:48 - INFO - Sayfa kaynağı 'hepsiburada_page_source.html' dosyasına kaydedildi.
+2025-03-18 23:27:48 - INFO - İlk ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i0" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="iPhone 13 128 GB Beyaz" target="_blank" href="/iphone-13-128-gb-beyaz-p-HBCV00000ODHHO?magaza=Hepsiburada" class="productCardLink-XUJYBO4aGZl6zvMNIzAJ"><div class="productCard-GfFnhVSbQq53u9Ag6N4e"><div class="imageArea-bvpq19D4oGgJlan8pVvf imageArea-UYERNHOxNeKtUb0itUeg"><div class="grid-yhRyNlilfR7bycwGQbUF"><div style="width:25%"></div><div style="width:25%"></div><div style="width:25%"></div><div style="width:25%"></div></div><div class="hbImageView-mAvUrlMLX4at8CGU7Jmh"><picture><source class="hbImageView-cFqY1RxX5WuYujFwJFOu" type="image/webp" srcset="https://productimages.hepsiburada.net/s/189/222-222/110000155170588.jpg/format:webp 1x, https://productimages.hepsiburada.net/s/189/444-444/110000155170588.jpg/format:webp 2x"><source class="hbImageView-cFqY1RxX5WuYujFwJFOu" srcset="https://productimages.hepsiburada.net/s/189/222-222/110000155170588.jpg 1x, https://productimages.hepsiburada.net/s/189/444-444/110000155170588.jpg 2x"><img alt="" class="hbImageView-cFqY1RxX5WuYujFwJFOu" src="https://productimages.hepsiburada.net/s/189/222-222/110000155170588.jpg" aria-hidden="true"></picture><noscript><img alt="" src="https://productimages.hepsiburada.net/s/189/222-222/110000155170588.jpg" aria-hidden="true"/></noscript></div><div class="indicators-xKtVnBjeNmtlP5VBgiVS"><div class="indicators-z5ypjkXlQ6yl3h8oKo9E indicators-vG_NuDv_RipsshDYKUS_"></div><div class="indicators-z5ypjkXlQ6yl3h8oKo9E"></div><div class="indicators-z5ypjkXlQ6yl3h8oKo9E"></div><div class="indicators-z5ypjkXlQ6yl3h8oKo9E"></div></div><div class="imageArea-tGc7b_PVR3bOWCanIRoi"><div class="estimatedArrivalDate-Cn6TnZw0wWi3AwC0QmTO" data-test-id="ead-1"><span class="estimatedArrivalDate-E_xQgSa0dX7EvkisuyjX">Teslimat bilgisi: </span><img class="estimatedArrivalDate-lZdR2sU7qYq49xRtMHU1" src="https://images.hepsiburada.net/shipping/assets/yarin-kapinda-2.png" alt="" aria-hidden="true">Yarın kargoda</div></div><button type="button" class="heartButton-bjUyFzA9U9Sg2ZGzHM9e" data-test-id="add-to-favorite-button-1" aria-label="Listene ekle: iPhone 13 128 GB Beyaz" aria-pressed="false"><i class="heartButton-S6oIjDDetahgDP9OhJPv"></i></button><div class="variantsCount-w65rRQAEv8AW333yLEzk" aria-hidden="true" data-test-id="variants-count-1"><i class="variantsCount-bxkIZAOHIY9rfSdmQDFM"></i>6</div></div><div class="label-gne17Xt1NsQPYlRUkw2n" style="background:#E20B8C" data-test-id="winner-1"><span class="label-QiiaKV8wsnYBvazp8251">İftardan Sahura İki Kat Kazan</span><span class="label-kbiaSSKBMeiXZghlFBGB" style="color:#FFFFFF" aria-hidden="true">İftardan Sahura İki Kat Kazan</span></div><div class="productCard-ds1JWI15XLE41F8prz9E"><h2 class="title-wupXHSGzcP0QBsfFSpmz" id="product-title-1-1" aria-label="Sepete ekle, fiyat: 33.799 TL, iPhone 13 128 GB Beyaz" data-test-id="title-1" tabindex="0"><span class="title-qp6D86wJ1SVIfbfer5xg"><span class="title-siaCqGr6T2Yz4bzFrPOq">Apple </span>iPhone 13 128 GB Beyaz</span></h2><div class="productCard-CHs6RjcAfX0QFhlDcMXy"><div class="rate-vVWsjOvPdDGIXUumj4Ll" data-test-id="rating-1"><span class="rate-wKofnW2o_UJXCw3XupAt">Ürün puanı 4.8, 23638 değerlendirme</span><i class="rate-DvReC5E3ME3xkr9G0dXk" aria-hidden="true"></i><span class="rate-kbKHedmg5b1Ia2zPmIgZ" aria-hidden="true">4,8</span><span class="rate-NTWuTHhr6tfP1ogQw7OR" aria-hidden="true">(<!-- -->23638<!-- -->)</span><i class="rate-suVwR05A3iy6_h0EDihI" aria-hidden="true"></i></div></div><div class="campaign-dSlvMRnOajPqiBltsGwG" data-test-id="affordability-1"><span class="campaign-zvfoJucNAmBzoP_0nPlk">Kampanya: Kartsız 3 taksit</span><span class="campaign-pxg1oEBLnkupgO_3ELan" style="color:#7723DB" aria-hidden="true">Kartsız 3 taksit</span></div></div><div class="price-vTsNj8a8mT6GP1NllCD6" data-test-id="add-to-cart-button-1" aria-labelledby="product-title-1-1" role="button"><div class="price-nDj4tljDwAnnQf0fYEH5" aria-hidden="true"><div class="price-R57b2z0LFOTTCaDIKTgo" data-test-id="final-price-1">33.799<span class="price-igKNVUtMJ5IrfhXzk2J9"> <!-- -->TL</span></div></div><svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg" class="addToCartStatus-Ket7cs0EABZKq4UvWMo3"><path d="M0.5 0.5H0.866019C1.34345 0.5 1.7543 0.8375 1.84699 1.30585L2.875 6.5M2.875 6.5L3.11134 7.69415C3.20404 8.1625 3.61488 8.5 4.09231 8.5H10M2.875 6.5H9.71922C10.1781 6.5 10.5781 6.1877 10.6894 5.74254L11.4701 3.74254C11.6279 3.11139 11.1506 2.5 10.5 2.5M6.5 0.75V2.5M6.5 2.5V4.25M6.5 2.5H8.25M6.5 2.5H4.75M5 11C5 10.7239 4.77614 10.5 4.5 10.5C4.22386 10.5 4 10.7239 4 11C4 11.2761 4.22386 11.5 4.5 11.5C4.77614 11.5 5 11.2761 5 11ZM10 11C10 10.7239 9.77614 10.5 9.5 10.5C9.22386 10.5 9 10.7239 9 11C9 11.2761 9.22386 11.5 9.5 11.5C9.77614 11.5 10 11.2761 10 11Z" stroke="#1E1E1E" stroke-linecap="round" stroke-linejoin="round"></path><g class=""><path d="M6.5 0.75V2.5M6.5 2.5V4.25M6.5 2.5H8.25M6.5 2.5H4.75" stroke="#1E1E1E" stroke-linecap="round" stroke-linejoin="round"></path></g></svg></div></div></a></article></li>
+2025-03-18 23:27:48 - INFO - Ürün 1/36 işleniyor...
+2025-03-18 23:27:48 - INFO - Ürün ID: i0
+2025-03-18 23:27:49 - INFO - Ürün linki: https://www.hepsiburada.com/iphone-13-128-gb-beyaz-p-HBCV00000ODHHO?magaza=Hepsiburada
+2025-03-18 23:27:49 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Apple iPhone 13 128 GB Beyaz
+2025-03-18 23:27:49 - INFO - İndirimli fiyat bulundu (div[data-test-id="final-price-1"]): 33.799 TL
+2025-03-18 23:27:49 - INFO - Ham fiyat string: '33.799 TL'
+2025-03-18 23:27:49 - INFO - Temizlenmiş fiyat string: '33799'
+2025-03-18 23:27:49 - INFO - Temizlenmiş indirimli fiyat: 33799.0
+2025-03-18 23:27:49 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:49 - INFO - Ürün: Apple iPhone 13 128 GB Beyaz, Fiyat: 33799.0 TL, İndirim: %0.00
+2025-03-18 23:27:49 - INFO - Veritabanına kaydediliyor: ID=i0, Ad=Apple iPhone 13 128 GB Beyaz, İndirim=%0.00
+2025-03-18 23:27:49 - INFO - Ürün güncellendi: Apple iPhone 13 128 GB Beyaz
+2025-03-18 23:27:49 - INFO - Ürün veritabanına kaydedildi: Apple iPhone 13 128 GB Beyaz
+2025-03-18 23:27:49 - INFO - Ürün 2/36 işleniyor...
+2025-03-18 23:27:49 - INFO - Ürün ID: i1
+2025-03-18 23:27:49 - INFO - Ürün linki: https://www.hepsiburada.com/philips-aqua-plus-8000-serisi-kablosuz-dikey-supurge-xc8053-01-pm-HBC00006X6P81?magaza=Hepsiburada
+2025-03-18 23:27:49 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01
+2025-03-18 23:27:49 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 13.999 TL
+2025-03-18 23:27:49 - INFO - Ham fiyat string: '13.999 TL'
+2025-03-18 23:27:49 - INFO - Temizlenmiş fiyat string: '13999'
+2025-03-18 23:27:49 - INFO - Temizlenmiş indirimli fiyat: 13999.0
+2025-03-18 23:27:49 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:49 - INFO - Ürün: Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01, Fiyat: 13999.0 TL, İndirim: %0.00
+2025-03-18 23:27:49 - INFO - Veritabanına kaydediliyor: ID=i1, Ad=Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01, İndirim=%0.00
+2025-03-18 23:27:49 - INFO - Ürün güncellendi: Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01
+2025-03-18 23:27:49 - INFO - Ürün veritabanına kaydedildi: Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01
+2025-03-18 23:27:49 - INFO - Ürün 3/36 işleniyor...
+2025-03-18 23:27:49 - INFO - Ürün ID: i2
+2025-03-18 23:27:49 - INFO - Ürün linki: https://www.hepsiburada.com/yoyko-bear-360-donebilir-yatabilir-isize-036-kg-oto-koltugu-isofix-sip-latch-gri-p-AILEALTYYK013GR?magaza=Hepsiburada
+2025-03-18 23:27:49 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri
+2025-03-18 23:27:49 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 5.949,30 TL
+2025-03-18 23:27:49 - INFO - Ham fiyat string: '5.949,30 TL'
+2025-03-18 23:27:49 - INFO - Temizlenmiş fiyat string: '5949.30'
+2025-03-18 23:27:49 - INFO - Temizlenmiş indirimli fiyat: 5949.3
+2025-03-18 23:27:49 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:49 - INFO - Ürün: Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri, Fiyat: 5949.3 TL, İndirim: %0.00
+2025-03-18 23:27:49 - INFO - Veritabanına kaydediliyor: ID=i2, Ad=Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri, İndirim=%0.00
+2025-03-18 23:27:49 - INFO - Ürün güncellendi: Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri
+2025-03-18 23:27:49 - INFO - Ürün veritabanına kaydedildi: Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri
+2025-03-18 23:27:49 - INFO - Ürün 4/36 işleniyor...
+2025-03-18 23:27:49 - INFO - Ürün ID: i3
+2025-03-18 23:27:49 - INFO - Ürün linki: https://www.hepsiburada.com/kiwi-kcc-4325w-koltuk-ve-hali-yikama-makinesi-pm-HBC00006IUDJN?magaza=Hepsiburada
+2025-03-18 23:27:49 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi
+2025-03-18 23:27:49 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 5.919 TL
+2025-03-18 23:27:49 - INFO - Ham fiyat string: '5.919 TL'
+2025-03-18 23:27:49 - INFO - Temizlenmiş fiyat string: '5919'
+2025-03-18 23:27:49 - INFO - Temizlenmiş indirimli fiyat: 5919.0
+2025-03-18 23:27:49 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:49 - INFO - Ürün: Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi, Fiyat: 5919.0 TL, İndirim: %0.00
+2025-03-18 23:27:49 - INFO - Veritabanına kaydediliyor: ID=i3, Ad=Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi, İndirim=%0.00
+2025-03-18 23:27:49 - INFO - Ürün güncellendi: Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi
+2025-03-18 23:27:49 - INFO - Ürün veritabanına kaydedildi: Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi
+2025-03-18 23:27:49 - INFO - Ürün 5/36 işleniyor...
+2025-03-18 23:27:49 - INFO - Ürün ID: i4
+2025-03-18 23:27:49 - INFO - Ürün linki: https://www.hepsiburada.com/roborock-s8-sonic-mopping-akilli-robot-supurge-s8-beyaz-p-HBCV00004I6Z2A?magaza=Hepsiburada
+2025-03-18 23:27:49 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz
+2025-03-18 23:27:50 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 20.699 TL
+2025-03-18 23:27:50 - INFO - Ham fiyat string: '20.699 TL'
+2025-03-18 23:27:50 - INFO - Temizlenmiş fiyat string: '20699'
+2025-03-18 23:27:50 - INFO - Temizlenmiş indirimli fiyat: 20699.0
+2025-03-18 23:27:50 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:50 - INFO - Ürün: Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz, Fiyat: 20699.0 TL, İndirim: %0.00
+2025-03-18 23:27:50 - INFO - Veritabanına kaydediliyor: ID=i4, Ad=Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz, İndirim=%0.00
+2025-03-18 23:27:50 - INFO - Ürün güncellendi: Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz
+2025-03-18 23:27:50 - INFO - Ürün veritabanına kaydedildi: Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz
+2025-03-18 23:27:50 - INFO - Ürün 6/36 işleniyor...
+2025-03-18 23:27:50 - INFO - Ürün ID: i5
+2025-03-18 23:27:50 - INFO - Ürün linki: https://www.hepsiburada.com/philips-5000-serisi-lattego-tam-otomatik-espresso-makinesi-ep5547-90-pm-HBC0000670CO5?magaza=Hepsiburada
+2025-03-18 23:27:50 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90
+2025-03-18 23:27:50 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 24.999 TL
+2025-03-18 23:27:50 - INFO - Ham fiyat string: '24.999 TL'
+2025-03-18 23:27:50 - INFO - Temizlenmiş fiyat string: '24999'
+2025-03-18 23:27:50 - INFO - Temizlenmiş indirimli fiyat: 24999.0
+2025-03-18 23:27:50 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:50 - INFO - Ürün: Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90, Fiyat: 24999.0 TL, İndirim: %0.00
+2025-03-18 23:27:50 - INFO - Veritabanına kaydediliyor: ID=i5, Ad=Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90, İndirim=%0.00
+2025-03-18 23:27:50 - INFO - Ürün güncellendi: Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90
+2025-03-18 23:27:50 - INFO - Ürün veritabanına kaydedildi: Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90
+2025-03-18 23:27:50 - INFO - Ürün 7/36 işleniyor...
+2025-03-18 23:27:50 - INFO - Ürün ID: i6
+2025-03-18 23:27:50 - INFO - Ürün linki: https://www.hepsiburada.com/samsung-galaxy-s24-fe-128-gb-8-gb-ram-samsung-turkiye-garantili-grafit-p-HBCV00006Y95PO?magaza=Hepsiburada
+2025-03-18 23:27:50 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit
+2025-03-18 23:27:50 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 23.999 TL
+2025-03-18 23:27:50 - INFO - Ham fiyat string: '23.999 TL'
+2025-03-18 23:27:50 - INFO - Temizlenmiş fiyat string: '23999'
+2025-03-18 23:27:50 - INFO - Temizlenmiş indirimli fiyat: 23999.0
+2025-03-18 23:27:50 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:50 - INFO - Ürün: Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit, Fiyat: 23999.0 TL, İndirim: %0.00
+2025-03-18 23:27:50 - INFO - Veritabanına kaydediliyor: ID=i6, Ad=Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit, İndirim=%0.00
+2025-03-18 23:27:50 - INFO - Ürün güncellendi: Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit
+2025-03-18 23:27:50 - INFO - Ürün veritabanına kaydedildi: Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit
+2025-03-18 23:27:50 - INFO - Ürün 8/36 işleniyor...
+2025-03-18 23:27:50 - INFO - Ürün ID: i7
+2025-03-18 23:27:50 - INFO - Ürün linki: https://www.hepsiburada.com/roborock-q-revo-s-akilli-robot-supurge-p-HBCV00006GZFPK?magaza=Hepsiburada
+2025-03-18 23:27:50 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Roborock Q Revo S Akıllı Robot Süpürge
+2025-03-18 23:27:50 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 32.799 TL
+2025-03-18 23:27:50 - INFO - Ham fiyat string: '32.799 TL'
+2025-03-18 23:27:50 - INFO - Temizlenmiş fiyat string: '32799'
+2025-03-18 23:27:50 - INFO - Temizlenmiş indirimli fiyat: 32799.0
+2025-03-18 23:27:50 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:50 - INFO - Ürün: Roborock Q Revo S Akıllı Robot Süpürge, Fiyat: 32799.0 TL, İndirim: %0.00
+2025-03-18 23:27:50 - INFO - Veritabanına kaydediliyor: ID=i7, Ad=Roborock Q Revo S Akıllı Robot Süpürge, İndirim=%0.00
+2025-03-18 23:27:50 - INFO - Ürün güncellendi: Roborock Q Revo S Akıllı Robot Süpürge
+2025-03-18 23:27:50 - INFO - Ürün veritabanına kaydedildi: Roborock Q Revo S Akıllı Robot Süpürge
+2025-03-18 23:27:50 - INFO - Ürün 9/36 işleniyor...
+2025-03-18 23:27:50 - INFO - Ürün ID: i8
+2025-03-18 23:27:50 - INFO - Ürün linki: https://www.hepsiburada.com/philips-lumea-bri950-00-lumea-lazer-epilasyon-ipl-tuy-alma-cihazi-yuz-vucut-hassas-bolge-kullanimi-kablolu-kablosuz-kullanim-pm-HB00000BEQYD?magaza=Hepsiburada
+2025-03-18 23:27:50 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım
+2025-03-18 23:27:50 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 15.499 TL
+2025-03-18 23:27:50 - INFO - Ham fiyat string: '15.499 TL'
+2025-03-18 23:27:50 - INFO - Temizlenmiş fiyat string: '15499'
+2025-03-18 23:27:50 - INFO - Temizlenmiş indirimli fiyat: 15499.0
+2025-03-18 23:27:50 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:50 - INFO - Ürün: Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım, Fiyat: 15499.0 TL, İndirim: %0.00
+2025-03-18 23:27:50 - INFO - Veritabanına kaydediliyor: ID=i8, Ad=Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım, İndirim=%0.00
+2025-03-18 23:27:50 - INFO - Ürün güncellendi: Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım
+2025-03-18 23:27:50 - INFO - Ürün veritabanına kaydedildi: Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım
+2025-03-18 23:27:50 - INFO - Ürün 10/36 işleniyor...
+2025-03-18 23:27:50 - INFO - Ürün ID: i9
+2025-03-18 23:27:50 - INFO - Ürün linki: https://www.hepsiburada.com/xiaomi-redmi-note-13-pro-256gb-8gb-ram-xiaomi-turkiye-garantili-siyah-p-HBCV00005PZUWA?magaza=Hepsiburada
+2025-03-18 23:27:51 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah
+2025-03-18 23:27:51 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 14.599 TL
+2025-03-18 23:27:51 - INFO - Ham fiyat string: '14.599 TL'
+2025-03-18 23:27:51 - INFO - Temizlenmiş fiyat string: '14599'
+2025-03-18 23:27:51 - INFO - Temizlenmiş indirimli fiyat: 14599.0
+2025-03-18 23:27:51 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:51 - INFO - Ürün: Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah, Fiyat: 14599.0 TL, İndirim: %0.00
+2025-03-18 23:27:51 - INFO - Veritabanına kaydediliyor: ID=i9, Ad=Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah, İndirim=%0.00
+2025-03-18 23:27:51 - INFO - Ürün güncellendi: Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah
+2025-03-18 23:27:51 - INFO - Ürün veritabanına kaydedildi: Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah
+2025-03-18 23:27:51 - INFO - Ürün 11/36 işleniyor...
+2025-03-18 23:27:51 - INFO - Ürün ID: i10
+2025-03-18 23:27:51 - INFO - Ürün linki: https://www.hepsiburada.com/apple-ipad-a16-11-128gb-wi-fi-tablet-pembe-md4e4tu-a-p-HBCV0000870BM8?magaza=Hepsiburada
+2025-03-18 23:27:51 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A
+2025-03-18 23:27:51 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 16.999 TL
+2025-03-18 23:27:51 - INFO - Ham fiyat string: '16.999 TL'
+2025-03-18 23:27:51 - INFO - Temizlenmiş fiyat string: '16999'
+2025-03-18 23:27:51 - INFO - Temizlenmiş indirimli fiyat: 16999.0
+2025-03-18 23:27:51 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:51 - INFO - Ürün: Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A, Fiyat: 16999.0 TL, İndirim: %0.00
+2025-03-18 23:27:51 - INFO - Veritabanına kaydediliyor: ID=i10, Ad=Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A, İndirim=%0.00
+2025-03-18 23:27:51 - INFO - Ürün güncellendi: Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A
+2025-03-18 23:27:51 - INFO - Ürün veritabanına kaydedildi: Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A
+2025-03-18 23:27:51 - INFO - Ürün 12/36 işleniyor...
+2025-03-18 23:27:51 - INFO - Ürün ID: i11
+2025-03-18 23:27:51 - INFO - Ürün linki: https://www.hepsiburada.com/samsung-galaxy-tab-s9-fe-sm-x510-6gb-128gb-10-9-gray-tablet-p-HBCV00004YJ9GW?magaza=Hepsiburada
+2025-03-18 23:27:51 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet
+2025-03-18 23:27:51 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 11.699 TL
+2025-03-18 23:27:51 - INFO - Ham fiyat string: '11.699 TL'
+2025-03-18 23:27:51 - INFO - Temizlenmiş fiyat string: '11699'
+2025-03-18 23:27:51 - INFO - Temizlenmiş indirimli fiyat: 11699.0
+2025-03-18 23:27:51 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:51 - INFO - Ürün: Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet, Fiyat: 11699.0 TL, İndirim: %0.00
+2025-03-18 23:27:51 - INFO - Veritabanına kaydediliyor: ID=i11, Ad=Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet, İndirim=%0.00
+2025-03-18 23:27:51 - INFO - Ürün güncellendi: Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet
+2025-03-18 23:27:51 - INFO - Ürün veritabanına kaydedildi: Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet
+2025-03-18 23:27:51 - INFO - Ürün 13/36 işleniyor...
+2025-03-18 23:27:51 - INFO - Ürün ID: i12
+2025-03-18 23:27:51 - INFO - Ürün linki: https://www.hepsiburada.com/lenovo-loq-15iax9i-intel-core-i5-12450hx-16gb-512gb-ssd-arc-a530m-freedos-15-6-fhd-tasinabilir-bilgisayar-83fq000utr-pm-HBC00005P6NCY?magaza=Hepsiburada
+2025-03-18 23:27:51 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR
+2025-03-18 23:27:51 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 23.999 TL
+2025-03-18 23:27:51 - INFO - Ham fiyat string: '23.999 TL'
+2025-03-18 23:27:51 - INFO - Temizlenmiş fiyat string: '23999'
+2025-03-18 23:27:51 - INFO - Temizlenmiş indirimli fiyat: 23999.0
+2025-03-18 23:27:51 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:51 - INFO - Ürün: Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR, Fiyat: 23999.0 TL, İndirim: %0.00
+2025-03-18 23:27:51 - INFO - Veritabanına kaydediliyor: ID=i12, Ad=Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR, İndirim=%0.00
+2025-03-18 23:27:51 - INFO - Ürün güncellendi: Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR
+2025-03-18 23:27:51 - INFO - Ürün veritabanına kaydedildi: Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR
+2025-03-18 23:27:51 - INFO - Ürün 14/36 işleniyor...
+2025-03-18 23:27:51 - INFO - Ürün ID: i13
+2025-03-18 23:27:51 - INFO - Ürün linki: https://www.hepsiburada.com/hoover-ndeh-10a2tsbe-17-10-kg-wi-fi-bluetooth-baglantili-isi-pompali-kurutma-makinesi-pm-HBC000013RBTA?magaza=Hepsiburada
+2025-03-18 23:27:51 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi
+2025-03-18 23:27:51 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 14.999 TL
+2025-03-18 23:27:51 - INFO - Ham fiyat string: '14.999 TL'
+2025-03-18 23:27:51 - INFO - Temizlenmiş fiyat string: '14999'
+2025-03-18 23:27:51 - INFO - Temizlenmiş indirimli fiyat: 14999.0
+2025-03-18 23:27:51 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:51 - INFO - Ürün: Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi, Fiyat: 14999.0 TL, İndirim: %0.00
+2025-03-18 23:27:51 - INFO - Veritabanına kaydediliyor: ID=i13, Ad=Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi, İndirim=%0.00
+2025-03-18 23:27:51 - INFO - Ürün güncellendi: Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi
+2025-03-18 23:27:51 - INFO - Ürün veritabanına kaydedildi: Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi
+2025-03-18 23:27:51 - INFO - Ürün 15/36 işleniyor...
+2025-03-18 23:27:51 - INFO - Ürün ID: i14
+2025-03-18 23:27:51 - INFO - Ürün linki: https://www.hepsiburada.com/hp-250-g10-intel-core-i5-1334u-16gb-512gb-ssd-freedos-15-6-tasinabilir-bilgisayar-b2nc5es-pm-HBC00007MQXDD?magaza=Hepsiburada
+2025-03-18 23:27:51 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES
+2025-03-18 23:27:52 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 15.499 TL
+2025-03-18 23:27:52 - INFO - Ham fiyat string: '15.499 TL'
+2025-03-18 23:27:52 - INFO - Temizlenmiş fiyat string: '15499'
+2025-03-18 23:27:52 - INFO - Temizlenmiş indirimli fiyat: 15499.0
+2025-03-18 23:27:52 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:52 - INFO - Ürün: HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES, Fiyat: 15499.0 TL, İndirim: %0.00
+2025-03-18 23:27:52 - INFO - Veritabanına kaydediliyor: ID=i14, Ad=HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES, İndirim=%0.00
+2025-03-18 23:27:52 - INFO - Ürün güncellendi: HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES
+2025-03-18 23:27:52 - INFO - Ürün veritabanına kaydedildi: HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES
+2025-03-18 23:27:52 - INFO - Ürün 16/36 işleniyor...
+2025-03-18 23:27:52 - INFO - Ürün ID: i15
+2025-03-18 23:27:52 - INFO - Ürün linki: https://www.hepsiburada.com/ugur-ued-7238-dtk-nf-dgt-d-s-r65-no-frost-e-sinifi-7-cekmeceli-derin-dondurucu-p-HBCV0000620I2V?magaza=Hepsiburada
+2025-03-18 23:27:52 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu
+2025-03-18 23:27:52 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 23.199 TL
+2025-03-18 23:27:52 - INFO - Ham fiyat string: '23.199 TL'
+2025-03-18 23:27:52 - INFO - Temizlenmiş fiyat string: '23199'
+2025-03-18 23:27:52 - INFO - Temizlenmiş indirimli fiyat: 23199.0
+2025-03-18 23:27:52 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:52 - INFO - Ürün: Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu, Fiyat: 23199.0 TL, İndirim: %0.00
+2025-03-18 23:27:52 - INFO - Veritabanına kaydediliyor: ID=i15, Ad=Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu, İndirim=%0.00
+2025-03-18 23:27:52 - INFO - Ürün güncellendi: Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu
+2025-03-18 23:27:52 - INFO - Ürün veritabanına kaydedildi: Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu
+2025-03-18 23:27:52 - INFO - Ürün 17/36 işleniyor...
+2025-03-18 23:27:52 - INFO - Ürün ID: i16
+2025-03-18 23:27:52 - INFO - Ürün linki: https://www.hepsiburada.com/xiaomi-robot-vacuum-x20-plus-beyaz-pm-HBC00006DA6SB?magaza=Hepsiburada
+2025-03-18 23:27:52 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Xiaomi Robot Vacuum X20 Plus Beyaz
+2025-03-18 23:27:52 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 20.899 TL
+2025-03-18 23:27:52 - INFO - Ham fiyat string: '20.899 TL'
+2025-03-18 23:27:52 - INFO - Temizlenmiş fiyat string: '20899'
+2025-03-18 23:27:52 - INFO - Temizlenmiş indirimli fiyat: 20899.0
+2025-03-18 23:27:52 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:52 - INFO - Ürün: Xiaomi Robot Vacuum X20 Plus Beyaz, Fiyat: 20899.0 TL, İndirim: %0.00
+2025-03-18 23:27:52 - INFO - Veritabanına kaydediliyor: ID=i16, Ad=Xiaomi Robot Vacuum X20 Plus Beyaz, İndirim=%0.00
+2025-03-18 23:27:52 - INFO - Ürün güncellendi: Xiaomi Robot Vacuum X20 Plus Beyaz
+2025-03-18 23:27:52 - INFO - Ürün veritabanına kaydedildi: Xiaomi Robot Vacuum X20 Plus Beyaz
+2025-03-18 23:27:52 - INFO - Ürün 18/36 işleniyor...
+2025-03-18 23:27:52 - INFO - Ürün ID: i17
+2025-03-18 23:27:52 - INFO - Ürün linki: https://www.hepsiburada.com/philips-marathon-daily-xb7150-07-toz-torbasiz-supurge-pm-HBC00004K3SLG?magaza=Hepsiburada
+2025-03-18 23:27:52 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge
+2025-03-18 23:27:52 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 8.289 TL
+2025-03-18 23:27:52 - INFO - Ham fiyat string: '8.289 TL'
+2025-03-18 23:27:52 - INFO - Temizlenmiş fiyat string: '8289'
+2025-03-18 23:27:52 - INFO - Temizlenmiş indirimli fiyat: 8289.0
+2025-03-18 23:27:52 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:52 - INFO - Ürün: Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge, Fiyat: 8289.0 TL, İndirim: %0.00
+2025-03-18 23:27:52 - INFO - Veritabanına kaydediliyor: ID=i17, Ad=Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge, İndirim=%0.00
+2025-03-18 23:27:52 - INFO - Ürün güncellendi: Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge
+2025-03-18 23:27:52 - INFO - Ürün veritabanına kaydedildi: Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge
+2025-03-18 23:27:52 - INFO - Ürün 19/36 işleniyor...
+2025-03-18 23:27:52 - INFO - Ürün ID: i18
+2025-03-18 23:27:52 - INFO - Ürün linki: https://www.hepsiburada.com/apple-watch-series-10-gps-46mm-jet-black-aluminium-case-with-black-sport-band-s-m-p-HBCV00006ZWFO3?magaza=Hepsiburada
+2025-03-18 23:27:52 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m
+2025-03-18 23:27:52 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 17.799 TL
+2025-03-18 23:27:52 - INFO - Ham fiyat string: '17.799 TL'
+2025-03-18 23:27:52 - INFO - Temizlenmiş fiyat string: '17799'
+2025-03-18 23:27:52 - INFO - Temizlenmiş indirimli fiyat: 17799.0
+2025-03-18 23:27:52 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:52 - INFO - Ürün: Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m, Fiyat: 17799.0 TL, İndirim: %0.00
+2025-03-18 23:27:52 - INFO - Veritabanına kaydediliyor: ID=i18, Ad=Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m, İndirim=%0.00
+2025-03-18 23:27:52 - INFO - Ürün güncellendi: Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m
+2025-03-18 23:27:52 - INFO - Ürün veritabanına kaydedildi: Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m
+2025-03-18 23:27:52 - INFO - Ürün 20/36 işleniyor...
+2025-03-18 23:27:52 - INFO - Ürün ID: i19
+2025-03-18 23:27:52 - INFO - Ürün linki: https://www.hepsiburada.com/philips-xw9463-11-aqua-trio-9000-seri-islak-kuru-temizlik-kablosuz-dikey-supurge-pm-HBC000075C17C?magaza=Hepsiburada
+2025-03-18 23:27:52 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge
+2025-03-18 23:27:52 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 29.499 TL
+2025-03-18 23:27:52 - INFO - Ham fiyat string: '29.499 TL'
+2025-03-18 23:27:52 - INFO - Temizlenmiş fiyat string: '29499'
+2025-03-18 23:27:52 - INFO - Temizlenmiş indirimli fiyat: 29499.0
+2025-03-18 23:27:53 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:53 - INFO - Ürün: Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge, Fiyat: 29499.0 TL, İndirim: %0.00
+2025-03-18 23:27:53 - INFO - Veritabanına kaydediliyor: ID=i19, Ad=Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge, İndirim=%0.00
+2025-03-18 23:27:53 - INFO - Ürün güncellendi: Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge
+2025-03-18 23:27:53 - INFO - Ürün veritabanına kaydedildi: Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge
+2025-03-18 23:27:53 - INFO - Ürün 21/36 işleniyor...
+2025-03-18 23:27:53 - INFO - Ürün ID: i20
+2025-03-18 23:27:53 - INFO - Ürün linki: https://www.hepsiburada.com/epson-ecotank-l3252-renkli-tankli-yazici-baski-tarama-kopya-usb-wifi-wi-fi-direct-pm-HBC000054E7K8?magaza=Hepsiburada
+2025-03-18 23:27:53 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct )
+2025-03-18 23:27:53 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 5.998,99 TL
+2025-03-18 23:27:53 - INFO - Ham fiyat string: '5.998,99 TL'
+2025-03-18 23:27:53 - INFO - Temizlenmiş fiyat string: '5998.99'
+2025-03-18 23:27:53 - INFO - Temizlenmiş indirimli fiyat: 5998.99
+2025-03-18 23:27:53 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:53 - INFO - Ürün: Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct ), Fiyat: 5998.99 TL, İndirim: %0.00
+2025-03-18 23:27:53 - INFO - Veritabanına kaydediliyor: ID=i20, Ad=Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct ), İndirim=%0.00
+2025-03-18 23:27:53 - INFO - Ürün güncellendi: Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct )
+2025-03-18 23:27:53 - INFO - Ürün veritabanına kaydedildi: Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct )
+2025-03-18 23:27:53 - INFO - Ürün 22/36 işleniyor...
+2025-03-18 23:27:53 - INFO - Ürün ID: i21
+2025-03-18 23:27:53 - INFO - Ürün linki: https://www.hepsiburada.com/kumtel-beyaz-cam-digital-dokunmatik-ankastre-set-8-programli-ko-40-tahdf-ocak-b66-sf2-ddt-firin-da6-835-davlumbaz-p-HBCV0000056WUA?magaza=Hepsiburada
+2025-03-18 23:27:53 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz)
+2025-03-18 23:27:53 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 10.999 TL
+2025-03-18 23:27:53 - INFO - Ham fiyat string: '10.999 TL'
+2025-03-18 23:27:53 - INFO - Temizlenmiş fiyat string: '10999'
+2025-03-18 23:27:53 - INFO - Temizlenmiş indirimli fiyat: 10999.0
+2025-03-18 23:27:53 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:53 - INFO - Ürün: Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz), Fiyat: 10999.0 TL, İndirim: %0.00
+2025-03-18 23:27:53 - INFO - Veritabanına kaydediliyor: ID=i21, Ad=Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz), İndirim=%0.00
+2025-03-18 23:27:53 - INFO - Ürün güncellendi: Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz)
+2025-03-18 23:27:53 - INFO - Ürün veritabanına kaydedildi: Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz)
+2025-03-18 23:27:53 - INFO - Ürün 23/36 işleniyor...
+2025-03-18 23:27:53 - INFO - Ürün ID: i22
+2025-03-18 23:27:53 - INFO - Ürün linki: https://www.hepsiburada.com/hp-255-g9-amd-ryzen-5-5625u-8gb-512gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-9m3g7at-pm-HBC0000658JZN?magaza=Hepsiburada
+2025-03-18 23:27:53 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT
+2025-03-18 23:27:53 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 12.499 TL
+2025-03-18 23:27:53 - INFO - Ham fiyat string: '12.499 TL'
+2025-03-18 23:27:53 - INFO - Temizlenmiş fiyat string: '12499'
+2025-03-18 23:27:53 - INFO - Temizlenmiş indirimli fiyat: 12499.0
+2025-03-18 23:27:53 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:53 - INFO - Ürün: HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT, Fiyat: 12499.0 TL, İndirim: %0.00
+2025-03-18 23:27:53 - INFO - Veritabanına kaydediliyor: ID=i22, Ad=HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT, İndirim=%0.00
+2025-03-18 23:27:53 - INFO - Ürün güncellendi: HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT
+2025-03-18 23:27:53 - INFO - Ürün veritabanına kaydedildi: HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT
+2025-03-18 23:27:53 - INFO - Ürün 24/36 işleniyor...
+2025-03-18 23:27:53 - INFO - Ürün ID: i23
+2025-03-18 23:27:53 - INFO - Ürün linki: https://www.hepsiburada.com/apple-airpods-4-aktif-gurultu-onleme-ozellikli-mxp93tu-a-pm-HBC0000700VEQ?magaza=Hepsiburada
+2025-03-18 23:27:53 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)
+2025-03-18 23:27:53 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 8.399 TL
+2025-03-18 23:27:53 - INFO - Ham fiyat string: '8.399 TL'
+2025-03-18 23:27:53 - INFO - Temizlenmiş fiyat string: '8399'
+2025-03-18 23:27:53 - INFO - Temizlenmiş indirimli fiyat: 8399.0
+2025-03-18 23:27:53 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:53 - INFO - Ürün: Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A), Fiyat: 8399.0 TL, İndirim: %0.00
+2025-03-18 23:27:53 - INFO - Veritabanına kaydediliyor: ID=i23, Ad=Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A), İndirim=%0.00
+2025-03-18 23:27:53 - INFO - Ürün güncellendi: Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)
+2025-03-18 23:27:53 - INFO - Ürün veritabanına kaydedildi: Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)
+2025-03-18 23:27:53 - INFO - Ürün 25/36 işleniyor...
+2025-03-18 23:27:53 - INFO - Ürün ID: i24
+2025-03-18 23:27:53 - INFO - Ürün linki: https://www.hepsiburada.com/uniqamping-katlanabilir-aluminyum-masa-56x46x40-p-HBCV00006QM2RQ?magaza=Hepsiburada
+2025-03-18 23:27:53 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Uniqamping Katlanabilir Alüminyum Masa 56X46X40
+2025-03-18 23:27:53 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 999 TL
+2025-03-18 23:27:53 - INFO - Ham fiyat string: '999 TL'
+2025-03-18 23:27:53 - INFO - Temizlenmiş fiyat string: '999'
+2025-03-18 23:27:53 - INFO - Temizlenmiş indirimli fiyat: 999.0
+2025-03-18 23:27:53 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:53 - INFO - Ürün: Uniqamping Katlanabilir Alüminyum Masa 56X46X40, Fiyat: 999.0 TL, İndirim: %0.00
+2025-03-18 23:27:53 - INFO - Veritabanına kaydediliyor: ID=i24, Ad=Uniqamping Katlanabilir Alüminyum Masa 56X46X40, İndirim=%0.00
+2025-03-18 23:27:53 - INFO - Ürün güncellendi: Uniqamping Katlanabilir Alüminyum Masa 56X46X40
+2025-03-18 23:27:53 - INFO - Ürün veritabanına kaydedildi: Uniqamping Katlanabilir Alüminyum Masa 56X46X40
+2025-03-18 23:27:53 - INFO - Ürün 26/36 işleniyor...
+2025-03-18 23:27:54 - INFO - Ürün ID: i25
+2025-03-18 23:27:54 - INFO - Ürün linki: https://www.hepsiburada.com/yoyko-exclusive-comfort-8-in-1-anne-yani-park-yatak-oyun-parki-koyu-gri-70-x-110-cm-p-HBV00000PWFZV?magaza=Hepsiburada
+2025-03-18 23:27:54 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm
+2025-03-18 23:27:54 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 5.949,30 TL
+2025-03-18 23:27:54 - INFO - Ham fiyat string: '5.949,30 TL'
+2025-03-18 23:27:54 - INFO - Temizlenmiş fiyat string: '5949.30'
+2025-03-18 23:27:54 - INFO - Temizlenmiş indirimli fiyat: 5949.3
+2025-03-18 23:27:54 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:54 - INFO - Ürün: Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm, Fiyat: 5949.3 TL, İndirim: %0.00
+2025-03-18 23:27:54 - INFO - Veritabanına kaydediliyor: ID=i25, Ad=Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm, İndirim=%0.00
+2025-03-18 23:27:54 - INFO - Ürün güncellendi: Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm
+2025-03-18 23:27:54 - INFO - Ürün veritabanına kaydedildi: Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm
+2025-03-18 23:27:54 - INFO - Ürün 27/36 işleniyor...
+2025-03-18 23:27:54 - INFO - Ürün ID: i26
+2025-03-18 23:27:54 - INFO - Ürün linki: https://www.hepsiburada.com/iphone-16-pro-128gb-naturel-titanyum-sifirdan-farksiz-urun-p-HBCV00007AMD2J?magaza=Hepsiburada
+2025-03-18 23:27:54 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün
+2025-03-18 23:27:54 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 80.874,22 TL
+2025-03-18 23:27:54 - INFO - Ham fiyat string: '80.874,22 TL'
+2025-03-18 23:27:54 - INFO - Temizlenmiş fiyat string: '80874.22'
+2025-03-18 23:27:54 - INFO - Temizlenmiş indirimli fiyat: 80874.22
+2025-03-18 23:27:54 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:54 - INFO - Ürün: Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün, Fiyat: 80874.22 TL, İndirim: %0.00
+2025-03-18 23:27:54 - INFO - Veritabanına kaydediliyor: ID=i26, Ad=Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün, İndirim=%0.00
+2025-03-18 23:27:54 - INFO - Ürün güncellendi: Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün
+2025-03-18 23:27:54 - INFO - Ürün veritabanına kaydedildi: Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün
+2025-03-18 23:27:54 - INFO - Ürün 28/36 işleniyor...
+2025-03-18 23:27:54 - INFO - Ürün ID: i27
+2025-03-18 23:27:54 - INFO - Ürün linki: https://www.hepsiburada.com/samsung-galaxy-tab-a9-wi-fi-sm-x110-8gb-128gb-8-7-tablet-mystic-silver-p-HBCV00005LDS4D?magaza=Hepsiburada
+2025-03-18 23:27:54 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver
+2025-03-18 23:27:54 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 4.949 TL
+2025-03-18 23:27:54 - INFO - Ham fiyat string: '4.949 TL'
+2025-03-18 23:27:54 - INFO - Temizlenmiş fiyat string: '4949'
+2025-03-18 23:27:54 - INFO - Temizlenmiş indirimli fiyat: 4949.0
+2025-03-18 23:27:54 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:54 - INFO - Ürün: Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver, Fiyat: 4949.0 TL, İndirim: %0.00
+2025-03-18 23:27:54 - INFO - Veritabanına kaydediliyor: ID=i27, Ad=Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver, İndirim=%0.00
+2025-03-18 23:27:54 - INFO - Ürün güncellendi: Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver
+2025-03-18 23:27:54 - INFO - Ürün veritabanına kaydedildi: Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver
+2025-03-18 23:27:54 - INFO - Ürün 29/36 işleniyor...
+2025-03-18 23:27:54 - INFO - Ürün ID: i28
+2025-03-18 23:27:54 - INFO - Ürün linki: https://www.hepsiburada.com/voit-v-fit-by-voit-runmate-kosu-bandi-pm-HBC00000OJPES?magaza=Hepsiburada
+2025-03-18 23:27:54 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli
+2025-03-18 23:27:54 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 11.961 TL
+2025-03-18 23:27:54 - INFO - Ham fiyat string: '11.961 TL'
+2025-03-18 23:27:54 - INFO - Temizlenmiş fiyat string: '11961'
+2025-03-18 23:27:54 - INFO - Temizlenmiş indirimli fiyat: 11961.0
+2025-03-18 23:27:54 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:54 - INFO - Ürün: Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli, Fiyat: 11961.0 TL, İndirim: %0.00
+2025-03-18 23:27:54 - INFO - Veritabanına kaydediliyor: ID=i28, Ad=Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli, İndirim=%0.00
+2025-03-18 23:27:54 - INFO - Ürün güncellendi: Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli
+2025-03-18 23:27:54 - INFO - Ürün veritabanına kaydedildi: Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli
+2025-03-18 23:27:54 - INFO - Ürün 30/36 işleniyor...
+2025-03-18 23:27:54 - INFO - Ürün ID: i29
+2025-03-18 23:27:54 - INFO - Ürün linki: https://www.hepsiburada.com/maxicosi-mica-360-pro-isize-dunyanin-ilk-kizakli-arac-disina-cikabilen-adac-li-isofix-li-360-donebilir-yatabilir-018-kg-bebek-oto-koltugu-authentic-black-p-HBCV00005TB73N?magaza=Hepsiburada
+2025-03-18 23:27:54 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black
+2025-03-18 23:27:54 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 18.900,01 TL
+2025-03-18 23:27:54 - INFO - Ham fiyat string: '18.900,01 TL'
+2025-03-18 23:27:54 - INFO - Temizlenmiş fiyat string: '18900.01'
+2025-03-18 23:27:54 - INFO - Temizlenmiş indirimli fiyat: 18900.01
+2025-03-18 23:27:54 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:54 - INFO - Ürün: Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black, Fiyat: 18900.01 TL, İndirim: %0.00
+2025-03-18 23:27:54 - INFO - Veritabanına kaydediliyor: ID=i29, Ad=Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black, İndirim=%0.00
+2025-03-18 23:27:54 - INFO - Ürün güncellendi: Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black
+2025-03-18 23:27:54 - INFO - Ürün veritabanına kaydedildi: Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black
+2025-03-18 23:27:54 - INFO - Ürün 31/36 işleniyor...
+2025-03-18 23:27:54 - INFO - Ürün ID: i30
+2025-03-18 23:27:55 - INFO - Ürün linki: https://www.hepsiburada.com/tefal-l3959953-ingenio-unlimited-titanyum-6x-buyuk-set-12-parca-2100134252-pm-HBC00006S779P?magaza=Hepsiburada
+2025-03-18 23:27:55 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252
+2025-03-18 23:27:55 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 12.579,90 TL
+2025-03-18 23:27:55 - INFO - Ham fiyat string: '12.579,90 TL'
+2025-03-18 23:27:55 - INFO - Temizlenmiş fiyat string: '12579.90'
+2025-03-18 23:27:55 - INFO - Temizlenmiş indirimli fiyat: 12579.9
+2025-03-18 23:27:55 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:55 - INFO - Ürün: Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252, Fiyat: 12579.9 TL, İndirim: %0.00
+2025-03-18 23:27:55 - INFO - Veritabanına kaydediliyor: ID=i30, Ad=Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252, İndirim=%0.00
+2025-03-18 23:27:55 - INFO - Ürün güncellendi: Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252
+2025-03-18 23:27:55 - INFO - Ürün veritabanına kaydedildi: Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252
+2025-03-18 23:27:55 - INFO - Ürün 32/36 işleniyor...
+2025-03-18 23:27:55 - INFO - Ürün ID: i31
+2025-03-18 23:27:55 - INFO - Ürün linki: https://www.hepsiburada.com/yoyko-ultimate-travel-sistem-bebek-arabasi-3-in-1-gri-silver-p-HBV00000TKF01?magaza=Hepsiburada
+2025-03-18 23:27:55 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver
+2025-03-18 23:27:55 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 8.995 TL
+2025-03-18 23:27:55 - INFO - Ham fiyat string: '8.995 TL'
+2025-03-18 23:27:55 - INFO - Temizlenmiş fiyat string: '8995'
+2025-03-18 23:27:55 - INFO - Temizlenmiş indirimli fiyat: 8995.0
+2025-03-18 23:27:55 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:55 - INFO - Ürün: Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver, Fiyat: 8995.0 TL, İndirim: %0.00
+2025-03-18 23:27:55 - INFO - Veritabanına kaydediliyor: ID=i31, Ad=Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver, İndirim=%0.00
+2025-03-18 23:27:55 - INFO - Ürün güncellendi: Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver
+2025-03-18 23:27:55 - INFO - Ürün veritabanına kaydedildi: Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver
+2025-03-18 23:27:55 - INFO - Ürün 33/36 işleniyor...
+2025-03-18 23:27:55 - INFO - Ürün ID: i32
+2025-03-18 23:27:55 - INFO - Ürün linki: https://www.hepsiburada.com/lego-icons-orkide-10311-yetiskinler-icin-dekoratif-koleksiyonluk-ve-sergilenebilir-cicek-modeli-yapim-seti-608-parca-pm-HBC000025I1DS?magaza=Hepsiburada
+2025-03-18 23:27:55 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça)
+2025-03-18 23:27:55 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 1.847,18 TL
+2025-03-18 23:27:55 - INFO - Ham fiyat string: '1.847,18 TL'
+2025-03-18 23:27:55 - INFO - Temizlenmiş fiyat string: '1847.18'
+2025-03-18 23:27:55 - INFO - Temizlenmiş indirimli fiyat: 1847.18
+2025-03-18 23:27:55 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:55 - INFO - Ürün: LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça), Fiyat: 1847.18 TL, İndirim: %0.00
+2025-03-18 23:27:55 - INFO - Veritabanına kaydediliyor: ID=i32, Ad=LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça), İndirim=%0.00
+2025-03-18 23:27:55 - INFO - Ürün güncellendi: LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça)
+2025-03-18 23:27:55 - INFO - Ürün veritabanına kaydedildi: LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça)
+2025-03-18 23:27:55 - INFO - Ürün 34/36 işleniyor...
+2025-03-18 23:27:55 - INFO - Ürün ID: i33
+2025-03-18 23:27:55 - INFO - Ürün linki: https://www.hepsiburada.com/stanley-termos-the-legendary-classic-bottle-1-9l-2-0qt-yesil-p-HBV00000LE60Q?magaza=Hepsiburada
+2025-03-18 23:27:55 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil
+2025-03-18 23:27:55 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 2.639,20 TL
+2025-03-18 23:27:55 - INFO - Ham fiyat string: '2.639,20 TL'
+2025-03-18 23:27:55 - INFO - Temizlenmiş fiyat string: '2639.20'
+2025-03-18 23:27:55 - INFO - Temizlenmiş indirimli fiyat: 2639.2
+2025-03-18 23:27:55 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:55 - INFO - Ürün: Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil, Fiyat: 2639.2 TL, İndirim: %0.00
+2025-03-18 23:27:55 - INFO - Veritabanına kaydediliyor: ID=i33, Ad=Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil, İndirim=%0.00
+2025-03-18 23:27:55 - INFO - Ürün güncellendi: Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil
+2025-03-18 23:27:55 - INFO - Ürün veritabanına kaydedildi: Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil
+2025-03-18 23:27:55 - INFO - Ürün 35/36 işleniyor...
+2025-03-18 23:27:55 - INFO - Ürün ID: i34
+2025-03-18 23:27:55 - INFO - Ürün linki: https://www.hepsiburada.com/anker-soundcore-q21i-nc-bluetooth-kablosuz-kulaklik-aktif-gurultu-onleyici-anc-40-saate-varan-sarj-suresi-siyah-a3004-anker-turkiye-garantili-pm-HBC00006NHP8D?magaza=Hepsiburada
+2025-03-18 23:27:55 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili)
+2025-03-18 23:27:55 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 1.939 TL
+2025-03-18 23:27:55 - INFO - Ham fiyat string: '1.939 TL'
+2025-03-18 23:27:55 - INFO - Temizlenmiş fiyat string: '1939'
+2025-03-18 23:27:55 - INFO - Temizlenmiş indirimli fiyat: 1939.0
+2025-03-18 23:27:56 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:56 - INFO - Ürün: Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili), Fiyat: 1939.0 TL, İndirim: %0.00
+2025-03-18 23:27:56 - INFO - Veritabanına kaydediliyor: ID=i34, Ad=Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili), İndirim=%0.00
+2025-03-18 23:27:56 - INFO - Ürün güncellendi: Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili)
+2025-03-18 23:27:56 - INFO - Ürün veritabanına kaydedildi: Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili)
+2025-03-18 23:27:56 - INFO - Ürün 36/36 işleniyor...
+2025-03-18 23:27:56 - INFO - Ürün ID: i35
+2025-03-18 23:27:56 - INFO - Ürün linki: https://www.hepsiburada.com/philips-dst7510-80-azur-buharli-utu-7500-serisi-pm-HBC00003MWUIP?magaza=Hepsiburada
+2025-03-18 23:27:56 - INFO - Ürün adı bulundu (span.title-qp6D86wJ1SVIfbfer5xg): Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU
+2025-03-18 23:27:56 - INFO - İndirimli fiyat bulundu (div.price-R57b2z0LFOTTCaDIKTgo): 3.139 TL
+2025-03-18 23:27:56 - INFO - Ham fiyat string: '3.139 TL'
+2025-03-18 23:27:56 - INFO - Temizlenmiş fiyat string: '3139'
+2025-03-18 23:27:56 - INFO - Temizlenmiş indirimli fiyat: 3139.0
+2025-03-18 23:27:56 - INFO - Normal fiyat bulunamadı, indirim yok.
+2025-03-18 23:27:56 - INFO - Ürün: Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU, Fiyat: 3139.0 TL, İndirim: %0.00
+2025-03-18 23:27:56 - INFO - Veritabanına kaydediliyor: ID=i35, Ad=Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU, İndirim=%0.00
+2025-03-18 23:27:56 - INFO - Ürün güncellendi: Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU
+2025-03-18 23:27:56 - INFO - Ürün veritabanına kaydedildi: Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU
+2025-03-18 23:27:56 - INFO - Toplam 36 ürün işlendi. 0 ürün %5+ indirimli olarak bildirildi.
