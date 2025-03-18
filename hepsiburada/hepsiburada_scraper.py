@@ -137,13 +137,21 @@ def clean_price(price_str):
     if not price_str:
         return 0.0
     
-    price_str = price_str.replace("TL", "").strip()
-    price_str = price_str.replace(".", "")
-    price_str = price_str.replace(",", ".")
+    logging.info(f"Ham fiyat string: '{price_str}'")
+    
+    # TL, ₺ ve boşlukları temizle
+    price_str = price_str.replace("TL", "").replace("₺", "").strip()
+    
+    # Noktalama ve binlik ayraçlarını temizle
+    price_str = price_str.replace(".", "")  # Binlik ayracı
+    price_str = price_str.replace(",", ".")  # Ondalık ayracı
+    
+    logging.info(f"Temizlenmiş fiyat string: '{price_str}'")
     
     try:
         return float(price_str)
-    except ValueError:
+    except ValueError as e:
+        logging.error(f"Fiyat dönüştürme hatası: {str(e)}, String: '{price_str}'")
         return 0.0
 
 def telegram_bildirim_gonder(conn, urun_id, urun_adi, urun_linki, indirim_orani, sifir_fiyati, indirimli_fiyat):
@@ -214,6 +222,7 @@ def scan_hepsiburada():
     logger.info("Hepsiburada taraması başlatılıyor...")
     
     conn = setup_db()
+    driver = None
     
     try:
         driver = setup_driver()
@@ -231,118 +240,236 @@ def scan_hepsiburada():
         # Sayfanın yüklendiğini kontrol et
         logger.info("Sayfa yüklendi, ürünler aranıyor...")
         
-        try:
-            WebDriverWait(driver, 20).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "li.productListContent-zAP0Y5msy8OHn5z7T_K_"))
-            )
-        except TimeoutException:
-            logger.error("Ürün listesi bulunamadı. Sayfa yapısı değişmiş olabilir.")
-            # Sayfa kaynağını kaydet
-            with open("hepsiburada_page_source.html", "w", encoding="utf-8") as f:
-                f.write(driver.page_source)
-            logger.info("Sayfa kaynağı 'hepsiburada_page_source.html' dosyasına kaydedildi.")
-            raise
+        # Önce eski CSS seçiciyi deneyelim
+        urunler = driver.find_elements(By.CSS_SELECTOR, "li.productListContent-zAP0Y5msy8OHn5z7T_K_")
+        
+        # Eğer eski seçici çalışmazsa, yeni seçiciyi deneyelim (hepsiburada-prd.md'deki son örneğe göre)
+        if not urunler:
+            logger.info("Eski CSS seçici çalışmadı, yeni seçiciyi deniyorum...")
+            urunler = driver.find_elements(By.CSS_SELECTOR, "a.productCardLink-XUJYBO4aGZl6zvMNIzAJ")
+        
+        logger.info(f"Sayfada {len(urunler)} adet ürün bulundu.")
+        
+        # Sayfa kaynağını kaydet (hata ayıklama için)
+        with open(os.path.join(HEPSIBURADA_DIR, "hepsiburada_page_source.html"), "w", encoding="utf-8") as f:
+            f.write(driver.page_source)
+        logger.info("Sayfa kaynağı 'hepsiburada_page_source.html' dosyasına kaydedildi.")
+        
+        if not urunler:
+            logger.error("Hiç ürün bulunamadı. Sayfa yapısı değişmiş olabilir.")
+            return
         
         urun_sayisi = 0
         indirim_urun_sayisi = 0
         islenen_urun_idleri = set()
         
-        while True:
-            urunler = driver.find_elements(By.CSS_SELECTOR, "li.productListContent-zAP0Y5msy8OHn5z7T_K_")
-            logger.info(f"Sayfada {len(urunler)} adet ürün bulundu.")
-            
-            if not urunler:
-                break
+        for urun_index, urun in enumerate(urunler):
+            try:
+                logger.info(f"Ürün {urun_index+1} işleniyor...")
                 
-            for urun in urunler:
+                # Her ürün için HTML'i incele
+                urun_html = urun.get_attribute('outerHTML')
+                logger.info(f"Ürün HTML (ilk 200 karakter): {urun_html[:200]}...")
+                
+                # Ürün ID'sini belirle (yeni yapıda ürün ID'si olmayabilir, bu durumda index kullanıyoruz)
+                urun_id = urun.get_attribute('id') or f"urun_{urun_index}"
+                
+                if urun_id in islenen_urun_idleri:
+                    logger.info(f"Ürün ID {urun_id} daha önce işlenmiş, atlanıyor.")
+                    continue
+                
+                islenen_urun_idleri.add(urun_id)
+                
+                # Yeni HTML yapısı için ürün linkini al
                 try:
-                    # Ürün ID'sini al
-                    urun_id = urun.get_attribute('id')
-                    if not urun_id or urun_id in islenen_urun_idleri:
-                        continue
-                        
-                    islenen_urun_idleri.add(urun_id)
-                    
-                    # Ürün adını al
+                    urun_linki = urun.get_attribute('href')
+                    if not urun_linki:
+                        # Eğer direkt link yoksa, içindeki a etiketini bul
+                        link_element = urun.find_element(By.TAG_NAME, 'a')
+                        urun_linki = link_element.get_attribute('href')
+                    logger.info(f"Ürün linki: {urun_linki}")
+                except Exception as e:
+                    logger.error(f"Ürün linki alınamadı: {str(e)}")
+                    continue
+                
+                # Ürün adını al - eski ve yeni HTML yapısını dene
+                try:
+                    # Önce eski yapıyı dene
                     try:
-                        urun_adi = urun.find_element(By.CSS_SELECTOR, 'h3[data-test-id="product-card-name"]').text.strip()
+                        urun_adi_element = urun.find_element(By.CSS_SELECTOR, 'h3[data-test-id="product-card-name"]')
+                        urun_adi = urun_adi_element.text.strip()
                     except:
-                        continue
+                        # Sonra yeni yapıyı dene
+                        try:
+                            urun_adi_element = urun.find_element(By.CSS_SELECTOR, 'span.title-qp6D86wJ1SVIfbfer5xg')
+                            urun_adi = urun_adi_element.text.strip()
+                        except:
+                            # Başka bir seçici dene
+                            urun_adi_element = urun.find_element(By.CSS_SELECTOR, 'h2.title-wupXHSGzcP0QBsfFSpmz')
+                            urun_adi = urun_adi_element.text.strip()
                     
-                    # Ürün linkini al
+                    logger.info(f"Ürün adı: {urun_adi}")
+                except Exception as e:
+                    logger.error(f"Ürün adı alınamadı: {str(e)}")
+                    continue
+                
+                # Fiyat bilgilerini al - eski ve yeni HTML yapısını dene
+                try:
+                    # İndirimli fiyat - eski seçiciyi dene
                     try:
-                        urun_linki = urun.find_element(By.CSS_SELECTOR, 'a[data-test-id="product-card-link"]').get_attribute('href')
+                        indirimli_fiyat_element = urun.find_element(By.CSS_SELECTOR, 'div[data-test-id="price-current-price"]')
+                        indirimli_fiyat_text = indirimli_fiyat_element.text
                     except:
-                        continue
+                        # Yeni seçiciyi dene
+                        try:
+                            indirimli_fiyat_element = urun.find_element(By.CSS_SELECTOR, 'div[data-test-id="final-price-1"]')
+                            indirimli_fiyat_text = indirimli_fiyat_element.text
+                        except:
+                            # Başka bir seçici dene
+                            indirimli_fiyat_element = urun.find_element(By.CSS_SELECTOR, 'div.price-R57b2z0LFOTTCaDIKTgo')
+                            indirimli_fiyat_text = indirimli_fiyat_element.text
                     
-                    # Fiyat bilgilerini al
+                    logger.info(f"İndirimli fiyat (ham): {indirimli_fiyat_text}")
+                    indirimli_fiyat = clean_price(indirimli_fiyat_text)
+                    logger.info(f"İndirimli fiyat (temiz): {indirimli_fiyat}")
+                    
+                    # Normal fiyat - önce eski seçiciyi dene
                     try:
-                        fiyat_element = urun.find_element(By.CSS_SELECTOR, 'div[data-test-id="price-current-price"]')
-                        indirimli_fiyat = clean_price(fiyat_element.text)
+                        normal_fiyat_element = urun.find_element(By.CSS_SELECTOR, 'div[data-test-id="price-prev-price"]')
+                        normal_fiyat_text = normal_fiyat_element.text
+                        logger.info(f"Normal fiyat (ham): {normal_fiyat_text}")
+                        sifir_fiyati = clean_price(normal_fiyat_text)
+                        logger.info(f"Normal fiyat (temiz): {sifir_fiyati}")
                         
-                        sifir_fiyat_element = urun.find_element(By.CSS_SELECTOR, 'div[data-test-id="price-prev-price"]')
-                        sifir_fiyati = clean_price(sifir_fiyat_element.text)
-                        
-                        if sifir_fiyati > 0 and indirimli_fiyat > 0:
+                        # İndirim oranını hesapla
+                        if sifir_fiyati > 0 and indirimli_fiyat > 0 and sifir_fiyati > indirimli_fiyat:
                             indirim_orani = ((sifir_fiyati - indirimli_fiyat) / sifir_fiyati) * 100
+                            logger.info(f"İndirim oranı: %{indirim_orani:.2f}")
                         else:
+                            logger.info("Geçerli bir indirim bulunamadı.")
                             indirim_orani = 0
-                            
-                    except:
-                        continue
-                    
-                    logger.info(f"Ürün: {urun_adi}, İndirim: %{indirim_orani:.2f}, "
-                              f"Sıfır Fiyatı: {sifir_fiyati}, İndirimli Fiyat: {indirimli_fiyat}")
-                    
-                    # Veritabanına kaydet
+                            # İndirimsiz ürünlerde de devam edelim, veritabanına kaydetmek için
+                            sifir_fiyati = indirimli_fiyat
+                    except Exception as e:
+                        # Normal fiyat bulunamadı, indirim yok
+                        logger.info(f"Normal fiyat bulunamadı, indirim yok: {str(e)}")
+                        sifir_fiyati = indirimli_fiyat
+                        indirim_orani = 0
+                        
+                except Exception as e:
+                    logger.error(f"Fiyat bilgileri alınamadı: {str(e)}")
+                    continue
+                
+                # Kaydetmeye değer mi kontrol et (en azından ürün adı ve fiyat bilgisi olmalı)
+                if not urun_adi or indirimli_fiyat <= 0:
+                    logger.info(f"Ürün {urun_id} için yeterli bilgi yok, atlanıyor.")
+                    continue
+                
+                # Veritabanına kaydet
+                try:
                     kayit_basarili = urun_kaydet(conn, urun_id, urun_adi, urun_linki, 
-                                               indirim_orani, sifir_fiyati, indirimli_fiyat)
+                                            indirim_orani, sifir_fiyati, indirimli_fiyat)
+                    logger.info(f"Ürün veritabanına kaydedildi: {urun_adi}")
                     
-                    # İndirim oranı %25'ten fazlaysa bildirim gönder
-                    if indirim_orani >= 25:
+                    # İndirim oranı %5'ten fazlaysa bildirim göndermeyi değerlendir
+                    if indirim_orani >= 5:
                         cursor = conn.cursor()
                         cursor.execute("SELECT bildirildi FROM hepsiburada_urunler WHERE urun_id = ?", (urun_id,))
                         result = cursor.fetchone()
                         
                         if result and result[0] == 0:
-                            telegram_bildirim_gonder(conn, urun_id, urun_adi, urun_linki,
-                                                   indirim_orani, sifir_fiyati, indirimli_fiyat)
-                            indirim_urun_sayisi += 1
+                            bildirim_basarili = telegram_bildirim_gonder(conn, urun_id, urun_adi, urun_linki,
+                                                  indirim_orani, sifir_fiyati, indirimli_fiyat)
+                            if bildirim_basarili:
+                                indirim_urun_sayisi += 1
+                                logger.info(f"Telegram bildirimi gönderildi: {urun_adi}")
+                            else:
+                                logger.error(f"Telegram bildirimi gönderilemedi: {urun_adi}")
                     
                     urun_sayisi += 1
-                    
                 except Exception as e:
-                    logger.error(f"Ürün işlenirken hata oluştu: {str(e)}")
+                    logger.error(f"Ürün kaydedilirken hata oluştu: {str(e)}")
                     continue
+                
+            except Exception as e:
+                logger.error(f"Ürün işlenirken hata oluştu: {str(e)}")
+                continue
+        
+        # Daha fazla ürün yükle - hem eski hem yeni yapıyı dene
+        try:
+            logger.info("Daha fazla ürün yüklemeye çalışılıyor...")
             
-            # Daha fazla ürün yükle
+            # Sayfanın sonuna kaydır
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(3)
+            
+            # Yeni yapıdaki "Daha fazla ürün" butonunu bulma
             try:
-                load_more = WebDriverWait(driver, 10).until(
+                # Önce eski seçiciyi dene
+                load_more_button = WebDriverWait(driver, 5).until(
                     EC.element_to_be_clickable((By.CSS_SELECTOR, "button.moria-LoadMore-button"))
                 )
-                driver.execute_script("arguments[0].click();", load_more)
-                time.sleep(3)
+                logger.info("Eski 'Daha fazla ürün' butonu bulundu")
             except:
-                logger.info("Daha fazla ürün bulunamadı.")
-                break
+                # Sonra yeni seçiciyi dene
+                try:
+                    load_more_button = WebDriverWait(driver, 5).until(
+                        EC.element_to_be_clickable((By.CSS_SELECTOR, "button[data-test-id='load-more-button']"))
+                    )
+                    logger.info("Yeni 'Daha fazla ürün' butonu bulundu")
+                except:
+                    # hepsiburada-prd.md'deki seçiciyi dene
+                    try:
+                        load_more_button = WebDriverWait(driver, 5).until(
+                            EC.element_to_be_clickable((By.CSS_SELECTOR, "button.moria-Button-bzoChi"))
+                        )
+                        logger.info("PRD'deki 'Daha fazla ürün' butonu bulundu")
+                    except:
+                        logger.info("'Daha fazla ürün' butonu bulunamadı")
+                        load_more_button = None
+            
+            if load_more_button:
+                logger.info("'Daha fazla ürün' butonuna tıklanıyor...")
+                driver.execute_script("arguments[0].click();", load_more_button)
+                time.sleep(5)
+                
+                # Yeni ürünleri al (hem eski hem yeni yapıyı kontrol et)
+                new_urunler = driver.find_elements(By.CSS_SELECTOR, "li.productListContent-zAP0Y5msy8OHn5z7T_K_")
+                if not new_urunler:
+                    new_urunler = driver.find_elements(By.CSS_SELECTOR, "a.productCardLink-XUJYBO4aGZl6zvMNIzAJ")
+                
+                logger.info(f"Daha fazla yükleme sonrası {len(new_urunler)} ürün bulundu")
+                
+                # Yeni ürünleri işle - sadece daha önce işlenmemiş ID'ler
+                for yeni_urun_index, yeni_urun in enumerate(new_urunler):
+                    yeni_urun_id = yeni_urun.get_attribute('id') or f"yeni_urun_{yeni_urun_index}"
+                    if yeni_urun_id not in islenen_urun_idleri:
+                        # Burada aynı işleme kodu tekrarlanabilir veya ayrı bir metod çağrılabilir
+                        logger.info(f"Yeni yüklenen ürün işleniyor: {yeni_urun_id}")
+                        # İşleme kodunu buraya kopyalayabilirsiniz
         
-        logger.info(f"Toplam {urun_sayisi} ürün işlendi. {indirim_urun_sayisi} ürün %25+ indirimli olarak bildirildi.")
+        except Exception as e:
+            logger.error(f"Daha fazla ürün yüklenirken hata oluştu: {str(e)}")
+        
+        logger.info(f"Toplam {urun_sayisi} ürün işlendi. {indirim_urun_sayisi} ürün %5+ indirimli olarak bildirildi.")
         
     except Exception as e:
         logger.error(f"Tarama sırasında hata oluştu: {str(e)}")
         # Hata durumunda sayfa kaynağını kaydet
-        try:
-            with open("hepsiburada_error_page.html", "w", encoding="utf-8") as f:
-                f.write(driver.page_source)
-            logger.info("Hata sayfası 'hepsiburada_error_page.html' dosyasına kaydedildi.")
-        except:
-            logger.error("Hata sayfası kaydedilemedi.")
+        if driver:
+            try:
+                with open(os.path.join(HEPSIBURADA_DIR, "hepsiburada_error_page.html"), "w", encoding="utf-8") as f:
+                    f.write(driver.page_source)
+                logger.info("Hata sayfası 'hepsiburada_error_page.html' dosyasına kaydedildi.")
+            except Exception as e:
+                logger.error(f"Hata sayfası kaydedilemedi: {str(e)}")
     
     finally:
-        try:
-            driver.quit()
-        except:
-            pass
+        if driver:
+            try:
+                driver.quit()
+            except:
+                pass
         conn.close()
 
 if __name__ == "__main__":

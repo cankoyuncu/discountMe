@@ -51,3 +51,1635 @@ Stacktrace:
 2025-03-12 07:23:14 - INFO - Sayfada 36 adet ürün bulundu.
 2025-03-12 07:23:25 - INFO - Daha fazla ürün bulunamadı.
 2025-03-12 07:23:25 - INFO - Toplam 0 ürün işlendi. 0 ürün %25+ indirimli olarak bildirildi.
+2025-03-18 21:57:05 - INFO - Loglama başlatıldı
+2025-03-18 21:57:05 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-18 21:57:05 - INFO - ====== WebDriver manager ======
+2025-03-18 21:57:06 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:57:06 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 21:57:07 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 21:57:08 - INFO - URL açılıyor: https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts
+2025-03-18 21:57:23 - INFO - Sayfa yüklendi, ürünler aranıyor...
+2025-03-18 21:57:23 - INFO - Sayfada 36 adet ürün bulundu.
+2025-03-18 21:57:33 - INFO - Daha fazla ürün bulunamadı.
+2025-03-18 21:57:33 - INFO - Toplam 0 ürün işlendi. 0 ürün %25+ indirimli olarak bildirildi.
+2025-03-18 22:38:00 - INFO - Loglama başlatıldı
+2025-03-18 22:38:00 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-18 22:38:00 - INFO - ====== WebDriver manager ======
+2025-03-18 22:38:02 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 22:38:02 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 22:38:02 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 22:38:04 - INFO - URL açılıyor: https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts
+2025-03-18 22:38:20 - INFO - Sayfa yüklendi, ürünler aranıyor...
+2025-03-18 22:38:20 - INFO - Sayfada 36 adet ürün bulundu.
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i0
+2025-03-18 22:38:20 - ERROR - Ürün ID i0 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i1
+2025-03-18 22:38:20 - ERROR - Ürün ID i1 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i2
+2025-03-18 22:38:20 - ERROR - Ürün ID i2 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i3
+2025-03-18 22:38:20 - ERROR - Ürün ID i3 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i4
+2025-03-18 22:38:20 - ERROR - Ürün ID i4 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i5
+2025-03-18 22:38:20 - ERROR - Ürün ID i5 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i6
+2025-03-18 22:38:20 - ERROR - Ürün ID i6 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i7
+2025-03-18 22:38:20 - ERROR - Ürün ID i7 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i8
+2025-03-18 22:38:20 - ERROR - Ürün ID i8 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i9
+2025-03-18 22:38:20 - ERROR - Ürün ID i9 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i10
+2025-03-18 22:38:20 - ERROR - Ürün ID i10 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i11
+2025-03-18 22:38:20 - ERROR - Ürün ID i11 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i12
+2025-03-18 22:38:20 - ERROR - Ürün ID i12 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i13
+2025-03-18 22:38:20 - ERROR - Ürün ID i13 için ürün adı bulunamadı
+2025-03-18 22:38:20 - INFO - İşlenen ürün ID: i14
+2025-03-18 22:38:21 - ERROR - Ürün ID i14 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i15
+2025-03-18 22:38:21 - ERROR - Ürün ID i15 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i16
+2025-03-18 22:38:21 - ERROR - Ürün ID i16 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i17
+2025-03-18 22:38:21 - ERROR - Ürün ID i17 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i18
+2025-03-18 22:38:21 - ERROR - Ürün ID i18 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i19
+2025-03-18 22:38:21 - ERROR - Ürün ID i19 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i20
+2025-03-18 22:38:21 - ERROR - Ürün ID i20 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i21
+2025-03-18 22:38:21 - ERROR - Ürün ID i21 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i22
+2025-03-18 22:38:21 - ERROR - Ürün ID i22 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i23
+2025-03-18 22:38:21 - ERROR - Ürün ID i23 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i24
+2025-03-18 22:38:21 - ERROR - Ürün ID i24 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i25
+2025-03-18 22:38:21 - ERROR - Ürün ID i25 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i26
+2025-03-18 22:38:21 - ERROR - Ürün ID i26 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i27
+2025-03-18 22:38:21 - ERROR - Ürün ID i27 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i28
+2025-03-18 22:38:21 - ERROR - Ürün ID i28 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i29
+2025-03-18 22:38:21 - ERROR - Ürün ID i29 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i30
+2025-03-18 22:38:21 - ERROR - Ürün ID i30 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i31
+2025-03-18 22:38:21 - ERROR - Ürün ID i31 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i32
+2025-03-18 22:38:21 - ERROR - Ürün ID i32 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i33
+2025-03-18 22:38:21 - ERROR - Ürün ID i33 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i34
+2025-03-18 22:38:21 - ERROR - Ürün ID i34 için ürün adı bulunamadı
+2025-03-18 22:38:21 - INFO - İşlenen ürün ID: i35
+2025-03-18 22:38:21 - ERROR - Ürün ID i35 için ürün adı bulunamadı
+2025-03-18 22:38:34 - INFO - Daha fazla ürün butonu bulunamadı.
+2025-03-18 22:38:34 - INFO - Toplam 0 ürün işlendi. 0 ürün %25+ indirimli olarak bildirildi.
+2025-03-18 22:59:41 - INFO - Loglama başlatıldı
+2025-03-18 22:59:41 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-18 22:59:41 - INFO - ====== WebDriver manager ======
+2025-03-18 22:59:42 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 22:59:43 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 22:59:43 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 22:59:44 - INFO - URL açılıyor: https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts
+2025-03-18 23:00:00 - INFO - Sayfa yüklendi, ürünler aranıyor...
+2025-03-18 23:00:00 - INFO - Sayfada 36 adet ürün bulundu.
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i0
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i0" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="iPhone 13 128 GB Beyaz" target="_blank" href="/iphone-13-128-gb-b...
+2025-03-18 23:00:00 - ERROR - Ürün ID i0 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i1
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i1" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips Aqua Plus 8000 Serisi Kablosuz Dikey  Süpürge XC8053/01" ...
+2025-03-18 23:00:00 - ERROR - Ürün ID i1 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i2
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i2" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Iso...
+2025-03-18 23:00:00 - ERROR - Ürün ID i2 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i3
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i3" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi" target="_blank" hr...
+2025-03-18 23:00:00 - ERROR - Ürün ID i3 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i4
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i4" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz" target="...
+2025-03-18 23:00:00 - ERROR - Ürün ID i4 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i5
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i5" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips&nbsp;5000 Serisi Lattego Tam Otomatik Espresso Makinesi E...
+2025-03-18 23:00:00 - ERROR - Ürün ID i5 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i6
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i6" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili)...
+2025-03-18 23:00:00 - ERROR - Ürün ID i6 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i7
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i7" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Roborock Q Revo S Akıllı Robot Süpürge" target="_blank" href="/ro...
+2025-03-18 23:00:00 - ERROR - Ürün ID i7 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i8
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i8" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı...
+2025-03-18 23:00:00 - ERROR - Ürün ID i8 için ürün adı bulunamadı
+2025-03-18 23:00:00 - INFO - Ürün işleniyor...
+2025-03-18 23:00:00 - INFO - Ürün ID: i9
+2025-03-18 23:00:00 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i9" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili)...
+2025-03-18 23:00:01 - ERROR - Ürün ID i9 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i10
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i10" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Apple iPad A16 11&quot; 128GB Wi-Fi Tablet Pembe MD4E4TU/A" targ...
+2025-03-18 23:00:01 - ERROR - Ürün ID i10 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i11
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i11" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9&quot; Gray Table...
+2025-03-18 23:00:01 - ERROR - Ürün ID i11 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i12
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i12" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530...
+2025-03-18 23:00:01 - ERROR - Ürün ID i12 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i13
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i13" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı P...
+2025-03-18 23:00:01 - ERROR - Ürün ID i13 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i14
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i14" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6&quot;...
+2025-03-18 23:00:01 - ERROR - Ürün ID i14 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i15
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i15" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli D...
+2025-03-18 23:00:01 - ERROR - Ürün ID i15 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i16
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i16" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Xiaomi Robot Vacuum X20 Plus Beyaz" target="_blank" href="/xiaom...
+2025-03-18 23:00:01 - ERROR - Ürün ID i16 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i17
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i17" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge" target="_...
+2025-03-18 23:00:01 - ERROR - Ürün ID i17 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i18
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i18" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Bla...
+2025-03-18 23:00:01 - ERROR - Ürün ID i18 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i19
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i19" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips XW9463/11 Aqua Trio 9000 Seri  Islak &amp; Kuru Temizlik...
+2025-03-18 23:00:01 - ERROR - Ürün ID i19 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i20
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i20" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - (...
+2025-03-18 23:00:01 - ERROR - Ürün ID i20 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i21
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i21" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı...
+2025-03-18 23:00:01 - ERROR - Ürün ID i21 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i22
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i22" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6&quot; FHD...
+2025-03-18 23:00:01 - ERROR - Ürün ID i22 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i23
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i23" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)" tar...
+2025-03-18 23:00:01 - ERROR - Ürün ID i23 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i24
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i24" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Uniqamping Katlanabilir Alüminyum Masa 56X46X40" target="_blank"...
+2025-03-18 23:00:01 - ERROR - Ürün ID i24 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i25
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i25" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı K...
+2025-03-18 23:00:01 - ERROR - Ürün ID i25 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i26
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i26" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün" targ...
+2025-03-18 23:00:01 - ERROR - Ürün ID i26 için ürün adı bulunamadı
+2025-03-18 23:00:01 - INFO - Ürün işleniyor...
+2025-03-18 23:00:01 - INFO - Ürün ID: i27
+2025-03-18 23:00:01 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i27" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7&quot; Tablet M...
+2025-03-18 23:00:02 - ERROR - Ürün ID i27 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i28
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i28" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Ho...
+2025-03-18 23:00:02 - ERROR - Ürün ID i28 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i29
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i29" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çı...
+2025-03-18 23:00:02 - ERROR - Ürün ID i29 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i30
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i30" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça ...
+2025-03-18 23:00:02 - ERROR - Ürün ID i30 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i31
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i31" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver" ta...
+2025-03-18 23:00:02 - ERROR - Ürün ID i31 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i32
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i32" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="LEGO® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyo...
+2025-03-18 23:00:02 - ERROR - Ürün ID i32 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i33
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i33" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil" ...
+2025-03-18 23:00:02 - ERROR - Ürün ID i33 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i34
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i34" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürü...
+2025-03-18 23:00:02 - ERROR - Ürün ID i34 için ürün adı bulunamadı
+2025-03-18 23:00:02 - INFO - Ürün işleniyor...
+2025-03-18 23:00:02 - INFO - Ürün ID: i35
+2025-03-18 23:00:02 - INFO - Ürün HTML: <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i35" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="PHILIPS DST7510/80 AZUR 7500 SERISI UTU" target="_blank" href="/...
+2025-03-18 23:00:02 - ERROR - Ürün ID i35 için ürün adı bulunamadı
+2025-03-18 23:00:15 - INFO - Daha fazla ürün butonu bulunamadı.
+2025-03-18 23:00:15 - INFO - Toplam 0 ürün işlendi. 0 ürün %25+ indirimli olarak bildirildi.
+2025-03-18 23:16:46 - INFO - Loglama başlatıldı
+2025-03-18 23:16:46 - INFO - Hepsiburada taraması başlatılıyor...
+2025-03-18 23:16:46 - INFO - ====== WebDriver manager ======
+2025-03-18 23:16:47 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 23:16:48 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-18 23:16:48 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-18 23:16:49 - INFO - URL açılıyor: https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts
+2025-03-18 23:17:05 - INFO - Sayfa yüklendi, ürünler aranıyor...
+2025-03-18 23:17:05 - INFO - Sayfada 36 adet ürün bulundu.
+2025-03-18 23:17:07 - INFO - Sayfa kaynağı 'hepsiburada_page_source.html' dosyasına kaydedildi.
+2025-03-18 23:17:07 - INFO - Ürün 1 işleniyor...
+2025-03-18 23:17:07 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i0" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="iPhone 13 128 GB Beyaz" target="_blank" href="/iphone-13-128-gb-b...
+2025-03-18 23:17:07 - INFO - Ürün linki: https://www.hepsiburada.com/iphone-13-128-gb-beyaz-p-HBCV00000ODHHO?magaza=Hepsiburada
+2025-03-18 23:17:07 - INFO - Ürün adı: Apple iPhone 13 128 GB Beyaz
+2025-03-18 23:17:07 - INFO - İndirimli fiyat (ham): 33.799 TL
+2025-03-18 23:17:07 - INFO - Ham fiyat string: '33.799 TL'
+2025-03-18 23:17:07 - INFO - Temizlenmiş fiyat string: '33799'
+2025-03-18 23:17:07 - INFO - İndirimli fiyat (temiz): 33799.0
+2025-03-18 23:17:07 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:07 - INFO - Yeni ürün kaydedildi: Apple iPhone 13 128 GB Beyaz
+2025-03-18 23:17:07 - INFO - Ürün veritabanına kaydedildi: Apple iPhone 13 128 GB Beyaz
+2025-03-18 23:17:07 - INFO - Ürün 2 işleniyor...
+2025-03-18 23:17:07 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i1" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips Aqua Plus 8000 Serisi Kablosuz Dikey  Süpürge XC8053/01" ...
+2025-03-18 23:17:07 - INFO - Ürün linki: https://www.hepsiburada.com/philips-aqua-plus-8000-serisi-kablosuz-dikey-supurge-xc8053-01-pm-HBC00006X6P81?magaza=Hepsiburada
+2025-03-18 23:17:07 - INFO - Ürün adı: Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01
+2025-03-18 23:17:07 - INFO - İndirimli fiyat (ham): 13.999 TL
+2025-03-18 23:17:07 - INFO - Ham fiyat string: '13.999 TL'
+2025-03-18 23:17:07 - INFO - Temizlenmiş fiyat string: '13999'
+2025-03-18 23:17:07 - INFO - İndirimli fiyat (temiz): 13999.0
+2025-03-18 23:17:08 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:08 - INFO - Yeni ürün kaydedildi: Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01
+2025-03-18 23:17:08 - INFO - Ürün veritabanına kaydedildi: Philips Aqua Plus 8000 Serisi Kablosuz Dikey Süpürge XC8053/01
+2025-03-18 23:17:08 - INFO - Ürün 3 işleniyor...
+2025-03-18 23:17:08 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i2" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Iso...
+2025-03-18 23:17:08 - INFO - Ürün linki: https://www.hepsiburada.com/yoyko-bear-360-donebilir-yatabilir-isize-036-kg-oto-koltugu-isofix-sip-latch-gri-p-AILEALTYYK013GR?magaza=Hepsiburada
+2025-03-18 23:17:08 - INFO - Ürün adı: Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (ham): 5.949,30 TL
+2025-03-18 23:17:08 - INFO - Ham fiyat string: '5.949,30 TL'
+2025-03-18 23:17:08 - INFO - Temizlenmiş fiyat string: '5949.30'
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (temiz): 5949.3
+2025-03-18 23:17:08 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:08 - INFO - Yeni ürün kaydedildi: Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri
+2025-03-18 23:17:08 - INFO - Ürün veritabanına kaydedildi: Yoyko Bear 360 ° Dönebilir Yatabilir İSize 036 Kg Oto Koltuğu Isofıx/Sıp/Latch Gri
+2025-03-18 23:17:08 - INFO - Ürün 4 işleniyor...
+2025-03-18 23:17:08 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i3" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi" target="_blank" hr...
+2025-03-18 23:17:08 - INFO - Ürün linki: https://www.hepsiburada.com/kiwi-kcc-4325w-koltuk-ve-hali-yikama-makinesi-pm-HBC00006IUDJN?magaza=Hepsiburada
+2025-03-18 23:17:08 - INFO - Ürün adı: Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (ham): 5.919 TL
+2025-03-18 23:17:08 - INFO - Ham fiyat string: '5.919 TL'
+2025-03-18 23:17:08 - INFO - Temizlenmiş fiyat string: '5919'
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (temiz): 5919.0
+2025-03-18 23:17:08 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:08 - INFO - Yeni ürün kaydedildi: Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi
+2025-03-18 23:17:08 - INFO - Ürün veritabanına kaydedildi: Kiwi KCC-4325W Koltuk Ve Halı Yıkama Makinesi
+2025-03-18 23:17:08 - INFO - Ürün 5 işleniyor...
+2025-03-18 23:17:08 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i4" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz" target="...
+2025-03-18 23:17:08 - INFO - Ürün linki: https://www.hepsiburada.com/roborock-s8-sonic-mopping-akilli-robot-supurge-s8-beyaz-p-HBCV00004I6Z2A?magaza=Hepsiburada
+2025-03-18 23:17:08 - INFO - Ürün adı: Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (ham): 20.699 TL
+2025-03-18 23:17:08 - INFO - Ham fiyat string: '20.699 TL'
+2025-03-18 23:17:08 - INFO - Temizlenmiş fiyat string: '20699'
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (temiz): 20699.0
+2025-03-18 23:17:08 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:08 - INFO - Yeni ürün kaydedildi: Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz
+2025-03-18 23:17:08 - INFO - Ürün veritabanına kaydedildi: Roborock S8 Sonic Mopping Akıllı Robot Süpürge S8 Beyaz
+2025-03-18 23:17:08 - INFO - Ürün 6 işleniyor...
+2025-03-18 23:17:08 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i5" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips&nbsp;5000 Serisi Lattego Tam Otomatik Espresso Makinesi E...
+2025-03-18 23:17:08 - INFO - Ürün linki: https://www.hepsiburada.com/philips-5000-serisi-lattego-tam-otomatik-espresso-makinesi-ep5547-90-pm-HBC0000670CO5?magaza=Hepsiburada
+2025-03-18 23:17:08 - INFO - Ürün adı: Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (ham): 24.999 TL
+2025-03-18 23:17:08 - INFO - Ham fiyat string: '24.999 TL'
+2025-03-18 23:17:08 - INFO - Temizlenmiş fiyat string: '24999'
+2025-03-18 23:17:08 - INFO - İndirimli fiyat (temiz): 24999.0
+2025-03-18 23:17:08 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:08 - INFO - Yeni ürün kaydedildi: Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90
+2025-03-18 23:17:08 - INFO - Ürün veritabanına kaydedildi: Philips 5000 Serisi Lattego Tam Otomatik Espresso Makinesi EP5547/90
+2025-03-18 23:17:08 - INFO - Ürün 7 işleniyor...
+2025-03-18 23:17:08 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i6" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili)...
+2025-03-18 23:17:08 - INFO - Ürün linki: https://www.hepsiburada.com/samsung-galaxy-s24-fe-128-gb-8-gb-ram-samsung-turkiye-garantili-grafit-p-HBCV00006Y95PO?magaza=Hepsiburada
+2025-03-18 23:17:08 - INFO - Ürün adı: Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (ham): 23.999 TL
+2025-03-18 23:17:09 - INFO - Ham fiyat string: '23.999 TL'
+2025-03-18 23:17:09 - INFO - Temizlenmiş fiyat string: '23999'
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (temiz): 23999.0
+2025-03-18 23:17:09 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:09 - INFO - Yeni ürün kaydedildi: Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit
+2025-03-18 23:17:09 - INFO - Ürün veritabanına kaydedildi: Samsung Galaxy S24 FE 128 GB 8 GB Ram (Samsung Türkiye Garantili) Grafit
+2025-03-18 23:17:09 - INFO - Ürün 8 işleniyor...
+2025-03-18 23:17:09 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i7" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Roborock Q Revo S Akıllı Robot Süpürge" target="_blank" href="/ro...
+2025-03-18 23:17:09 - INFO - Ürün linki: https://www.hepsiburada.com/roborock-q-revo-s-akilli-robot-supurge-p-HBCV00006GZFPK?magaza=Hepsiburada
+2025-03-18 23:17:09 - INFO - Ürün adı: Roborock Q Revo S Akıllı Robot Süpürge
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (ham): 32.799 TL
+2025-03-18 23:17:09 - INFO - Ham fiyat string: '32.799 TL'
+2025-03-18 23:17:09 - INFO - Temizlenmiş fiyat string: '32799'
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (temiz): 32799.0
+2025-03-18 23:17:09 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:09 - INFO - Yeni ürün kaydedildi: Roborock Q Revo S Akıllı Robot Süpürge
+2025-03-18 23:17:09 - INFO - Ürün veritabanına kaydedildi: Roborock Q Revo S Akıllı Robot Süpürge
+2025-03-18 23:17:09 - INFO - Ürün 9 işleniyor...
+2025-03-18 23:17:09 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i8" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı...
+2025-03-18 23:17:09 - INFO - Ürün linki: https://www.hepsiburada.com/philips-lumea-bri950-00-lumea-lazer-epilasyon-ipl-tuy-alma-cihazi-yuz-vucut-hassas-bolge-kullanimi-kablolu-kablosuz-kullanim-pm-HB00000BEQYD?magaza=Hepsiburada
+2025-03-18 23:17:09 - INFO - Ürün adı: Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (ham): 15.499 TL
+2025-03-18 23:17:09 - INFO - Ham fiyat string: '15.499 TL'
+2025-03-18 23:17:09 - INFO - Temizlenmiş fiyat string: '15499'
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (temiz): 15499.0
+2025-03-18 23:17:09 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:09 - INFO - Yeni ürün kaydedildi: Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım
+2025-03-18 23:17:09 - INFO - Ürün veritabanına kaydedildi: Philips Lumea BRI950/00 Lumea Lazer Epilasyon IPL Tüy Alma Cihazı Yüz+Vücut+Hassas Bölge Kullanımı,Kablolu/Kablosuz Kullanım
+2025-03-18 23:17:09 - INFO - Ürün 10 işleniyor...
+2025-03-18 23:17:09 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i9" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili)...
+2025-03-18 23:17:09 - INFO - Ürün linki: https://www.hepsiburada.com/xiaomi-redmi-note-13-pro-256gb-8gb-ram-xiaomi-turkiye-garantili-siyah-p-HBCV00005PZUWA?magaza=Hepsiburada
+2025-03-18 23:17:09 - INFO - Ürün adı: Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (ham): 14.599 TL
+2025-03-18 23:17:09 - INFO - Ham fiyat string: '14.599 TL'
+2025-03-18 23:17:09 - INFO - Temizlenmiş fiyat string: '14599'
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (temiz): 14599.0
+2025-03-18 23:17:09 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:09 - INFO - Yeni ürün kaydedildi: Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah
+2025-03-18 23:17:09 - INFO - Ürün veritabanına kaydedildi: Xiaomi Redmi Note 13 Pro 256GB 8gb Ram (Xiaomi Türkiye Garantili) Siyah
+2025-03-18 23:17:09 - INFO - Ürün 11 işleniyor...
+2025-03-18 23:17:09 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i10" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Apple iPad A16 11&quot; 128GB Wi-Fi Tablet Pembe MD4E4TU/A" targ...
+2025-03-18 23:17:09 - INFO - Ürün linki: https://www.hepsiburada.com/apple-ipad-a16-11-128gb-wi-fi-tablet-pembe-md4e4tu-a-p-HBCV0000870BM8?magaza=Hepsiburada
+2025-03-18 23:17:09 - INFO - Ürün adı: Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (ham): 16.999 TL
+2025-03-18 23:17:09 - INFO - Ham fiyat string: '16.999 TL'
+2025-03-18 23:17:09 - INFO - Temizlenmiş fiyat string: '16999'
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (temiz): 16999.0
+2025-03-18 23:17:09 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:09 - INFO - Yeni ürün kaydedildi: Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A
+2025-03-18 23:17:09 - INFO - Ürün veritabanına kaydedildi: Apple iPad A16 11" 128GB Wi-Fi Tablet Pembe MD4E4TU/A
+2025-03-18 23:17:09 - INFO - Ürün 12 işleniyor...
+2025-03-18 23:17:09 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i11" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9&quot; Gray Table...
+2025-03-18 23:17:09 - INFO - Ürün linki: https://www.hepsiburada.com/samsung-galaxy-tab-s9-fe-sm-x510-6gb-128gb-10-9-gray-tablet-p-HBCV00004YJ9GW?magaza=Hepsiburada
+2025-03-18 23:17:09 - INFO - Ürün adı: Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (ham): 11.699 TL
+2025-03-18 23:17:09 - INFO - Ham fiyat string: '11.699 TL'
+2025-03-18 23:17:09 - INFO - Temizlenmiş fiyat string: '11699'
+2025-03-18 23:17:09 - INFO - İndirimli fiyat (temiz): 11699.0
+2025-03-18 23:17:09 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:09 - INFO - Yeni ürün kaydedildi: Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet
+2025-03-18 23:17:09 - INFO - Ürün veritabanına kaydedildi: Samsung Galaxy Tab S9 FE SM-X510 6GB 128GB 10.9" Gray Tablet
+2025-03-18 23:17:09 - INFO - Ürün 13 işleniyor...
+2025-03-18 23:17:09 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i12" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530...
+2025-03-18 23:17:10 - INFO - Ürün linki: https://www.hepsiburada.com/lenovo-loq-15iax9i-intel-core-i5-12450hx-16gb-512gb-ssd-arc-a530m-freedos-15-6-fhd-tasinabilir-bilgisayar-83fq000utr-pm-HBC00005P6NCY?magaza=Hepsiburada
+2025-03-18 23:17:10 - INFO - Ürün adı: Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (ham): 23.999 TL
+2025-03-18 23:17:10 - INFO - Ham fiyat string: '23.999 TL'
+2025-03-18 23:17:10 - INFO - Temizlenmiş fiyat string: '23999'
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (temiz): 23999.0
+2025-03-18 23:17:10 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:10 - INFO - Yeni ürün kaydedildi: Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR
+2025-03-18 23:17:10 - INFO - Ürün veritabanına kaydedildi: Lenovo LOQ 15IAX9I Intel Core i5 12450HX 16GB 512GB SSD Arc A530M Freedos 15.6" FHD Taşınabilir Bilgisayar 83FQ000UTR
+2025-03-18 23:17:10 - INFO - Ürün 14 işleniyor...
+2025-03-18 23:17:10 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i13" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı P...
+2025-03-18 23:17:10 - INFO - Ürün linki: https://www.hepsiburada.com/hoover-ndeh-10a2tsbe-17-10-kg-wi-fi-bluetooth-baglantili-isi-pompali-kurutma-makinesi-pm-HBC000013RBTA?magaza=Hepsiburada
+2025-03-18 23:17:10 - INFO - Ürün adı: Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (ham): 14.999 TL
+2025-03-18 23:17:10 - INFO - Ham fiyat string: '14.999 TL'
+2025-03-18 23:17:10 - INFO - Temizlenmiş fiyat string: '14999'
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (temiz): 14999.0
+2025-03-18 23:17:10 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:10 - INFO - Yeni ürün kaydedildi: Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi
+2025-03-18 23:17:10 - INFO - Ürün veritabanına kaydedildi: Hoover NDEH 10A2TSBE-17 10 kg Wi-Fi + Bluetooth Bağlantılı Isı Pompalı Kurutma Makinesi
+2025-03-18 23:17:10 - INFO - Ürün 15 işleniyor...
+2025-03-18 23:17:10 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i14" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6&quot;...
+2025-03-18 23:17:10 - INFO - Ürün linki: https://www.hepsiburada.com/hp-250-g10-intel-core-i5-1334u-16gb-512gb-ssd-freedos-15-6-tasinabilir-bilgisayar-b2nc5es-pm-HBC00007MQXDD?magaza=Hepsiburada
+2025-03-18 23:17:10 - INFO - Ürün adı: HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (ham): 15.499 TL
+2025-03-18 23:17:10 - INFO - Ham fiyat string: '15.499 TL'
+2025-03-18 23:17:10 - INFO - Temizlenmiş fiyat string: '15499'
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (temiz): 15499.0
+2025-03-18 23:17:10 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:10 - INFO - Yeni ürün kaydedildi: HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES
+2025-03-18 23:17:10 - INFO - Ürün veritabanına kaydedildi: HP 250 G10 Intel Core i5 1334U 16GB 512GB SSD Freedos 15.6" Taşınabilir Bilgisayar B2NC5ES
+2025-03-18 23:17:10 - INFO - Ürün 16 işleniyor...
+2025-03-18 23:17:10 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i15" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli D...
+2025-03-18 23:17:10 - INFO - Ürün linki: https://www.hepsiburada.com/ugur-ued-7238-dtk-nf-dgt-d-s-r65-no-frost-e-sinifi-7-cekmeceli-derin-dondurucu-p-HBCV0000620I2V?magaza=Hepsiburada
+2025-03-18 23:17:10 - INFO - Ürün adı: Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (ham): 23.199 TL
+2025-03-18 23:17:10 - INFO - Ham fiyat string: '23.199 TL'
+2025-03-18 23:17:10 - INFO - Temizlenmiş fiyat string: '23199'
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (temiz): 23199.0
+2025-03-18 23:17:10 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:10 - INFO - Yeni ürün kaydedildi: Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu
+2025-03-18 23:17:10 - INFO - Ürün veritabanına kaydedildi: Uğur Ued 7238 Dtk Nf Dgt D/s R65 No Frost E Sınıfı 7 Çekmeceli Derin Dondurucu
+2025-03-18 23:17:10 - INFO - Ürün 17 işleniyor...
+2025-03-18 23:17:10 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i16" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Xiaomi Robot Vacuum X20 Plus Beyaz" target="_blank" href="/xiaom...
+2025-03-18 23:17:10 - INFO - Ürün linki: https://www.hepsiburada.com/xiaomi-robot-vacuum-x20-plus-beyaz-pm-HBC00006DA6SB?magaza=Hepsiburada
+2025-03-18 23:17:10 - INFO - Ürün adı: Xiaomi Robot Vacuum X20 Plus Beyaz
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (ham): 20.899 TL
+2025-03-18 23:17:10 - INFO - Ham fiyat string: '20.899 TL'
+2025-03-18 23:17:10 - INFO - Temizlenmiş fiyat string: '20899'
+2025-03-18 23:17:10 - INFO - İndirimli fiyat (temiz): 20899.0
+2025-03-18 23:17:10 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:10 - INFO - Yeni ürün kaydedildi: Xiaomi Robot Vacuum X20 Plus Beyaz
+2025-03-18 23:17:10 - INFO - Ürün veritabanına kaydedildi: Xiaomi Robot Vacuum X20 Plus Beyaz
+2025-03-18 23:17:10 - INFO - Ürün 18 işleniyor...
+2025-03-18 23:17:10 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i17" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge" target="_...
+2025-03-18 23:17:10 - INFO - Ürün linki: https://www.hepsiburada.com/philips-marathon-daily-xb7150-07-toz-torbasiz-supurge-pm-HBC00004K3SLG?magaza=Hepsiburada
+2025-03-18 23:17:11 - INFO - Ürün adı: Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (ham): 8.289 TL
+2025-03-18 23:17:11 - INFO - Ham fiyat string: '8.289 TL'
+2025-03-18 23:17:11 - INFO - Temizlenmiş fiyat string: '8289'
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (temiz): 8289.0
+2025-03-18 23:17:11 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:11 - INFO - Yeni ürün kaydedildi: Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge
+2025-03-18 23:17:11 - INFO - Ürün veritabanına kaydedildi: Philips Marathon Daily XB7150/07 Toz Torbasız Süpürge
+2025-03-18 23:17:11 - INFO - Ürün 19 işleniyor...
+2025-03-18 23:17:11 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i18" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Bla...
+2025-03-18 23:17:11 - INFO - Ürün linki: https://www.hepsiburada.com/apple-watch-series-10-gps-46mm-jet-black-aluminium-case-with-black-sport-band-s-m-p-HBCV00006ZWFO3?magaza=Hepsiburada
+2025-03-18 23:17:11 - INFO - Ürün adı: Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (ham): 17.799 TL
+2025-03-18 23:17:11 - INFO - Ham fiyat string: '17.799 TL'
+2025-03-18 23:17:11 - INFO - Temizlenmiş fiyat string: '17799'
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (temiz): 17799.0
+2025-03-18 23:17:11 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:11 - INFO - Yeni ürün kaydedildi: Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m
+2025-03-18 23:17:11 - INFO - Ürün veritabanına kaydedildi: Apple Watch Series 10 Gps 46MM Jet Black Aluminium Case With Black Sport Band - S/m
+2025-03-18 23:17:11 - INFO - Ürün 20 işleniyor...
+2025-03-18 23:17:11 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i19" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Philips XW9463/11 Aqua Trio 9000 Seri  Islak &amp; Kuru Temizlik...
+2025-03-18 23:17:11 - INFO - Ürün linki: https://www.hepsiburada.com/philips-xw9463-11-aqua-trio-9000-seri-islak-kuru-temizlik-kablosuz-dikey-supurge-pm-HBC000075C17C?magaza=Hepsiburada
+2025-03-18 23:17:11 - INFO - Ürün adı: Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (ham): 29.499 TL
+2025-03-18 23:17:11 - INFO - Ham fiyat string: '29.499 TL'
+2025-03-18 23:17:11 - INFO - Temizlenmiş fiyat string: '29499'
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (temiz): 29499.0
+2025-03-18 23:17:11 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:11 - INFO - Yeni ürün kaydedildi: Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge
+2025-03-18 23:17:11 - INFO - Ürün veritabanına kaydedildi: Philips XW9463/11 Aqua Trio 9000 Seri Islak & Kuru Temizlik Kablosuz Dikey Süpürge
+2025-03-18 23:17:11 - INFO - Ürün 21 işleniyor...
+2025-03-18 23:17:11 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i20" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - (...
+2025-03-18 23:17:11 - INFO - Ürün linki: https://www.hepsiburada.com/epson-ecotank-l3252-renkli-tankli-yazici-baski-tarama-kopya-usb-wifi-wi-fi-direct-pm-HBC000054E7K8?magaza=Hepsiburada
+2025-03-18 23:17:11 - INFO - Ürün adı: Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct )
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (ham): 5.998,99 TL
+2025-03-18 23:17:11 - INFO - Ham fiyat string: '5.998,99 TL'
+2025-03-18 23:17:11 - INFO - Temizlenmiş fiyat string: '5998.99'
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (temiz): 5998.99
+2025-03-18 23:17:11 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:11 - INFO - Yeni ürün kaydedildi: Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct )
+2025-03-18 23:17:11 - INFO - Ürün veritabanına kaydedildi: Epson Ecotank L3252 Renkli Tanklı Yazıcı Baskı-Tarama- Kopya - ( Usb, Wifi, Wi-Fi Direct )
+2025-03-18 23:17:11 - INFO - Ürün 22 işleniyor...
+2025-03-18 23:17:11 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i21" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı...
+2025-03-18 23:17:11 - INFO - Ürün linki: https://www.hepsiburada.com/kumtel-beyaz-cam-digital-dokunmatik-ankastre-set-8-programli-ko-40-tahdf-ocak-b66-sf2-ddt-firin-da6-835-davlumbaz-p-HBCV0000056WUA?magaza=Hepsiburada
+2025-03-18 23:17:11 - INFO - Ürün adı: Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz)
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (ham): 10.999 TL
+2025-03-18 23:17:11 - INFO - Ham fiyat string: '10.999 TL'
+2025-03-18 23:17:11 - INFO - Temizlenmiş fiyat string: '10999'
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (temiz): 10999.0
+2025-03-18 23:17:11 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:11 - INFO - Yeni ürün kaydedildi: Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz)
+2025-03-18 23:17:11 - INFO - Ürün veritabanına kaydedildi: Kumtel Beyaz Cam Digital / Dokunmatik Ankastre Set - 8 Programlı (KO-40 TAHDF Ocak B66-Sf2 Ddt Fırın DA6-835 Davlumbaz)
+2025-03-18 23:17:11 - INFO - Ürün 23 işleniyor...
+2025-03-18 23:17:11 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i22" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6&quot; FHD...
+2025-03-18 23:17:11 - INFO - Ürün linki: https://www.hepsiburada.com/hp-255-g9-amd-ryzen-5-5625u-8gb-512gb-ssd-freedos-15-6-fhd-tasinabilir-bilgisayar-9m3g7at-pm-HBC0000658JZN?magaza=Hepsiburada
+2025-03-18 23:17:11 - INFO - Ürün adı: HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (ham): 12.499 TL
+2025-03-18 23:17:11 - INFO - Ham fiyat string: '12.499 TL'
+2025-03-18 23:17:11 - INFO - Temizlenmiş fiyat string: '12499'
+2025-03-18 23:17:11 - INFO - İndirimli fiyat (temiz): 12499.0
+2025-03-18 23:17:11 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:11 - INFO - Yeni ürün kaydedildi: HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT
+2025-03-18 23:17:11 - INFO - Ürün veritabanına kaydedildi: HP 255 G9 AMD Ryzen 5 5625U 8GB 512GB SSD Freedos 15.6" FHD Taşınabilir Bilgisayar 9M3G7AT
+2025-03-18 23:17:11 - INFO - Ürün 24 işleniyor...
+2025-03-18 23:17:12 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i23" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)" tar...
+2025-03-18 23:17:12 - INFO - Ürün linki: https://www.hepsiburada.com/apple-airpods-4-aktif-gurultu-onleme-ozellikli-mxp93tu-a-pm-HBC0000700VEQ?magaza=Hepsiburada
+2025-03-18 23:17:12 - INFO - Ürün adı: Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (ham): 8.399 TL
+2025-03-18 23:17:12 - INFO - Ham fiyat string: '8.399 TL'
+2025-03-18 23:17:12 - INFO - Temizlenmiş fiyat string: '8399'
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (temiz): 8399.0
+2025-03-18 23:17:12 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:12 - INFO - Yeni ürün kaydedildi: Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)
+2025-03-18 23:17:12 - INFO - Ürün veritabanına kaydedildi: Apple Airpods 4- Aktif Gürültü Önleme Özellikli (MXP93TU/A)
+2025-03-18 23:17:12 - INFO - Ürün 25 işleniyor...
+2025-03-18 23:17:12 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i24" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Uniqamping Katlanabilir Alüminyum Masa 56X46X40" target="_blank"...
+2025-03-18 23:17:12 - INFO - Ürün linki: https://www.hepsiburada.com/uniqamping-katlanabilir-aluminyum-masa-56x46x40-p-HBCV00006QM2RQ?magaza=Hepsiburada
+2025-03-18 23:17:12 - INFO - Ürün adı: Uniqamping Katlanabilir Alüminyum Masa 56X46X40
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (ham): 999 TL
+2025-03-18 23:17:12 - INFO - Ham fiyat string: '999 TL'
+2025-03-18 23:17:12 - INFO - Temizlenmiş fiyat string: '999'
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (temiz): 999.0
+2025-03-18 23:17:12 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:12 - INFO - Yeni ürün kaydedildi: Uniqamping Katlanabilir Alüminyum Masa 56X46X40
+2025-03-18 23:17:12 - INFO - Ürün veritabanına kaydedildi: Uniqamping Katlanabilir Alüminyum Masa 56X46X40
+2025-03-18 23:17:12 - INFO - Ürün 26 işleniyor...
+2025-03-18 23:17:12 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i25" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı K...
+2025-03-18 23:17:12 - INFO - Ürün linki: https://www.hepsiburada.com/yoyko-exclusive-comfort-8-in-1-anne-yani-park-yatak-oyun-parki-koyu-gri-70-x-110-cm-p-HBV00000PWFZV?magaza=Hepsiburada
+2025-03-18 23:17:12 - INFO - Ürün adı: Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (ham): 5.949,30 TL
+2025-03-18 23:17:12 - INFO - Ham fiyat string: '5.949,30 TL'
+2025-03-18 23:17:12 - INFO - Temizlenmiş fiyat string: '5949.30'
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (temiz): 5949.3
+2025-03-18 23:17:12 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:12 - INFO - Yeni ürün kaydedildi: Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm
+2025-03-18 23:17:12 - INFO - Ürün veritabanına kaydedildi: Yoyko Exclusive Comfort 8 İn 1 Anne Yanı Park Yatak Oyun Parkı Koyu Gri 70 X 110 Cm
+2025-03-18 23:17:12 - INFO - Ürün 27 işleniyor...
+2025-03-18 23:17:12 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i26" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün" targ...
+2025-03-18 23:17:12 - INFO - Ürün linki: https://www.hepsiburada.com/iphone-16-pro-128gb-naturel-titanyum-sifirdan-farksiz-urun-p-HBCV00007AMD2J?magaza=Hepsiburada
+2025-03-18 23:17:12 - INFO - Ürün adı: Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (ham): 80.874,22 TL
+2025-03-18 23:17:12 - INFO - Ham fiyat string: '80.874,22 TL'
+2025-03-18 23:17:12 - INFO - Temizlenmiş fiyat string: '80874.22'
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (temiz): 80874.22
+2025-03-18 23:17:12 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:12 - INFO - Yeni ürün kaydedildi: Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün
+2025-03-18 23:17:12 - INFO - Ürün veritabanına kaydedildi: Apple iPhone 16 Pro 128GB Natürel Titanyum Sıfırdan Farksız Ürün
+2025-03-18 23:17:12 - INFO - Ürün 28 işleniyor...
+2025-03-18 23:17:12 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i27" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7&quot; Tablet M...
+2025-03-18 23:17:12 - INFO - Ürün linki: https://www.hepsiburada.com/samsung-galaxy-tab-a9-wi-fi-sm-x110-8gb-128gb-8-7-tablet-mystic-silver-p-HBCV00005LDS4D?magaza=Hepsiburada
+2025-03-18 23:17:12 - INFO - Ürün adı: Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (ham): 4.949 TL
+2025-03-18 23:17:12 - INFO - Ham fiyat string: '4.949 TL'
+2025-03-18 23:17:12 - INFO - Temizlenmiş fiyat string: '4949'
+2025-03-18 23:17:12 - INFO - İndirimli fiyat (temiz): 4949.0
+2025-03-18 23:17:12 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:12 - INFO - Yeni ürün kaydedildi: Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver
+2025-03-18 23:17:12 - INFO - Ürün veritabanına kaydedildi: Samsung Galaxy Tab A9 Wi-Fi SM-X110 8GB 128GB 8.7" Tablet Mystic Silver
+2025-03-18 23:17:12 - INFO - Ürün 29 işleniyor...
+2025-03-18 23:17:12 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i28" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Ho...
+2025-03-18 23:17:13 - INFO - Ürün linki: https://www.hepsiburada.com/voit-v-fit-by-voit-runmate-kosu-bandi-pm-HBC00000OJPES?magaza=Hepsiburada
+2025-03-18 23:17:13 - INFO - Ürün adı: Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (ham): 11.961 TL
+2025-03-18 23:17:13 - INFO - Ham fiyat string: '11.961 TL'
+2025-03-18 23:17:13 - INFO - Temizlenmiş fiyat string: '11961'
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (temiz): 11961.0
+2025-03-18 23:17:13 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:13 - INFO - Yeni ürün kaydedildi: Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli
+2025-03-18 23:17:13 - INFO - Ürün veritabanına kaydedildi: Voit V-Fıt By Voıt Runmate Koşu Bandı - Bluetooth- 12km Hız - Hoparlör - Uzaktan Kumanda - Akıllı Uygulama Destekli
+2025-03-18 23:17:13 - INFO - Ürün 30 işleniyor...
+2025-03-18 23:17:13 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i29" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çı...
+2025-03-18 23:17:13 - INFO - Ürün linki: https://www.hepsiburada.com/maxicosi-mica-360-pro-isize-dunyanin-ilk-kizakli-arac-disina-cikabilen-adac-li-isofix-li-360-donebilir-yatabilir-018-kg-bebek-oto-koltugu-authentic-black-p-HBCV00005TB73N?magaza=Hepsiburada
+2025-03-18 23:17:13 - INFO - Ürün adı: Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (ham): 18.900,01 TL
+2025-03-18 23:17:13 - INFO - Ham fiyat string: '18.900,01 TL'
+2025-03-18 23:17:13 - INFO - Temizlenmiş fiyat string: '18900.01'
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (temiz): 18900.01
+2025-03-18 23:17:13 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:13 - INFO - Yeni ürün kaydedildi: Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black
+2025-03-18 23:17:13 - INFO - Ürün veritabanına kaydedildi: Maxi-Cosi MaxiCosi Mica 360 Pro İSize Dünyanın İlk Kızaklı, Araç Dışına Çıkabilen Adac'Lı İsofix'Li 360 Dönebilir Yatabilir 018 Kg Bebek Oto Koltuğu Authentic Black
+2025-03-18 23:17:13 - INFO - Ürün 31 işleniyor...
+2025-03-18 23:17:13 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i30" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça ...
+2025-03-18 23:17:13 - INFO - Ürün linki: https://www.hepsiburada.com/tefal-l3959953-ingenio-unlimited-titanyum-6x-buyuk-set-12-parca-2100134252-pm-HBC00006S779P?magaza=Hepsiburada
+2025-03-18 23:17:13 - INFO - Ürün adı: Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (ham): 12.579,90 TL
+2025-03-18 23:17:13 - INFO - Ham fiyat string: '12.579,90 TL'
+2025-03-18 23:17:13 - INFO - Temizlenmiş fiyat string: '12579.90'
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (temiz): 12579.9
+2025-03-18 23:17:13 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:13 - INFO - Yeni ürün kaydedildi: Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252
+2025-03-18 23:17:13 - INFO - Ürün veritabanına kaydedildi: Tefal L3959953 Ingenio Unlimited Titanyum 6X Büyük Set 12 Parça - 2100134252
+2025-03-18 23:17:13 - INFO - Ürün 32 işleniyor...
+2025-03-18 23:17:13 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i31" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver" ta...
+2025-03-18 23:17:13 - INFO - Ürün linki: https://www.hepsiburada.com/yoyko-ultimate-travel-sistem-bebek-arabasi-3-in-1-gri-silver-p-HBV00000TKF01?magaza=Hepsiburada
+2025-03-18 23:17:13 - INFO - Ürün adı: Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (ham): 8.995 TL
+2025-03-18 23:17:13 - INFO - Ham fiyat string: '8.995 TL'
+2025-03-18 23:17:13 - INFO - Temizlenmiş fiyat string: '8995'
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (temiz): 8995.0
+2025-03-18 23:17:13 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:13 - INFO - Yeni ürün kaydedildi: Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver
+2025-03-18 23:17:13 - INFO - Ürün veritabanına kaydedildi: Yoyko Ultimate Travel Sistem Bebek Arabası 3 İn 1 Gri Silver
+2025-03-18 23:17:13 - INFO - Ürün 33 işleniyor...
+2025-03-18 23:17:13 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i32" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="LEGO® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyo...
+2025-03-18 23:17:13 - INFO - Ürün linki: https://www.hepsiburada.com/lego-icons-orkide-10311-yetiskinler-icin-dekoratif-koleksiyonluk-ve-sergilenebilir-cicek-modeli-yapim-seti-608-parca-pm-HBC000025I1DS?magaza=Hepsiburada
+2025-03-18 23:17:13 - INFO - Ürün adı: LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça)
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (ham): 1.847,18 TL
+2025-03-18 23:17:13 - INFO - Ham fiyat string: '1.847,18 TL'
+2025-03-18 23:17:13 - INFO - Temizlenmiş fiyat string: '1847.18'
+2025-03-18 23:17:13 - INFO - İndirimli fiyat (temiz): 1847.18
+2025-03-18 23:17:13 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:13 - INFO - Yeni ürün kaydedildi: LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça)
+2025-03-18 23:17:13 - INFO - Ürün veritabanına kaydedildi: LEGO ® Icons Orkide 10311 - Yetişkinler İçin Dekoratif, Koleksiyonluk ve Sergilenebilir Çiçek Modeli Yapım Seti (608 Parça)
+2025-03-18 23:17:13 - INFO - Ürün 34 işleniyor...
+2025-03-18 23:17:13 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i33" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil" ...
+2025-03-18 23:17:13 - INFO - Ürün linki: https://www.hepsiburada.com/stanley-termos-the-legendary-classic-bottle-1-9l-2-0qt-yesil-p-HBV00000LE60Q?magaza=Hepsiburada
+2025-03-18 23:17:13 - INFO - Ürün adı: Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil
+2025-03-18 23:17:14 - INFO - İndirimli fiyat (ham): 2.639,20 TL
+2025-03-18 23:17:14 - INFO - Ham fiyat string: '2.639,20 TL'
+2025-03-18 23:17:14 - INFO - Temizlenmiş fiyat string: '2639.20'
+2025-03-18 23:17:14 - INFO - İndirimli fiyat (temiz): 2639.2
+2025-03-18 23:17:14 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:14 - INFO - Yeni ürün kaydedildi: Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil
+2025-03-18 23:17:14 - INFO - Ürün veritabanına kaydedildi: Stanley Termos The Legendary Classic Bottle 1.9L / 2.0QT Yeşil
+2025-03-18 23:17:14 - INFO - Ürün 35 işleniyor...
+2025-03-18 23:17:14 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i34" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürü...
+2025-03-18 23:17:14 - INFO - Ürün linki: https://www.hepsiburada.com/anker-soundcore-q21i-nc-bluetooth-kablosuz-kulaklik-aktif-gurultu-onleyici-anc-40-saate-varan-sarj-suresi-siyah-a3004-anker-turkiye-garantili-pm-HBC00006NHP8D?magaza=Hepsiburada
+2025-03-18 23:17:14 - INFO - Ürün adı: Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili)
+2025-03-18 23:17:14 - INFO - İndirimli fiyat (ham): 1.939 TL
+2025-03-18 23:17:14 - INFO - Ham fiyat string: '1.939 TL'
+2025-03-18 23:17:14 - INFO - Temizlenmiş fiyat string: '1939'
+2025-03-18 23:17:14 - INFO - İndirimli fiyat (temiz): 1939.0
+2025-03-18 23:17:14 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:14 - INFO - Yeni ürün kaydedildi: Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili)
+2025-03-18 23:17:14 - INFO - Ürün veritabanına kaydedildi: Anker Soundcore Q21i NC Bluetooth Kablosuz Kulaklık - Aktif Gürültü Önleyici ANC - 40 Saate Varan Şarj Süresi -Siyah -A3004 (Anker Türkiye Garantili)
+2025-03-18 23:17:14 - INFO - Ürün 36 işleniyor...
+2025-03-18 23:17:14 - INFO - Ürün HTML (ilk 200 karakter): <li class="productListContent-zAP0Y5msy8OHn5z7T_K_" id="i35" type="comfort"><article class="productCard-VQtVQDmG__hermiOJr6T"><a title="PHILIPS DST7510/80 AZUR 7500 SERISI UTU" target="_blank" href="/...
+2025-03-18 23:17:14 - INFO - Ürün linki: https://www.hepsiburada.com/philips-dst7510-80-azur-buharli-utu-7500-serisi-pm-HBC00003MWUIP?magaza=Hepsiburada
+2025-03-18 23:17:14 - INFO - Ürün adı: Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU
+2025-03-18 23:17:14 - INFO - İndirimli fiyat (ham): 3.139 TL
+2025-03-18 23:17:14 - INFO - Ham fiyat string: '3.139 TL'
+2025-03-18 23:17:14 - INFO - Temizlenmiş fiyat string: '3139'
+2025-03-18 23:17:14 - INFO - İndirimli fiyat (temiz): 3139.0
+2025-03-18 23:17:14 - INFO - Normal fiyat bulunamadı, indirim yok: Message: no such element: Unable to locate element: {"method":"css selector","selector":"div[data-test-id="price-prev-price"]"}
+  (Session info: chrome=134.0.6998.89); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00C6B5A3+24387]
+	(No symbol) [0x00BF5904]
+	(No symbol) [0x00AD0753]
+	(No symbol) [0x00B18BA9]
+	(No symbol) [0x00B18EFB]
+	(No symbol) [0x00B0E241]
+	(No symbol) [0x00B3D894]
+	(No symbol) [0x00B0E164]
+	(No symbol) [0x00B3DAC4]
+	(No symbol) [0x00B5F138]
+	(No symbol) [0x00B3D646]
+	(No symbol) [0x00B0C59F]
+	(No symbol) [0x00B0D8E4]
+	GetHandleVerifier [0x00F6D883+3179043]
+	GetHandleVerifier [0x00F86CF9+3282585]
+	GetHandleVerifier [0x00F8167C+3260444]
+	GetHandleVerifier [0x00D04330+650448]
+	(No symbol) [0x00BFED0D]
+	(No symbol) [0x00BFBAF8]
+	(No symbol) [0x00BFBC99]
+	(No symbol) [0x00BEE530]
+	BaseThreadInitThunk [0x75B35D49+25]
+	RtlInitializeExceptionChain [0x76F6CE3B+107]
+	RtlGetAppContainerNamedObjectPath [0x76F6CDC1+561]
+
+2025-03-18 23:17:14 - INFO - Yeni ürün kaydedildi: Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU
+2025-03-18 23:17:14 - INFO - Ürün veritabanına kaydedildi: Philips PHILIPS DST7510/80 AZUR 7500 SERISI UTU
+2025-03-18 23:17:14 - INFO - Daha fazla ürün yüklemeye çalışılıyor...
+2025-03-18 23:17:22 - INFO - Yeni 'Daha fazla ürün' butonu bulundu
+2025-03-18 23:17:22 - INFO - 'Daha fazla ürün' butonuna tıklanıyor...
+2025-03-18 23:17:27 - INFO - Daha fazla yükleme sonrası 36 ürün bulundu
+2025-03-18 23:17:28 - INFO - Toplam 36 ürün işlendi. 0 ürün %5+ indirimli olarak bildirildi.
