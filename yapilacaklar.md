@@ -23,9 +23,10 @@ Logdan tespit edilen hata: ERROR - Yanit icerigi: {"ok":false,"error_code":429,"
 hepsiburada: Sayfada 36 adet ürün bulundu. 
              Toplam 0 ürün işlendi. 0 ürün %25+ indirimli. +
 
-Haftaya Tamamlanması Beklenenler: hepsiburada çözülsün. telegram arayüzü hazırlansın. alternatif olarak websiteme entegre etmeyi deneyebilirim.
+Haftaya Tamamlanması Beklenenler: hepsiburada çözülsün. 
 
 19.03.2025
 
-Hepsiburada tarama başarılı, ürünler taranıyor. Loglara düşüyor. Veritabanına yazılmıyor.
+Hepsiburada tarama başarılı, ürünler taranıyor. Loglara düşüyor. Veritabanına yazılıyor. Sayfa geçişinde hata var.
 
+Telegram arayüzü hazırlansın. Alternatif olarak websiteme entegre etmeyi deneyebilirim.
