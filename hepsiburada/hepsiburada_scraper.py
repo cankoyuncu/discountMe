@@ -41,7 +41,7 @@ if not os.path.exists(config_path):
         'chat_id': 'YOUR_CHAT_ID'
     }
     config['URLS'] = {
-        'hepsiburada': 'https://www.hepsiburada.com/magaza/hepsiburada?tab=allproducts'
+        'hepsiburada': 'https://www.hepsiburada.com/magaza/hepsiburada?siralama=enyeni&tab=allproducts'
     }
     
     with open(config_path, 'w', encoding='utf-8') as configfile:
