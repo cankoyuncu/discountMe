@@ -25,10 +25,21 @@ DB_PATH = 'telegram_preferences.db'
 # Kategori listesi
 CATEGORIES = {
     'teknosa_elektronik': 'Teknosa - Elektronik',
+<<<<<<< HEAD
     'amazon_elektronik': 'Amazon - Elektronik',
     'hepsiburada_elektronik': 'Hepsiburada - Elektronik',
     'amazon_moda': 'Amazon - Moda',
     'hepsiburada_moda': 'Hepsiburada - Moda'
+=======
+    'teknosa_beyaz_esya': 'Teknosa - Beyaz Eşya',
+    'teknosa_telefon': 'Teknosa - Telefon/Tablet',
+    'amazon_elektronik': 'Amazon - Elektronik',
+    'amazon_giyim': 'Amazon - Giyim',
+    'amazon_kitap': 'Amazon - Kitap & Müzik',
+    'hepsiburada_elektronik': 'Hepsiburada - Elektronik',
+    'hepsiburada_ev': 'Hepsiburada - Ev & Yaşam',
+    'hepsiburada_kozmetik': 'Hepsiburada - Kozmetik'
+>>>>>>> origin/main
 }
 
 # Durum kodları
