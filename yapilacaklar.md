@@ -40,3 +40,6 @@ Bot sürekli calisir hale getirelecek.
 Loglardan ip ban yenilen zamanlar tespit edilip ona göre proxy kullanımı gerekecek.
 
 rapor sunumu olacak haftaya
+
+16.04.2025
+
