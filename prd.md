@@ -43,12 +43,6 @@ Her bir e-ticaret platformu için özelleştirilmiş, bağımsız çalışan scr
 - **Otomasyon**: Çökme durumunda yeniden başlatma ve izleme sistemleri
 - **Log yönetimi**: Potansiyel sorunlar için detaylı loglama
 
-## İleride Gelecek Özellikler
-- Web arayüzü entegrasyonu
-- Trend analizi ve fiyat geçmişi görüntüleme
-- Daha fazla e-ticaret platformu desteği (Trendyol, MediaMarkt vb.)
-- Fiyat hedef bildirimleri
-- Çok dil desteği
 
 
 

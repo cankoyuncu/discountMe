@@ -11,13 +11,20 @@ from telegram.ext import (
 )
 import configparser
 
-# Logging ayarları
+# Logging ayarlarını güncelle
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
-    level=logging.INFO,
+    level=logging.DEBUG,  # INFO yerine DEBUG kullanın
     filename='telegram_bot.log'
 )
 logger = logging.getLogger(__name__)
+
+# Hata ayıklama için console handler ekleyin
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.DEBUG)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+console_handler.setFormatter(formatter)
+logger.addHandler(console_handler)
 
 # Veritabanı yolu
 DB_PATH = 'telegram_preferences.db'
@@ -333,45 +340,58 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         finally:
             conn.close()
 
-def main():
+async def main():
     """Bot başlatma fonksiyonu."""
-    # Veritabanını kur
-    setup_database()
-    
-    # Config dosyasından token oku
-    config = configparser.ConfigParser()
-    config.read('config.ini')
-    token = config['Telegram']['bot_token']
-    
-    # Bot oluştur
-    application = Application.builder().token(token).build()
-    
-    # Komut işleyicileri
-    application.add_handler(CommandHandler("start", start))
-    application.add_handler(CommandHandler("help", help_command))
-    application.add_handler(CommandHandler("categories", show_categories))
-    application.add_handler(CommandHandler("mysubscriptions", my_subscriptions))
-    
-    # Abonelik işleme
-    conv_handler = ConversationHandler(
-        entry_points=[
-            CommandHandler("subscribe", subscribe),
-            CommandHandler("unsubscribe", unsubscribe)
-        ],
-        states={
-            SUBSCRIBE: [CallbackQueryHandler(button_callback, pattern=r"^subscribe_")],
-            UNSUBSCRIBE: [CallbackQueryHandler(button_callback, pattern=r"^unsubscribe_")]
-        },
-        fallbacks=[MessageHandler(filters.TEXT, help_command)]
-    )
-    
-    application.add_handler(conv_handler)
-    
-    # Buton tıklama işleyicisi
-    application.add_handler(CallbackQueryHandler(button_callback))
-    
-    # Botu başlat
-    application.run_polling()
+    try:
+        # Veritabanını kur
+        setup_database()
+        
+        # Config dosyasından token oku
+        config = configparser.ConfigParser()
+        config.read('config.ini')
+        token = config['Telegram']['bot_token']
+        
+        logger.info(f"Token okundu: {token[:10]}...")
+        
+        # Bot oluştur
+        application = Application.builder().token(token).build()
+        
+        # Komut işleyicileri
+        application.add_handler(CommandHandler("start", start))
+        application.add_handler(CommandHandler("help", help_command))
+        application.add_handler(CommandHandler("categories", show_categories))
+        application.add_handler(CommandHandler("mysubscriptions", my_subscriptions))
+        
+        # Abonelik işleme kısmı
+        conv_handler = ConversationHandler(
+            entry_points=[
+                CommandHandler("subscribe", subscribe),
+                CommandHandler("unsubscribe", unsubscribe)
+            ],
+            states={
+                SUBSCRIBE: [CallbackQueryHandler(button_callback, pattern=r"^subscribe_")],
+                UNSUBSCRIBE: [CallbackQueryHandler(button_callback, pattern=r"^unsubscribe_")]
+            },
+            fallbacks=[CallbackQueryHandler(button_callback)],
+            per_message=False
+        )
+
+        application.add_handler(conv_handler)
+        
+        logger.info("Bot başlatılıyor...")
+        await application.initialize()
+        await application.start()
+        await application.run_polling()
+        
+    except Exception as e:
+        logger.error(f"Bot başlatılırken hata oluştu: {str(e)}")
+        raise
 
 if __name__ == '__main__':
-    main()
+    import asyncio
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        logger.info("Bot kapatılıyor...")
+    except Exception as e:
+        logger.error(f"Beklenmeyen hata: {str(e)}")
