@@ -43,7 +43,14 @@ Her bir e-ticaret platformu için özelleştirilmiş, bağımsız çalışan scr
 - **Otomasyon**: Çökme durumunda yeniden başlatma ve izleme sistemleri
 - **Log yönetimi**: Potansiyel sorunlar için detaylı loglama
 
+## Çalışma Mantığı
 
+1. Sunucu üzerinden programlar başlatılır. (Şu an için ayrı ayrı çalıştırılabilir, ancak ileride yalnızca **start.py** kodunu çalıştırmak yeterli olacaktır.)
+2. Tarama işlemi tamamlandıktan sonra 15 dakika beklenir ve ardından tarama tekrar başlatılır.
+3. Tespit edilen ürünlerin fiyatları veritabanı ile karşılaştırılır. Eğer bir ürünün fiyatı %25 veya daha fazla düştüyse, bu ürün **telegram_notifier** modülüne gönderilir. Eğer ilgili ürün veritabanında yoksa, ürün veritabanına eklenir ve işlem devam eder.
+4. **telegram_notifier** modülü, bu ürünleri standart bir formatta Telegram kanalına iletir.
+5. Kullanıcı, ilgili kategoriden bildirim almayı seçtiyse (kategoriye abone olduysa), bu bildirim kullanıcıya ulaştırılır.
+6. Tarama sırasında elde edilen sonuçlar, ürün kategorisi bilgisiyle birlikte veritabanına kaydedilir.
 
-
-
+### Sistem İyileştirme Notları
+- Her bir internet sitesi için aynı yapıda veritabanı oluşturulması önerilir. Bu, sistemin daha pratik ve yönetilebilir olmasını sağlayacaktır.
