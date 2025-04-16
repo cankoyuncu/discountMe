@@ -4,6 +4,7 @@
 import os
 import logging
 import sqlite3
+import asyncio  # Add this import
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
     Application, CommandHandler, CallbackQueryHandler, 
@@ -340,29 +341,28 @@ async def button_callback(update: Update, context: ContextTypes.DEFAULT_TYPE):
         finally:
             conn.close()
 
-async def main():
-    """Bot başlatma fonksiyonu."""
+def run_bot():
+    """Run the bot."""
     try:
-        # Veritabanını kur
+        # Setup database first
         setup_database()
         
-        # Config dosyasından token oku
+        # Create the Application instance
         config = configparser.ConfigParser()
         config.read('config.ini')
         token = config['Telegram']['bot_token']
         
         logger.info(f"Token okundu: {token[:10]}...")
         
-        # Bot oluştur
         application = Application.builder().token(token).build()
         
-        # Komut işleyicileri
+        # Add handlers
         application.add_handler(CommandHandler("start", start))
         application.add_handler(CommandHandler("help", help_command))
         application.add_handler(CommandHandler("categories", show_categories))
         application.add_handler(CommandHandler("mysubscriptions", my_subscriptions))
         
-        # Abonelik işleme kısmı
+        # Update the ConversationHandler
         conv_handler = ConversationHandler(
             entry_points=[
                 CommandHandler("subscribe", subscribe),
@@ -372,26 +372,24 @@ async def main():
                 SUBSCRIBE: [CallbackQueryHandler(button_callback, pattern=r"^subscribe_")],
                 UNSUBSCRIBE: [CallbackQueryHandler(button_callback, pattern=r"^unsubscribe_")]
             },
-            fallbacks=[CallbackQueryHandler(button_callback)],
+            fallbacks=[CommandHandler("cancel", lambda u, c: ConversationHandler.END)],
             per_message=False
         )
-
+        
         application.add_handler(conv_handler)
+        application.add_handler(CallbackQueryHandler(button_callback, pattern=r"^(subscribe|unsubscribe)_"))
         
         logger.info("Bot başlatılıyor...")
-        await application.initialize()
-        await application.start()
-        await application.run_polling()
-        
+        application.run_polling(allowed_updates=Update.ALL_TYPES)
     except Exception as e:
         logger.error(f"Bot başlatılırken hata oluştu: {str(e)}")
         raise
 
 if __name__ == '__main__':
-    import asyncio
     try:
-        asyncio.run(main())
+        run_bot()
     except KeyboardInterrupt:
-        logger.info("Bot kapatılıyor...")
+        logger.info("Bot kullanıcı tarafından durduruldu")
     except Exception as e:
-        logger.error(f"Beklenmeyen hata: {str(e)}")
+        logger.error(f"Bot çalışırken hata oluştu: {str(e)}")
+        logger.exception("Detaylı hata:")

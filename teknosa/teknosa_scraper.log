@@ -6324,3 +6324,244 @@ Stacktrace:
 2025-03-18 21:46:16 - INFO - 'Daha Fazla Ürün Gör' butonuna tıklandı. Sayfa 11 yükleniyor...
 2025-03-18 21:46:21 - INFO - Yeni ürünler yüklendi. Önceki: 200, Şimdi: 220
 2025-03-18 21:46:21 - INFO - Toplam 172 urun islendi. 93 urun %25+ indirimli olarak bildirildi.
+2025-04-16 07:02:17 - INFO - Loglama başlatıldı
+2025-04-16 07:02:17 - INFO - Teknosa outlet taramasi baslatiliyor...
+2025-04-16 07:02:17 - INFO - ====== WebDriver manager ======
+2025-04-16 07:02:18 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 07:02:18 - INFO - Get LATEST chromedriver version for google-chrome
+2025-04-16 07:02:18 - INFO - Driver [C:\Users\ASUS\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-16 07:02:28 - INFO - Sayfa 1 taraniyor...
+2025-04-16 07:02:28 - INFO - Sayfa 1'de 20 adet ürün bulundu.
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000022382
+2025-04-16 07:02:28 - INFO - Urun: HUAWEI BAND 8 SAKURA PEMBESİ (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 1274.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: HUAWEI BAND 8 SAKURA PEMBESİ (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000023670
+2025-04-16 07:02:28 - INFO - Urun: LOGITECH G PRO X 2 LIGHTSPEED KABLOSUZ B (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 11822.65
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: LOGITECH G PRO X 2 LIGHTSPEED KABLOSUZ B (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000026090
+2025-04-16 07:02:28 - INFO - Urun: Microsoft Xbox Series Beyaz Wireless Controller (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 3314.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: Microsoft Xbox Series Beyaz Wireless Controller (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000027972
+2025-04-16 07:02:28 - INFO - Urun: LOGITECH MK330 KABLOSUZ KLAVYE MOUSE SET (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 1384.65
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: LOGITECH MK330 KABLOSUZ KLAVYE MOUSE SET (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000030764
+2025-04-16 07:02:28 - INFO - Urun: Arnica ET14403 Toz Torbasız Elektrikli S (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 4419.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: Arnica ET14403 Toz Torbasız Elektrikli S (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000030825
+2025-04-16 07:02:28 - INFO - Urun: ELECTROLUX PD82-ALRGT 57 DESİBEL TOZ TOR (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 12749.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: ELECTROLUX PD82-ALRGT 57 DESİBEL TOZ TOR (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000030844
+2025-04-16 07:02:28 - INFO - Urun: Electrolux EUFC8ALRGY UltraFlex Toz Torbasız Elektrikli Süpürge (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 7224.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: Electrolux EUFC8ALRGY UltraFlex Toz Torbasız Elektrikli Süpürge (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000030862
+2025-04-16 07:02:28 - INFO - Urun: ELECTROLUX EUFC81DB-TOZ TORBASIZ ELEKTRİ (TESHIR), Indirim: %0.0, Sifir Fiyati: 5949.15, Outlet Fiyati: 5949.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: ELECTROLUX EUFC81DB-TOZ TORBASIZ ELEKTRİ (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000033005
+2025-04-16 07:02:28 - INFO - Urun: PHILIPS AC0951/13 PUREPROTECT MINI 900 S (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 9383.99
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: PHILIPS AC0951/13 PUREPROTECT MINI 900 S (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000033071
+2025-04-16 07:02:28 - INFO - Urun: Tefal Easy Fry Dual Basket Az Yağlı Fritöz (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 5097.45
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: Tefal Easy Fry Dual Basket Az Yağlı Fritöz (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000033115
+2025-04-16 07:02:28 - INFO - Urun: Tefal Easy Fry Grill XXL EY801D15 6.5 lt (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 4247.45
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: Tefal Easy Fry Grill XXL EY801D15 6.5 lt (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000021763
+2025-04-16 07:02:28 - INFO - Urun: APPLE WATCH SERIES 9 GPS 45MM GÜMÜŞ ALÜM (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 15724.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: APPLE WATCH SERIES 9 GPS 45MM GÜMÜŞ ALÜM (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000016701
+2025-04-16 07:02:28 - INFO - Urun: GOLDMASTER GAME PAD 355+HDMI KABLO  (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 662.15
+2025-04-16 07:02:28 - INFO - Yeni urun kaydedildi: GOLDMASTER GAME PAD 355+HDMI KABLO  (TESHIR)
+2025-04-16 07:02:28 - INFO - Islenen urun ID: T100000017143
+2025-04-16 07:02:29 - INFO - Urun: Grundig GSB 910 S Black Bluetooth Soundb (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 4674.15
+2025-04-16 07:02:29 - INFO - Yeni urun kaydedildi: Grundig GSB 910 S Black Bluetooth Soundb (TESHIR)
+2025-04-16 07:02:29 - INFO - Islenen urun ID: T100000017680
+2025-04-16 07:02:29 - INFO - Urun: APPLE MAGIC KEYBOARD MWR23TQ/A 11" IPAD PRO M4 ÇIP UYUMLU TÜRKÇE Q KLAVYE SIYAH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 11984.15
+2025-04-16 07:02:29 - INFO - Yeni urun kaydedildi: APPLE MAGIC KEYBOARD MWR23TQ/A 11" IPAD PRO M4 ÇIP UYUMLU TÜRKÇE Q KLAVYE SIYAH (TESHIR)
+2025-04-16 07:02:29 - INFO - Islenen urun ID: T100000021649
+2025-04-16 07:02:29 - INFO - Urun: HUAWEI WATCH FIT SPECIAL EDITION - GECE (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 2124.15
+2025-04-16 07:02:29 - INFO - Yeni urun kaydedildi: HUAWEI WATCH FIT SPECIAL EDITION - GECE (TESHIR)
+2025-04-16 07:02:29 - INFO - Islenen urun ID: T100000021690
+2025-04-16 07:02:29 - INFO - Urun: HUAWEI WATCH FIT SPECIAL EDITION - ORMAN (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 2124.15
+2025-04-16 07:02:29 - INFO - Yeni urun kaydedildi: HUAWEI WATCH FIT SPECIAL EDITION - ORMAN (TESHIR)
+2025-04-16 07:02:29 - INFO - Islenen urun ID: T100000038320
+2025-04-16 07:02:29 - INFO - Urun: Tefal FV8066 Puregliss 3000 W Buharlı Ü (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 3229.15
+2025-04-16 07:02:29 - INFO - Yeni urun kaydedildi: Tefal FV8066 Puregliss 3000 W Buharlı Ü (TESHIR)
+2025-04-16 07:02:29 - INFO - Islenen urun ID: T100000038674
+2025-04-16 07:02:29 - INFO - Urun: Tefal FV9850 Pure Max Buharlı Ütü (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 4249.15
+2025-04-16 07:02:29 - INFO - Yeni urun kaydedildi: Tefal FV9850 Pure Max Buharlı Ütü (TESHIR)
+2025-04-16 07:02:29 - INFO - Islenen urun ID: T100000038688
+2025-04-16 07:02:29 - INFO - Urun: Tefal GV9230 Pro Express Protect Buhar (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 9774.15
+2025-04-16 07:02:29 - INFO - Yeni urun kaydedildi: Tefal GV9230 Pro Express Protect Buhar (TESHIR)
+2025-04-16 07:02:32 - INFO - Bulunan buton metni: Daha Fazla Ürün Gör (1 / 4)
+2025-04-16 07:02:32 - INFO - 'Daha Fazla Ürün Gör' butonuna tıklandı. Sayfa 2 yükleniyor...
+2025-04-16 07:02:37 - INFO - Yeni ürünler yüklendi. Önceki: 20, Şimdi: 40
+2025-04-16 07:02:37 - INFO - Sayfa 2 taraniyor...
+2025-04-16 07:02:37 - INFO - Sayfa 2'de 40 adet ürün bulundu.
+2025-04-16 07:02:37 - INFO - Islenen urun ID: T100000042189
+2025-04-16 07:02:37 - INFO - Urun: HUAWEI WATCH FIT 2 AKTIF EDITION GECE SI (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 2804.15
+2025-04-16 07:02:37 - INFO - Yeni urun kaydedildi: HUAWEI WATCH FIT 2 AKTIF EDITION GECE SI (TESHIR)
+2025-04-16 07:02:37 - INFO - Islenen urun ID: T100000042210
+2025-04-16 07:02:37 - INFO - Urun: HUAWEI WATCH FIT 2 AKTIF EDITION SAKURA (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 2804.15
+2025-04-16 07:02:37 - INFO - Yeni urun kaydedildi: HUAWEI WATCH FIT 2 AKTIF EDITION SAKURA (TESHIR)
+2025-04-16 07:02:37 - INFO - Islenen urun ID: T100000037205
+2025-04-16 07:02:37 - INFO - Urun: Electrolux E4CB1-6ST Spor Blender Kahve Öğütücülü (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 2549.15
+2025-04-16 07:02:37 - INFO - Yeni urun kaydedildi: Electrolux E4CB1-6ST Spor Blender Kahve Öğütücülü (TESHIR)
+2025-04-16 07:02:37 - INFO - Islenen urun ID: T100000034601
+2025-04-16 07:02:38 - INFO - Urun: Preo PN11 130W Hava Soğutucu (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 7649.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: Preo PN11 130W Hava Soğutucu (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000035496
+2025-04-16 07:02:38 - INFO - Urun: Arzum AR2009 Sultane Granite Izgara ve T (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 2124.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: Arzum AR2009 Sultane Granite Izgara ve T (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000036288
+2025-04-16 07:02:38 - INFO - Urun: SAMSUNG ODYSSEY G9 LS49CG934SUXUF 240HZ (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 37229.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: SAMSUNG ODYSSEY G9 LS49CG934SUXUF 240HZ (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000036336
+2025-04-16 07:02:38 - INFO - Urun: LG ULTRAGEAR 24GS65F-B.APD 23.8 INCH 180 (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 6799.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: LG ULTRAGEAR 24GS65F-B.APD 23.8 INCH 180 (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000034600
+2025-04-16 07:02:38 - INFO - Urun: Preo LL-V8A1 Hava Soğutucu (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 10199.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: Preo LL-V8A1 Hava Soğutucu (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000040338
+2025-04-16 07:02:38 - INFO - Urun: PHILIPS X3021/00 3000 Serısı Islak Ve Kuru Elektrıklı Tıraş Makınesı (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 1274.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: PHILIPS X3021/00 3000 Serısı Islak Ve Kuru Elektrıklı Tıraş Makınesı (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000042848
+2025-04-16 07:02:38 - INFO - Urun: BOSCH BBS712A UNLIMITED 7 ŞARJLI DIKEY SÜPÜRGE  (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 14449.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: BOSCH BBS712A UNLIMITED 7 ŞARJLI DIKEY SÜPÜRGE  (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000022383
+2025-04-16 07:02:38 - INFO - Urun: HUAWEI BAND 8 ZÜMRÜT YEŞİLİ (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 1274.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: HUAWEI BAND 8 ZÜMRÜT YEŞİLİ (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000030785
+2025-04-16 07:02:38 - INFO - Urun: Fakir Freelander RC7081 Toz Torbasız Süp (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 10071.65
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: Fakir Freelander RC7081 Toz Torbasız Süp (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000039106
+2025-04-16 07:02:38 - INFO - Urun: PHILIPS BRE255/05 Satinelle Essential Ka (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 934.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: PHILIPS BRE255/05 Satinelle Essential Ka (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000036129
+2025-04-16 07:02:38 - INFO - Urun: Arzum AR3129 Deminde Çay Makinesi (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 2379.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: Arzum AR3129 Deminde Çay Makinesi (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000027725
+2025-04-16 07:02:38 - INFO - Urun: VESTEL 32FA9530 32" 80 EKRAN FHD SMART ANDROID TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 9859.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: VESTEL 32FA9530 32" 80 EKRAN FHD SMART ANDROID TV (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000029878
+2025-04-16 07:02:38 - INFO - Urun: AXEN AX43DIL540 43" 108 Ekran FHD WebOS (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 8499.15
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: AXEN AX43DIL540 43" 108 Ekran FHD WebOS (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000030690
+2025-04-16 07:02:38 - INFO - Urun: VESTEL 70QA9700 70" 177 EKRAN 4K UHD AND (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 38971.65
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: VESTEL 70QA9700 70" 177 EKRAN 4K UHD AND (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000037750
+2025-04-16 07:02:38 - INFO - Urun: SAMSUNG 75QN800D 75" 190 EKRAN 8K UHD NE (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 113214.9
+2025-04-16 07:02:38 - INFO - Yeni urun kaydedildi: SAMSUNG 75QN800D 75" 190 EKRAN 8K UHD NE (TESHIR)
+2025-04-16 07:02:38 - INFO - Islenen urun ID: T100000037775
+2025-04-16 07:02:39 - INFO - Urun: SAMSUNG 75QN90D 75" 190 EKRAN 4K UHD NEO QLED TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 80124.4
+2025-04-16 07:02:39 - INFO - Yeni urun kaydedildi: SAMSUNG 75QN90D 75" 190 EKRAN 4K UHD NEO QLED TV (TESHIR)
+2025-04-16 07:02:39 - INFO - Islenen urun ID: T100000037847
+2025-04-16 07:02:39 - INFO - Urun: SAMSUNG 85QN900D 85" 214 EKRAN 8K UHD NE (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 217688.4
+2025-04-16 07:02:39 - INFO - Yeni urun kaydedildi: SAMSUNG 85QN900D 85" 214 EKRAN 8K UHD NE (TESHIR)
+2025-04-16 07:02:42 - INFO - Bulunan buton metni: Daha Fazla Ürün Gör (2 / 4)
+2025-04-16 07:02:42 - INFO - 'Daha Fazla Ürün Gör' butonuna tıklandı. Sayfa 3 yükleniyor...
+2025-04-16 07:02:47 - INFO - Yeni ürünler yüklendi. Önceki: 40, Şimdi: 60
+2025-04-16 07:02:47 - INFO - Sayfa 3 taraniyor...
+2025-04-16 07:02:47 - INFO - Sayfa 3'de 60 adet ürün bulundu.
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000037855
+2025-04-16 07:02:47 - INFO - Urun: SAMSUNG 85QN90D 85" 214 EKRAN 4K UHD NEO (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 139297.15
+2025-04-16 07:02:47 - INFO - Yeni urun kaydedildi: SAMSUNG 85QN90D 85" 214 EKRAN 4K UHD NEO (TESHIR)
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000037869
+2025-04-16 07:02:47 - INFO - Urun: SAMSUNG 55Q67D 55" 139 EKRAN 4K UHD QLED TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 31355.65
+2025-04-16 07:02:47 - INFO - Yeni urun kaydedildi: SAMSUNG 55Q67D 55" 139 EKRAN 4K UHD QLED TV (TESHIR)
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000038550
+2025-04-16 07:02:47 - INFO - Urun: PHILIPS 65OLED809/12 65" 164 EKRAN 4K UH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 76499.15
+2025-04-16 07:02:47 - INFO - Yeni urun kaydedildi: PHILIPS 65OLED809/12 65" 164 EKRAN 4K UH (TESHIR)
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000038560
+2025-04-16 07:02:47 - INFO - Urun: PHILIPS 75PML9009/12 75" 189 EKRAN 4K UH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 72249.15
+2025-04-16 07:02:47 - INFO - Yeni urun kaydedildi: PHILIPS 75PML9009/12 75" 189 EKRAN 4K UH (TESHIR)
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000038571
+2025-04-16 07:02:47 - INFO - Urun: PHILIPS 85PML9009/12 85" 215 EKRAN 4K UH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 89249.15
+2025-04-16 07:02:47 - INFO - Yeni urun kaydedildi: PHILIPS 85PML9009/12 85" 215 EKRAN 4K UH (TESHIR)
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000040637
+2025-04-16 07:02:47 - INFO - Urun: PREO PR43DAB540 43'' FHD WEBOS 2.0 TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 9349.15
+2025-04-16 07:02:47 - INFO - Yeni urun kaydedildi: PREO PR43DAB540 43'' FHD WEBOS 2.0 TV (TESHIR)
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000043031
+2025-04-16 07:02:47 - INFO - Urun: SAMSUNG 77S90D 77" 195 EKRAN 4K UHD OLED TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 111561.65
+2025-04-16 07:02:47 - INFO - Yeni urun kaydedildi: SAMSUNG 77S90D 77" 195 EKRAN 4K UHD OLED TV (TESHIR)
+2025-04-16 07:02:47 - INFO - Islenen urun ID: T100000043099
+2025-04-16 07:02:48 - INFO - Urun: VESTEL 65UA9740 65" 165 EKRAN 4K UHD ANDROID TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 28049.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: VESTEL 65UA9740 65" 165 EKRAN 4K UHD ANDROID TV (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000033557
+2025-04-16 07:02:48 - INFO - Urun: VESTEL 70UA9630 70" 177 EKRAN 4K UHD AND (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 28049.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: VESTEL 70UA9630 70" 177 EKRAN 4K UHD AND (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000033562
+2025-04-16 07:02:48 - INFO - Urun: VESTEL 65UA9631 65" 165 EKRAN 4K UHD AND (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 28047.45
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: VESTEL 65UA9631 65" 165 EKRAN 4K UHD AND (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000033597
+2025-04-16 07:02:48 - INFO - Urun: VESTEL 55UA9631 55" 139 EKRAN 4K UHD ANDROID SMART TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 19547.45
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: VESTEL 55UA9631 55" 139 EKRAN 4K UHD ANDROID SMART TV (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000034839
+2025-04-16 07:02:48 - INFO - Urun: PHILIPS 55PUS8909/62 55" 139 EKRAN 4K UH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 35699.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: PHILIPS 55PUS8909/62 55" 139 EKRAN 4K UH (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000034840
+2025-04-16 07:02:48 - INFO - Urun: PHILIPS 75PUS8309/12 75" 189 EKRAN 4K UHD TITAN OS AMBILIGHT TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 46749.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: PHILIPS 75PUS8309/12 75" 189 EKRAN 4K UHD TITAN OS AMBILIGHT TV (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000034880
+2025-04-16 07:02:48 - INFO - Urun: PHILIPS 65PUS8909/62 65" 164 EKRAN 4K UH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 42499.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: PHILIPS 65PUS8909/62 65" 164 EKRAN 4K UH (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000035500
+2025-04-16 07:02:48 - INFO - Urun: SAMSUNG 55QN90D 55" 139 EKRAN 4K UHD QLE (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 53102.9
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: SAMSUNG 55QN90D 55" 139 EKRAN 4K UHD QLE (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000035562
+2025-04-16 07:02:48 - INFO - Urun: SAMSUNG 65DU850065" 165 EKRAN 4K UHD CRYSTAL TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 35257.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: SAMSUNG 65DU850065" 165 EKRAN 4K UHD CRYSTAL TV (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000035566
+2025-04-16 07:02:48 - INFO - Urun: AXEN AX32DAL540 32" 80 EKRAN HD WEBOS SM (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 5099.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: AXEN AX32DAL540 32" 80 EKRAN HD WEBOS SM (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000035643
+2025-04-16 07:02:48 - INFO - Urun: SAMSUNG 65QN85D 65" 165 EKRAN 4K UHD NEO (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 53549.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: SAMSUNG 65QN85D 65" 165 EKRAN 4K UHD NEO (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000035656
+2025-04-16 07:02:48 - INFO - Urun: SAMSUNG 65QN90D 65" 165 EKRAN 4K UHD NEO QLED TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 67914.15
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: SAMSUNG 65QN90D 65" 165 EKRAN 4K UHD NEO QLED TV (TESHIR)
+2025-04-16 07:02:48 - INFO - Islenen urun ID: T100000035914
+2025-04-16 07:02:48 - INFO - Urun: SAMSUNG 55QN85D 55" 139 EKRAN 4K UHD QLE (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 44432.9
+2025-04-16 07:02:48 - INFO - Yeni urun kaydedildi: SAMSUNG 55QN85D 55" 139 EKRAN 4K UHD QLE (TESHIR)
+2025-04-16 07:02:51 - INFO - Bulunan buton metni: Daha Fazla Ürün Gör (3 / 4)
+2025-04-16 07:02:52 - INFO - 'Daha Fazla Ürün Gör' butonuna tıklandı. Sayfa 4 yükleniyor...
+2025-04-16 07:02:57 - INFO - Yeni ürünler yüklendi. Önceki: 60, Şimdi: 72
+2025-04-16 07:02:57 - INFO - Sayfa 4 taraniyor...
+2025-04-16 07:02:57 - INFO - Sayfa 4'de 72 adet ürün bulundu.
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000035934
+2025-04-16 07:02:57 - INFO - Urun: SAMSUNG 65Q70D 65" 165 EKRAN 4K UHD QLED (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 47900.9
+2025-04-16 07:02:57 - INFO - Yeni urun kaydedildi: SAMSUNG 65Q70D 65" 165 EKRAN 4K UHD QLED (TESHIR)
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000036695
+2025-04-16 07:02:57 - INFO - Urun: SAMSUNG 98Q80C 98" 248 EKRAN 4K UHD QLED TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 174121.65
+2025-04-16 07:02:57 - INFO - Yeni urun kaydedildi: SAMSUNG 98Q80C 98" 248 EKRAN 4K UHD QLED TV (TESHIR)
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000037204
+2025-04-16 07:02:57 - INFO - Urun: LG 65QNED86T6A.APDZ 65" 165 EKRAN 4K UHD WEBOS QNED TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 46749.15
+2025-04-16 07:02:57 - INFO - Yeni urun kaydedildi: LG 65QNED86T6A.APDZ 65" 165 EKRAN 4K UHD WEBOS QNED TV (TESHIR)
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000038841
+2025-04-16 07:02:57 - INFO - Urun: LG 65UT91006LA.APDZ 65" 165 EKRAN 4K UHD (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 36549.15
+2025-04-16 07:02:57 - INFO - Yeni urun kaydedildi: LG 65UT91006LA.APDZ 65" 165 EKRAN 4K UHD (TESHIR)
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000037360
+2025-04-16 07:02:57 - INFO - Urun: SAMSUNG 50DU7000 50" 127 EKRAN 4K UHD CRYSTAL TV (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 26179.15
+2025-04-16 07:02:57 - INFO - Yeni urun kaydedildi: SAMSUNG 50DU7000 50" 127 EKRAN 4K UHD CRYSTAL TV (TESHIR)
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000037271
+2025-04-16 07:02:57 - INFO - Urun: LG 65QNED80T6A.APEZ 65" 165 EKRAN 4K UHD (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 41649.15
+2025-04-16 07:02:57 - INFO - Yeni urun kaydedildi: LG 65QNED80T6A.APEZ 65" 165 EKRAN 4K UHD (TESHIR)
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000034568
+2025-04-16 07:02:57 - INFO - Urun: GRUNDIG 65 GHQ 9500 65'' 164 EKRAN 4K UH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 31015.65
+2025-04-16 07:02:57 - INFO - Yeni urun kaydedildi: GRUNDIG 65 GHQ 9500 65'' 164 EKRAN 4K UH (TESHIR)
+2025-04-16 07:02:57 - INFO - Islenen urun ID: T100000037194
+2025-04-16 07:02:58 - INFO - Urun: LG 55QNED86T6A.APDZ 55" 139 EKRAN 4K UHD (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 35699.15
+2025-04-16 07:02:58 - INFO - Yeni urun kaydedildi: LG 55QNED86T6A.APDZ 55" 139 EKRAN 4K UHD (TESHIR)
+2025-04-16 07:02:58 - INFO - Islenen urun ID: T100000037309
+2025-04-16 07:02:58 - INFO - Urun: LG 75UT81006LA.APD 75" 190 EKRAN 4K UHD (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 44199.15
+2025-04-16 07:02:58 - INFO - Yeni urun kaydedildi: LG 75UT81006LA.APD 75" 190 EKRAN 4K UHD (TESHIR)
+2025-04-16 07:02:58 - INFO - Islenen urun ID: T100000037876
+2025-04-16 07:02:58 - INFO - Urun: SAMSUNG 98QN90D 98" 248 EKRAN 4K UHD NEO (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 217688.4
+2025-04-16 07:02:58 - INFO - Yeni urun kaydedildi: SAMSUNG 98QN90D 98" 248 EKRAN 4K UHD NEO (TESHIR)
+2025-04-16 07:02:58 - INFO - Islenen urun ID: T100000038582
+2025-04-16 07:02:58 - INFO - Urun: PHILIPS 55OLED809/12 55" 139 EKRAN 4K UH (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 56099.15
+2025-04-16 07:02:58 - INFO - Yeni urun kaydedildi: PHILIPS 55OLED809/12 55" 139 EKRAN 4K UH (TESHIR)
+2025-04-16 07:02:58 - INFO - Islenen urun ID: T100000039062
+2025-04-16 07:02:58 - INFO - Urun: LG 65NANO81T6A.APEZ 65" 165 EKRAN 4K UHD (TESHIR), Indirim: %0.0, Sifir Fiyati: 0.0, Outlet Fiyati: 33999.15
+2025-04-16 07:02:58 - INFO - Yeni urun kaydedildi: LG 65NANO81T6A.APEZ 65" 165 EKRAN 4K UHD (TESHIR)
+2025-04-16 07:03:10 - INFO - 'Daha Fazla Ürün Gör' butonu bulunamadı. Muhtemelen son sayfadayız.
+2025-04-16 07:03:10 - INFO - Toplam 72 urun islendi. 0 urun %25+ indirimli olarak bildirildi.
